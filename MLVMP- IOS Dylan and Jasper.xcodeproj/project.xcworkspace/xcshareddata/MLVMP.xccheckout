@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BDC753FD-54D2-41BE-BF05-3211F09D7309</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MLVMP</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>C90F7E0479CEDFA9BC6E0D10A35C1B21D04C8BC4</key>
+		<string>http://git.asap.um.maine.edu/mvlmp.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>iOS/MLVMP- IOS Dylan and Jasper/MLVMP.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>C90F7E0479CEDFA9BC6E0D10A35C1B21D04C8BC4</key>
+		<string>../../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>http://git.asap.um.maine.edu/mvlmp.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>C90F7E0479CEDFA9BC6E0D10A35C1B21D04C8BC4</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>C90F7E0479CEDFA9BC6E0D10A35C1B21D04C8BC4</string>
+			<key>IDESourceControlWCCName</key>
+			<string>mvlmp</string>
+		</dict>
+	</array>
+</dict>
+</plist>

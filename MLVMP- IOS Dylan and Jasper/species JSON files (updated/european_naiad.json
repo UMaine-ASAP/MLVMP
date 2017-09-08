@@ -1,0 +1,67 @@
+{
+    "name":"European Naiad",
+    "scientific name":"Najas minor",
+    "pictures":
+    [
+     "european_naiad1.jpg",
+     "european_naiad2.jpg",
+     "european_naiad3.jpg",
+     "european_naiad4.jpg",
+     "european_naiad5.jpg"
+     ],
+    "information":
+    { "Other Name(s)":
+        [
+         "Spiny Naiad"
+         ],
+        "Family":
+        [
+         "Hydrocharitaceae"
+         ],
+        "Invasive":
+        [
+        ],
+        "Identifying Characteristics":
+        [ "Submersed aquatic plant",
+         "Stems: stiff, green",
+         "Leaves: Small (rarely >3.5cm long, 0.3-.5mm wide), strap-shaped, pointed with distinctly serrated margins, arranged in opposite, sub-opposite, whorls or clumps",
+         "Flowers: small, inconspicuous, borne in leaf axils",
+         "Fruits/Seeds: purplish, 2.5-3mm long, spindle shaped and slightly curved",
+         "Other:"
+         ],
+        "Biology":
+        [ "True annual",
+         "Primary reproduction: seed",
+         "Also reproduces by fragmentation"
+         ],
+        "Habitat":
+        [ "Submersed community",
+         "Ponds, lakes, slow moving streams",
+         "Prefers sand, gravel but can thrive in wide substrate range",
+         "Tolerant of turbidity and eutrophic conditions"
+         ],
+        "Look Alikes":
+        [
+         "Brittlewort",
+         "Fine-leaved Pondweeds",
+         "Muskgrass",
+         "Other Naiads"
+         ],
+        "Commonly Seen":
+        [ 
+         "Midwater - Shallow"
+         ],
+        "Range":
+        [ "Northeast US Range: Maine, New Hampshire, Massachusetts, Vermont, New York",
+         "Native range: Europe"
+         ]
+    },
+    "tags":
+    [
+     "flora",
+     "vascular aquatic plants",
+     "plants with blade-shaped leaves on stems",
+     "fine slender leaves - not arranged in whorls",
+     "shallow"
+     ]
+}

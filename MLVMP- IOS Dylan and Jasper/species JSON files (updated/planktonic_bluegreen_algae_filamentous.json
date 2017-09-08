@@ -1,0 +1,62 @@
+{
+	"name":"Planktonic Blue-green Algae (Filamentous)",
+	"scientific name":"Anabaena, Aphanizomenon, Oscillatoria (a.k.a. Planktothrix), others",
+	"pictures":
+	[
+		"plnk_blgrn_algae_fil1.jpg",
+		"plnk_blgrn_algae_fil2.jpg",
+		"plnk_blgrn_algae_fil3.jpg"
+
+	],
+	"information":
+	{	
+		"Classification":
+		[
+			"Cyanobacteria"
+		],
+
+		"Identifying Characteristics":
+		[	"Gray, blue-green, or green water looks murky (like thin paint)",
+			"Color is caused by proliferation of microscopic free-floating (planktonic) plants, suspended in the top few feet of water of a pond or lake where light is bright enough for algae to produce food by photosynthesis",
+			"Tiny filaments of some species may be visible to the naked eye",
+			"Dense surface scums may produce a strong unpleasant (pig-pen-like) odor.",
+			"Characteristics vary depending upon genus/species:\n\n- Anabaena blooms may cause the lake water to look like green paint or pea soup, with slimy, shiny mats forming at the surface.  Some anabaena species also form colonies, which are seen as large dark dots or splotches in the water.  Individual filaments are generally hard to see without magnification.  Under the microscope Anabaena consists of chains of round or sometimes barrel-shaped cells with distinct, non-pigmented, heterocysts occurring at intervals along the chain.  (Heterocysts are specialized cells that fix atmospheric nitrogen.) The chains may be straight or spiral.\n\n- Aphanizomenon produces straight unbranched filaments which may aggregate in parallel lines, forming \"rafts,\" some of which are several centimeters wide and long.  The bloom map resemble scattered grass clippings on the water, due to the aggregation of individual filaments when they float to the surface.\n\n- Oscillatoria (a.k.a Planktothrix) forms long, slender, straight filaments that usually remain distinct within the mat producing a \"hairy\" appearance; the filaments are generally visible without magnification."
+		],
+
+		"Biology":
+		[	"Cyanobacteria are a group of photosynthetic, nitrogen fixing bacteria",
+			"Propagation through cell division; some species form filaments comprised of single cells joined end to end",
+			"Some species have gas vesicles that allow them to regulate buoyancy and to migrate up and down throughout the water column.",
+			"Cyanobacteria are naturally occurring in most Maine lakes, and are vital components of lake ecosystems.",
+			"When conditions cause algae to \"bloom\" (multiply rapidly), the natural toxins produced by some cyanobacteria species may accumulate in harmful concentrations. These are known as \"cyanobacterial harmful algal blooms\" (cyanoHABs).  Cyanobacteria HABs may be harmful (even fatal) to wildlife, domestic animals, and humans.",
+			"Cyanobacteria toxins can affect the liver (hepatotoxins), the nervous system (neurotoxins) and the skin (acutely dermatotoxins).  The most common exposures to cyanobacteria and their toxins are believed to occur during recreational activities where the cyanobacteria may be swallowed, inhaled, or exposed to the skin.",
+			"Not all cyanobacteria and/or cyanobacteria blooms are toxic."
+
+		],
+
+		"Habitat":
+		[	"Lakes", 
+			"Ponds", 
+			"Still waters"
+			
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Midwater - Shallow"
+			
+		],
+
+		"Range":
+		[	"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"algae",
+		"algae that color the water",
+		"surface",
+		"shallow"
+	]
+}

@@ -1,0 +1,82 @@
+{
+	"name":"Largemouth Bass",
+	"scientific name":"Micropterus salmoides",
+	"pictures":
+	[
+		"largemouth_bass1.jpg",
+		"largemouth_bass2.jpg",
+		"largemouth_bass3.jpg",
+		"largemouth_bass4.jpg",
+		"largemouth_bass5.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Centrarchidae"
+		],
+		"Invasive":
+		[
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Relatively elongate body",
+			"Back and sides olive to gray to black, grading to grayish white on undersides",
+			"Distinct dark, wide band that extends horizontally along its side",
+			"Jaw extends beyond the posterior margin of the eye"
+			
+		],
+
+		"Biology":
+		[	
+			"Spawn in late spring or early summer",
+			"Live older than 15 years",
+			"Size: some exceed 20 inches length, 8-11 pounds weight (more commonly 2-3 lbs)"
+
+		],
+
+		"Diet":
+		[
+			"Crustaceans",
+			"Aquatic insects",
+			"Frogs",
+			"Worms",
+			"Fish"
+		],
+
+		"Habitat":
+		[	"Ponds",
+			"Lakes"
+
+		],
+		"Look-Alikes":
+		[
+			"Smallmouth Bass"
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	
+			"Native Range: Great Lakes and Mississippi drainages, up the East Coast from Florida to Virginia",
+			"Introduced Range: throughout the United States, British Isles, France, Germany, South Africa, Brazil, the Philippines, and Hong Kong"
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"warm water fish",
+		"shallow",
+		"deep"
+		
+	]
+}

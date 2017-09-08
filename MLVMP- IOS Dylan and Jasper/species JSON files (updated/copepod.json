@@ -1,0 +1,71 @@
+{
+	"name":"Copepod",
+	"scientific name":"Coryaeus spp., Macrocyclops spp.",
+	"pictures":
+	[
+		"copepod1.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Scud",
+			"Sideswimmer"
+		],
+		"Subclass":
+		[
+			"Copepoda"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Teardrop-shaped body",
+			"Large antennae",
+			"Size: 1 to 2 mm long",
+			"Most have single median compound eye that is bright red",
+			"Rounded or beaked head",
+			"Two pairs of antennae – one pair is often long and conspicuous"
+
+		],
+
+		"Biology":
+		[	
+			"Reproduce throughout year",
+			"Eggs hatch into nauplius larvae – consist of head with a tail"
+		],
+
+		"Diet":
+		[
+			"Algae"
+		],
+
+		"Habitat":
+		[	
+			"Nearly every freshwater habitat"
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Midwater - Shallow",
+			"Midwater - Deep",
+			"Lake bottom"
+
+
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"crustaceans",
+		"not crayfish",
+		"surface",
+		"shallow",
+		"deep",
+		"bottom"
+	]
+}

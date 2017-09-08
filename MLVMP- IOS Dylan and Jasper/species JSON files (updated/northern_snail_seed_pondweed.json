@@ -1,0 +1,76 @@
+{
+	"name":"Northern Snail-seed Pondweed",
+	"scientific name":"Potamogeton spirillus",
+	"pictures":
+	[
+		"northern_pondweed1.jpg",
+		"northern_pondweed2.jpg",
+		"northern_pondweed3.jpg",
+		"northern_pondweed4.jpg",
+		"northern_pondweed5.jpg",
+		"northern_pondweed6.jpg",
+		"northern_pondweed7.jpg",
+		"northern_pondweed8.jpg",
+		"northern_pondweed9.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Spiral-fruited Pondweed"
+		],
+		"Family":
+		[
+			"Potamogetonaceae"
+		],
+		
+		"Identifying Characteristics":
+		[	"Submersed aquatic plant",
+			"Stems: slender, profusely branching, slightly compressed in cross-section",
+			"Leaves: light green to golden, two types: submersed – entire, narrow strap-shaped (1-8cm long, 0.5-2mm wide), rounded at tip, slightly curled, no petiole, alternately arranged in spirals, translucent bands on both sides of midvein, stipules fused; floating – small (0.7-3.5cm long), oval on slender petioles",
+			"Flowers:  spring, minute and inconspicuous",
+			"Fruits/Seeds: midsummer, look flattened, faintly spiral disks, tiny in clusters in leaf axils or on ends of thread-like stalks",
+			"Other:"
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: rhizome, seed"
+		],
+
+		"Habitat":
+		[	"Submersed community",
+			"Quiet portions of lakes, ponds",
+			"Slow moving streams",
+			"Prefers neutral to acidic waters"
+		],
+
+		"Look Alikes":
+		[
+			"Brittlewort",
+			"European Naiad",
+			"Muskgrass",
+			"Other Naiads",
+			"Other Fine-leaved Pondweeds"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+			
+		],
+
+		"Range":
+		[	"Native Range: Maine, New England, northeast and north central United States"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with blade-shaped leaves on stems",
+		"fine slender leaves - not arranged in whorls",
+		"shallow"
+	]
+}

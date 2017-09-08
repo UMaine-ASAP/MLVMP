@@ -1,0 +1,63 @@
+{
+    "name":"Red Swamp Crayfish",
+    "scientific name":"Procambarus clarkii",
+    "pictures":
+    [
+     "red_swamp_crayfish1.jpg"
+     ],
+    "information":
+    {
+        "Family":
+        [
+         "Cambaridae"
+         ],
+        "Identifying Characteristics":
+        [
+         "Adults are large (5.5 cm 12 cm in length) ",
+         "Adults – Red, Juveniles – Brown",
+         "Long, somewhat narrow claws",
+         "Claws covered with red, white or black bumps (tubercules)",
+         "Black “V” pattern on the dorsal side of the tail (abdomen)",
+         "Salt and pepper pattern of spotting in black, grey, white or red over the carapace"
+         ],
+        "Biology":
+        [
+         "Sexual reproduction",
+         "Possible parthenogenesis"
+         ],
+        "Diet":
+        [
+         "Live and decaying vegetation",
+         "Insect larvae",
+         "Small fishes",
+         "Dead animal matter",
+         "Tadpoles, snails, newts "
+         ],
+        "Habitat":
+        [
+         "Burrow to find moisture, food, warmth, and for protection during the molting process",
+         "Can survive temporary waters",
+         "Slow moving streams",
+         "Lakes, ponds",
+         "Marshes",
+         "Ditches"
+         ],
+        "Commonly Seen":
+        [ 
+         "Midwater - Shallow",
+         "Lake bottom"
+         ],
+        "Range":
+        [ 
+         "Native Range: Southeastern United States and other parts of the world"
+         ]
+    },
+    "tags":
+    [
+     "fauna",
+     "crustaceans",
+     "crayfish",
+     "shallow",
+     "bottom"
+     ]
+}

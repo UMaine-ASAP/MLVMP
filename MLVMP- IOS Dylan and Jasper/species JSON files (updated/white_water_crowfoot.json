@@ -1,0 +1,71 @@
+{
+	"name":"White Water Crowfoot",
+	"scientific name":"Ranunculus aquatilis",
+	"pictures":
+	[
+		"white_water_crowfoot1.jpg",
+		"white_water_crowfoot2.jpg",
+		"white_water_crowfoot3.jpg",
+		"white_water_crowfoot4.jpg",
+		"white_water_crowfoot5.jpg",
+		"white_water_crowfoot6.jpg",
+		"white_water_crowfoot7.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Ranunculaceae"
+		],
+		
+		"Identifying Characteristics":
+		[	"Submersed aquatic plant",
+			"Stems: long, branching",
+			"Leaves: small (1-2cm long), branch divided, alternately arranged, delicate, thread-like, slender petioles that widen at stem to form clasping sheath that wraps around stem",
+			"Flowers: early summer, small white buttercup-like flowers with five petals",
+			"Fruits/Seeds: midsummer, tiny beaked nutlets in clusters on slender stalks",
+			"Other: "
+		
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: seed, fragmentation, rhizome"
+		],
+
+		"Habitat":
+		[	"Submersed community",
+			"Quiet to slow moving water"
+		],
+
+		"Look Alikes":
+		[
+			"Bladderworts",
+			"Fanwort",
+			"Hornworts",
+			"Leafy Watermilfoils",
+			"Water Marigold",
+			"Yellow Water Crowfoot"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	"Native Range: Maine, New England, much of United States"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with finely-divided leaves on stems",
+		"fork or branch divided leaves",
+		"shallow"
+
+	]
+}

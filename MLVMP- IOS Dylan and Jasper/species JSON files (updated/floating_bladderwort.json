@@ -1,0 +1,80 @@
+{
+	"name":"Floating Bladderwort",
+	"scientific name":"Utricularia radiata",
+	"pictures":
+	[
+		"floating_bladderwort1.jpg",
+		"floating_bladderwort2.jpg",
+		"floating_bladderwort3.jpg",
+		"floating_bladderwort4.jpg",
+		"floating_bladderwort5.jpg",
+		"floating_bladderwort6.jpg",
+		"floating_bladderwort7.jpg",
+		"floating_bladderwort8.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Northern Water-Nymph"
+		],
+		"Family":
+		[
+			"Lentibulariaceae"
+		],
+		
+
+		"Identifying Characteristics":
+		[	"Submersed aquatic plant; very delicate in appearance",
+		    "Stems: medium length; branching; delicate; flaccid",      
+		    "Leaves: typically pale green, finely branch-divided, alternately arranged", 
+		    "Flowers: midsummer, yellow snapdragon-like; a single flower stalk (often with multiple flowers) emerges from an inflated ‘raft’ comprised of 4 - 7 air-filled leaves arranged in a whorl; floating leaves are flattened, elongate, and finely branched toward the tip",       
+		    "Fruits/Seeds: capsule on stalk",       
+		    "Other: carnivorous - tiny lopsided sack-like bladders (used to capture prey such as zooplankton or small insects) are attached directly to submersed leaves" 
+			
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: fragmentation, turions"
+			
+		],
+
+		"Habitat":
+		[	"Submersed and floating plant community",
+			"Lakes, ponds, slow moving streams, wetland pools"
+		],
+
+		"Look Alikes":
+		[
+			"Other Bladderworts",
+			"Fanwort",
+			"Hornworts",
+			"Water Crowfoots",
+			"Water Marigold",
+			"Leafy Watermilfoils"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+			
+		],
+
+		"Range":
+		[	"Native Range: Maine, much of New England, some other parts of the United States"
+		]
+		
+		
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with finely-divided leaves on stems",
+		"fork or branch divided leaves",
+		"shallow"
+	]
+
+}

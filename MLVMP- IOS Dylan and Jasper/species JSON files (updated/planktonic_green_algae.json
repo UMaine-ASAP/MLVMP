@@ -1,0 +1,52 @@
+{
+	"name":"Planktonic Green Algae",
+	"scientific name":"Scenedesmus, Pediastrum, Oocystis, Cosmarium, Staurastrum, others",
+	"pictures":
+	[
+		"plnk_green_algae1.jpg",
+		"plnk_green_algae2.jpg"
+
+	],
+	"information":
+	{	
+		"Classification":
+		[
+			"Chlorophyta"
+		],
+
+		"Identifying Characteristics":
+		[	"Grass-green colored water looks murky (like green paint); individual algae are rarely visible",
+			"Color is caused by proliferation of microscopic free-floating (planktonic) plants, suspended in the top few feet of water of a pond or lake where light is bright enough for algae to produce food by photosynthesis",
+			
+			"Under a microscope green algae takes many forms.  Some species are egg-shaped, some filamentous; others resemble barrels, snowflakes, bugs and more!"
+		],
+
+		"Biology":
+		[	"Reproduction is asexual, by vegetative cell division",
+			"Life cycles may include both single cell stage (some propelled by flagella) and multicellular stages consisting of cells being joined into thread-like filaments or geometric shapes",
+			"Numerous green algae species are naturally occurring in most Maine lakes, and are vital components of lake ecosystems"
+		],
+
+		"Habitat":
+		[	"Lakes; ponds; wetlands",
+			"Low water flow areas"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+			
+		],
+
+		"Range":
+		[	"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"algae",
+		"algae that color the water",
+		"shallow"
+	]
+}

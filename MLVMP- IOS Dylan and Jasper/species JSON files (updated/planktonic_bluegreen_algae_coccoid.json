@@ -1,0 +1,65 @@
+{
+	"name":"Planktonic Blue-green Algae (not filamentous)",
+	"scientific name":"Microcystis, Woronichinia, Gomphosphaeria, Aphanocapsa, others",
+	"pictures":
+	[
+		"plnk_blgrn_algae_c1.jpg",
+		"plnk_blgrn_algae_c2.jpg",
+		"plnk_blgrn_algae_c3.jpg"
+
+	],
+	"information":
+	{	
+		"Classification":
+		[
+			"Cyanobacteria"
+		],
+
+		"Identifying Characteristics":
+		[	"Light green to bluish water looks murky (like thin paint); individual algae are rarely visible",
+			"Color is caused by proliferation of microscopic free-floating (planktonic) plants, suspended in the top few feet of water of a pond or lake where light is bright enough for algae to produce food by photosynthesis",
+			"During blooms, paint-like (sometimes granular) floating scums may form and be pushed to shore by the wind, where they accumulate and decay",
+			"Most cyanobacterial blooms produce a strong unpleasant (pig-pen-like) odor.",
+			"Under a microscope this group of blue-green algae are spherical or globular.  Some are colonial.",
+			"Microcystis is generally colonial; individual colonies may be visible as extremely-tiny floating specks.  Under the microscope, the specks appear as cluster of small round cells surrounded by a gelatinous envelope."
+		],
+		"Biology":
+		[	"Cyanobacteria are a group of photosynthetic, nitrogen fixing bacteria",
+			"Reproduction is asexual, by vegetative cell division",
+			"Some species have gas vesicles that allow them to regulate buoyancy and to migrate up and down throughout the water column.",
+			"Cyanobacteria are naturally occurring in most Maine lakes, and are vital components of lake ecosystems.",
+			"When conditions cause algae to \"bloom\" (multiply rapidly), the natural toxins produced by some cyanobacteria species may accumulate in harmful concentrations. These are known as \"cyanobacterial harmful algal blooms\" (cyanoHABs).  Cyanobacteria HABs may be harmful (even fatal) to wildlife, domestic animals, and humans.",
+			"Cyanobacteria toxins can affect the liver (hepatotoxins), the nervous system (neurotoxins) and the skin (acutely dermatotoxins).  The most common exposures to cyanobacteria and their toxins are believed to occur during recreational activities where the cyanobacteria may be swallowed, inhaled, or exposed to the skin.  Toxic blooms can be concentrated along the lee shores of lakes.",
+			"Cyanobacteria scums that wash to shore may continue to release toxins into water for several months after the cells have died.",
+			"Not all cyanobacteria and/or cyanobacteria blooms are toxic.  "
+
+		],
+
+		"Habitat":
+		[	"Ponds",
+			"Lakes",
+			"Still waters"
+			
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Midwater - Shallow",
+			"Lake bottom"
+			
+		],
+
+		"Range":
+		[	"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"algae",
+		"algae that color the water",
+		"surface",
+		"shallow",
+		"bottom"
+	]
+}

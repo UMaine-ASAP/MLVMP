@@ -1,0 +1,85 @@
+{
+	"name":"Smallmouth Bass",
+	"scientific name":"Micropterus dolomieu",
+	"pictures":
+	[
+		"smallmouth_bass1.jpg",
+		"smallmouth_bass2.jpg",
+		"smallmouth_bass3.jpg",
+		"smallmouth_bass4.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Centrarchidae"
+		],
+		"Invasive":
+		[
+			
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Relatively elongate body",
+			"Olive to gray, shading into a light yellow green on lower flank",
+			"Dark vertical markings may be present",
+			"Posterior end of the upper jaw extends no farther than posterior edge the orbit of the eye"
+			
+		],
+
+		"Biology":
+		[	
+			"Spawn May or early June over gravel or rocky bottom",
+			"Live up to 14-15 years",
+			"Size: Up to 8 lbs, but few exceed 4 pounds and 18-20 inches in length"
+
+
+		],
+
+		"Diet":
+		[
+			"Do not feed in winter",
+			"Aquatic insects",
+			"Crayfish",
+			"Minnows"
+
+
+		],
+
+		"Habitat":
+		[	"Warm water lakes",
+			"Slow moving rivers"
+
+		],
+		"Look-Alikes":
+		[
+			"Largemouth bass"
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	
+			"Native Range: Great Lakes, St. Lawrence, and Mississippi drainages",
+			"Introduced Range: throughout United States, southern Canada, areas of Europe and Africa"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"warm water fish",
+		"shallow",
+		"deep"
+		
+	]
+}

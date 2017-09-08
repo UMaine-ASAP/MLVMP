@@ -1,0 +1,65 @@
+{
+    "name":"Water Marigold",
+    "scientific name":"Bidens beckii",
+    "pictures":
+    [
+     "water_marigold1.jpg",
+     "water_marigold2.jpg",
+     "water_marigold3.jpg",
+     "water_marigold4.jpg",
+     "water_marigold5.jpg",
+     "water_marigold6.jpg",
+     "water_marigold7.jpg",
+     "water_marigold8.jpg",
+     "water_marigold9.jpg"
+     ],
+    "information":
+    {
+        "Family":
+        [
+         "Asteraceae"
+         ],
+        
+        "Identifying Characteristics":
+        [
+         "Stems: robust, up to 7m long, usually 8-10cm above water",
+         "Leaves: two types: submersed – widely branch divided, oppositely arranged, no petiole; emergent – lance-shaped, serrations, oppositely arranged, no petiole",
+         "Flowers: midsummer, showy yellow daisy-like (2-2.5cm wide) with (usually) 8 petals, among emergent leaves",
+         "Fruits/Seeds: late summer, dark brown achene narrow ( up to 12mm long), round to oval in cross-section, 3-6 needle-like bristles at base",
+         "Other: "
+         ],
+        "Biology":
+        [ "Perennial",
+         "Primary reproduction: fragmentation, rhizome",
+         "Reproduction by seed is rare in northeast"
+         ],
+        "Habitat":
+        [ "Submersed and emergent communities",
+         "Soft substrates of lakes and streams",
+         "Sensitive to water pollution"
+         ],
+        "Look Alikes":
+        [
+         "Bladderworts",
+         "Fanwort",
+         "Hornworts",
+         "Leafy Watermilfoils",
+         "Water Crowfoots"
+         ],
+        "Commonly Seen":
+        [ 
+         "Midwater - Shallow"
+         ],
+        "Range":
+        [ "Native Range: Maine, New England, much of northern United States"
+         ]
+    },
+    "tags":
+    [
+     "flora",
+     "vascular aquatic plants",
+     "plants with finely-divided leaves on stems",
+     "fork or branch divided leaves",
+     "shallow"
+     ]
+}

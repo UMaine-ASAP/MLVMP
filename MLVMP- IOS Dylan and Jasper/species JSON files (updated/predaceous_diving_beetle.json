@@ -1,0 +1,71 @@
+{
+	"name":"Predaceous Diving Beetle",
+	"pictures":
+	[
+		"predaceous_diving_beetle1.jpg",
+		"predaceous_diving_beetle2.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Coleoptera"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Worm-like up to 3 inches",
+			"Obvious head and large sickle-shaped piercing mandibles",
+			"3 pair legs",
+			"Sometimes called toe-biters",
+			"Adults are plain brown or black to highly patterned with spots or stripes, oval, round beetles"
+
+		],
+
+		"Biology":
+		[	
+			"Swim in schools (often erratically) at water surface",
+			"Adults breathe from bubble of air they carry"
+
+
+
+		],
+
+		"Diet":
+		[
+			"Predaceous"
+
+
+		],
+
+		"Habitat":
+		[	"Lakes",
+			"Ponds",
+			"Marshes"
+
+
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"surface",
+		"shallow"
+		
+	]
+}

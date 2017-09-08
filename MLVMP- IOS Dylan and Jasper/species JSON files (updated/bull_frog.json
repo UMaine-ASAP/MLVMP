@@ -1,0 +1,73 @@
+{
+	"name":"Bull Frog",
+	"scientific name":"Lithobates catesbeianus or Rana catesbeianus",
+	"pictures":
+	[
+		"bull_frog1.jpg",
+		"bull_frog2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Ranidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Adults are usually green or greenish-brown with an off-white underside blotched with yellow or gray",
+			 "Gold or brown eyes",
+			 "Broad flat head and body",
+			 "Adults have teeth in the roof of their mouth and a muscular tongue that can flip prey into their mouth", 
+			 "Limbs are typically blotched or banded with gray",
+			"Large leaps between 3’ and 6’",
+			 "Size: Males are smaller than females and be anywhere inbetween 3” and 6” in length"
+		],
+
+		"Biology":
+		[	
+			"Mating occurs roughly from late May to July and males call out unique songs to draw females to ponds",
+			"Females lay eggs in shallow water among vegetation and can lay up to tens of thousands of eggs and fertilization occurs in water",
+			"Eggs hatch within a week after fertilized and tadpoles emerge", 
+			"As the tadpoles continue to grow they move into deeper waters",
+			"Metamorphosis from a tadpole to an adult can take any amount of time between a few months to a few years depending on temperatures (colder temperatures mean longer development time)",     
+			"Lifespan is generally eight to ten years"
+		],
+
+		"Habitat":
+		[	
+			"Wetlands",
+			"Vegetation along the edge of large, slow-moving bodies of water, or the body of water itself"
+		],
+		"Diet":
+		[
+			"Tadpoles feed on single-celled algae, protozoans, pollen grains, and other small particles trapped in the filtration organs in their pharanges", 
+			"Adults will eat anything that it can swallow—including invertebrates and small vertebrates such as mammals, birds, reptiles, fish, even turtles and other frogs" 
+		],
+		
+
+		"Commonly Seen":
+		[	"Shoreline",
+			"Surface",
+			"Midwater - Shallow",
+			
+		],
+
+		"Range":
+		[	
+			"Eastern United States—ranging from as far north as Nova Scotia, all the way down to central Florida", 
+			"Also native as far west as Wisconsin and the Rockies and were introduced widely throughout Colorado, British Columbia, California, and other western states"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"amphibians",
+		"frogs",
+		"shoreline",
+		"surface",
+		"shallow"
+	
+	]
+}

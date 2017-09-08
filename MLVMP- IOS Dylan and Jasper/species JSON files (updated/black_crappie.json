@@ -1,0 +1,68 @@
+{
+	"name":"Black Crappie",
+	"scientific name":"Pomoxis nigromaculatus",
+	"pictures":
+	[
+		"black_crappie1.jpg",
+		"black_crappie2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Centrarchidae"
+		],
+		"Invasive":
+		[
+			
+		],
+		"Identifying Characteristics":
+		[	
+			"Rounded shaped fish, laterally compressed",
+			"Snout curves upward",
+			"General coloration silvery–olive to golden brown with irregular dark blotches",
+			"Anal fin approximately the same length as the base of their dorsal fin",
+			"5-7 anal spines, 7-8 dorsal spines"
+		],
+
+		"Biology":
+		[	
+			"Spawn in late May when temperatures approach 60 F",
+			"Live 8-9 years",
+			"Size: reach 16 inches long, fish exceeding 3 pounds caught in Maine"
+		],
+
+		"Diet":
+		[
+			"First few years: plankton, insect larvae",
+			"Adults switch to fish < 2 inches"
+		],
+
+		"Habitat":
+		[	"Vegetated areas of lakes"
+		],
+		"Look-Alikes":
+		[
+			"Pumpkinseed Sunfish",
+			"Readbreast Sunfish"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	
+			"Native Range: throughout United States"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"warm water fish",
+		"shallow"
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"name":"Fishfly",
+	"pictures":
+	[
+		"fishfly1.jpg",
+		"fishfly2.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Megaloptera"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Larvae have dark elongate, segmented bodies and dark shiny head with stout pinching jaws (mandibles); 8 pairs of lateral gills and a pair of siphons on terminal end",
+			"Adults are generally light tan or beige in color, and relatively large (body lengths up to 5 cm, and a wingspan up to 7.5 cm).  Two pair of large \"lacey\" wings (which are pressed together parallel to the body when at rest) account for much of the insectǯs profile.  Male fishflies have feathery (pectinate) antennae similar to those of many large moths."
+
+
+		],
+
+		"Biology":
+		[	
+			"Fishflies undergo 'complete' metamorphosis, passing through egg, larvae, and adult stages; individuals may live for several years, most of this time spent as larvae in water",
+			"Females lay eggs in large masses (typically 200 to 3,000 eggs) on vegetation or rocks, near still bodies of water; eggs hatch at night",
+			"Once hatched, the larvae crawl to the nearest water source to live among the detritus on the bottom of the waterbody.  When they are ready, larvae leave the water and pupate near or underneath bark.  The transformation process (pupation) takes about 2 weeks at which time the flying adults emerge",
+			"Adults may live only a few days; just long enough to find mates, propagate, and lay eggs."
+
+		],
+
+		"Diet":
+		[
+			"Larvae are omniverous and predaceous, eating detritus, aquatic plants as well as smallish animals including vertebrates like minnows and tadpoles",
+			"Adults may or may not feed"
+
+
+		],
+
+		"Habitat":
+		[	"Lakes, ponds",
+			"Rivers",
+			"Vernal pools"
+
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	
+			"Range: worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"surface",
+		"shallow"
+		
+	]
+}

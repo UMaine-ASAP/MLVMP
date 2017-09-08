@@ -1,0 +1,68 @@
+{
+	"name":"Mayfly",
+	"pictures":
+	[
+		"mayfly1.jpg",
+		"mayfly2.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Ephemeroptera"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Flat or round bodies",
+			"Most have 3 tails and 1 tarsal claw"
+
+		],
+
+		"Biology":
+		[	
+			"Spend 10 days to 2 years as larvae in water",
+			"Emergence often occurs together on same day",
+			"Adults last one to several days at most"
+
+
+		],
+
+		"Diet":
+		[
+			"Most are scrapers or collector-gatherers"
+		],
+
+		"Habitat":
+		[	"Fast flowing streams",
+			"Rivers",
+			"Ponds",
+			"Lakes",
+			"Soft or firm substrates, rocks, aquatic plants, coarse organic material"
+
+
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"shallow"
+		
+	]
+}

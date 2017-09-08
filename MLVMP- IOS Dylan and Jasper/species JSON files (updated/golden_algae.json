@@ -1,0 +1,56 @@
+{
+	"name":"Golden Algae",
+	"scientific name":"Synura, Uroglena, others",
+	"pictures":
+	[
+		"golden_algae1.jpg",
+		"golden_algae2.jpg"
+
+	],
+	"information":
+	{	
+		"Classification":
+		[
+			"Chrysophyta"
+		],
+
+		"Identifying Characteristics":
+		[	"Brown, golden yellow, yellow-green, or greenish water looks murky (like thin paint)",
+			"Some species are colorless, but the vast majority are brown, golden or golden-green in color because of their accessory pigment, a molecule that absorbs light, called fucoxanthin.",
+			"Chrysophytes are distinguished under the microscope from other algae by their two tail-like flagella, which are unequal in length.  Most are unicellular, but some join together in colonies, filaments or leaf-like forms.",
+			"Blooms of some species may produce unpleasant tastes and odors in drinking water"
+
+		],
+
+		"Biology":
+		[	"Reproduction is asexual, by vegetative cell division",
+			"Chrysophytes obtain energy through photosynthesis, but many species are also able to absorb dissolved organic carbon as a food source when light it not adequate for photosynthesis, or when dissolved food is plentiful.  Under these conditions the chrysoplast (photosynthesizing organelle) atrophies and the alga may turn predator, feeding on bacteria or diatoms.",
+			"Many chrysophytes (Synura, for example) are able to use silica dissolved in the surrounding water to create shell-like or scale-like coverings.",
+			"Some species are able to survive cold or dry conditions by forming a special cyst, thick silica structures that can survive for many years until favorable conditions allow them to generate new cells.",
+			"Golden algae are an important part of the lakes ecosystem, providing a vital food source for zooplankton"
+		],
+
+		"Habitat":
+		[	"Lakes",
+			"Ponds"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+			
+		],
+
+		"Range":
+		[	"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"algae",
+		"algae that color the water",
+		"shallow"
+	]
+}

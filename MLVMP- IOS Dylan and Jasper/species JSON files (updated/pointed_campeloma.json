@@ -1,0 +1,72 @@
+{
+	"name":"Pointed Campeloma",
+	"scientific name":"Campeloma decisum",
+	"pictures":
+	[
+		"pointed_campeloma1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Viviparidae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Spire of the shell is elongated and the body whorl rounded",  
+			"Aperature length is greater than the width",
+			"Shell is light yellowish-olive to olive colored and can have deposits of tan, brown, or rust",
+			"Adults have spiral lines",  
+			"Newborn young have an opaque white or light translucent beige shell", 
+			"Has an operculum with concentric rings radiating from center",
+			"Size: between 2-4cm"
+		],
+
+		"Biology":
+		[	
+			"Females are larger than males", 
+			"Maturation occurs in one-two years", 
+			"Lifespan of 3-5 years",
+			"Both sexual and parthenogenic populations", 
+			"Viviparous",
+			"Mating usually takes place in the warmer months of the year"
+		],
+
+		"Diet":
+		[
+			"Filter feeders",  
+			"Can also graze and harvest deposits on soft sediments"
+
+		],
+
+		"Habitat":
+		[	
+			"Temperate lakes and ponds",
+			"Slow flowing rivers and streams",
+			"Sandy bottoms where the current is sufficient to oxygenate the water column (especially in the larger rivers of the Piedmont and upper Coastal Plain)", 
+			"Usually found around decaying organic matter, and burrows in the substrate"
+		],
+
+		"Commonly Seen":
+		[	"Bottom"
+			
+		],
+
+		"Range":
+		[	
+			"Eastern North American - Canada to Florida",
+			"Great Lakes region"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"mollusks",
+		"snails",
+		"bottom"
+		
+	]
+}

@@ -1,0 +1,69 @@
+{
+	"name":"Alewife",
+	"scientific name":"Alosa pseudoharrengus",
+	"pictures":
+	[
+		"alewife1.jpg",
+		"alewife2.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Sawbelly"
+		],
+		"Family":
+		[
+			"Clupeidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Has arrangement of overlapping scales at the bottom edge of the belly which forms a serrated keel",
+			"Slender, silvery, laterally compressed fish",
+			"Eye diameter is equal to or greater than the snout length",
+			"Somewhat short upper jaw that reaches only back to middle of eye",
+			"Single dark spot behind gill opening on their sides"
+		],
+
+		"Biology":
+		[	
+			"Spawn early June",
+			"Spawn at night in water 6-12 inches deep over sand or gravel",
+			"Typically live to age 5",
+			"Size: 4-6 inches in length"
+
+		],
+
+		"Diet":
+		[
+			"Zooplankton"
+		],
+
+		"Habitat":
+		[	"Pelagic, open water"
+		],
+		"Look-Alikes":
+		[
+			"White Perch",
+			"Golden Shiner"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	
+			"Native Range: Eastern North America"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"warm water fish",
+		"deep"
+	]
+}

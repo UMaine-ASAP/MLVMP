@@ -1,0 +1,69 @@
+{
+	"name":"Farwell's Watermilfoil",
+	"scientific name":"Myriophyllum humile",
+	"pictures":
+	[
+		"farwells_watermilfoil1.jpg",
+		"farwells_watermilfoil2.jpg",
+		"farwells_watermilfoil3.jpg",
+		"farwells_watermilfoil4.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Haloragaceae"
+		],
+		
+		"Identifying Characteristics":
+		[	"Submersed aquatic plant",
+			"Stems: slender, may be reddish",
+			"Leaves: reddish, finely feather divided (1-3cm long), 5-12 leaflet pairs, radially scattered and whorled (3-5 leaves), internodal space <5mm",
+			"Flowers: midsummer, tiny, produced in leaf axils",
+			"Fruits/Seeds: nutlets with bumpy ridges",
+			"Other: hybridize with other milfoils"
+		
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: fragmentation, rhizomes, seed",
+			"Form winter buds"
+		],
+
+		"Habitat":
+		[	"Submersed community",
+			"Prefer quiet waters of lakes and streams"
+		],
+
+		"Look Alikes":
+		[
+			"Bladderworts",
+			"Fanwort",
+			"Hornworts",
+			"Water Crowfoots",
+			"Water Marigold",
+			"Other Leafy Watermilfoils, especially Low Watermilfoil"
+				
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	"Native Range: Maine, New England, northern portion of eastern United States"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with finely-divided leaves on stems",
+		"feather divided leaves",
+		"shallow"
+
+	]
+}

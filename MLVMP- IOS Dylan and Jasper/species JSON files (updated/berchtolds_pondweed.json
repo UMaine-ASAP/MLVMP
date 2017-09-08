@@ -1,0 +1,67 @@
+{
+    "name":"Berchtold's Pondweed",
+    "scientific name":"Potamogeton berchtoldii",
+    "pictures":
+    [
+     "berchtolds_pondweed1.jpg",
+     "berchtolds_pondweed2.jpg",
+     "berchtolds_pondweed3.jpg",
+     "berchtolds_pondweed4.jpg",
+     "berchtolds_pondweed5.jpg",
+     "berchtolds_pondweed6.jpg",
+     "berchtolds_pondweed7.jpg",
+     "berchtolds_pondweed8.jpg"
+     ],
+    "information":
+    {
+        "Family":
+        [
+         "Potamogetonaceae"
+         ],
+        
+        "Identifying Characteristics":
+        [ "Submersed aquatic plant",
+         "Stems: sinuous, up to 1.5m long, round to slightly compressed in cross-section, often branched near growing tip",
+         "Leaves: narrow (1-7cm long, 0.2-2.5mm wide), 1-5 lacunae bands on each side midvein, blunt to sharply pointed tip, no petioles, arranged in spiral, pair of glands occur at nodes (one on each side of base), 1-3 veins, taper slightly toward base",
+         "Flowers: spring, occur on slender spikes (0.5-6cm long) in crowded whorls, more than 3 per plant",
+         "Fruits/Seeds: early to mid summer, plump, asymmetrical but somewhat oval, short beak",
+         "Other: elongate winter buds "
+         ],
+        "Biology":
+        [ "Perennial",
+         "Primary reproduction: spreading roots, seeds",
+         "Forms winter buds"
+         ],
+        "Habitat":
+        [ "Submersed community",
+         "Soft sediment",
+         "Quiet water of lakes, ponds",
+         "Slow moving streams",
+         "Tolerates turbid and brackish conditions"
+         ],
+        "Look Alikes":
+        [
+         "Brittlewort",
+         "European Naiad",
+         "Muskgrass",
+         "Other Naiads",
+         "Other Fine-leaved Pondweeds"
+         ],
+        "Commonly Seen":
+        [ 
+         "Midwater - Shallow"
+         ],
+        "Range":
+        [ " Native Range: Maine, New England, much of the United States"
+         ]
+    },
+    "tags":
+    [
+     "flora",
+     "vascular aquatic plants",
+     "plants with blade-shaped leaves on stems",
+     "fine slender leaves - not arranged in whorls",
+     "shallow"
+     
+     ]
+}

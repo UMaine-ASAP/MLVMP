@@ -1,0 +1,80 @@
+{
+	"name":"Rainbow Trout",
+	"scientific name":"Oncorhynchus mykiss",
+	"pictures":
+	[
+		"rainbow_trout1.jpg",
+		"rainbow_trout2.jpg",
+		"rainbow_trout3.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Salmonidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Coloration is highly variable depending upon size, sexual condition, and habitat",
+			"Dorsal surface ranges from a greenish yellow to a blue-gray color with silvery colored sides",
+			"Belly area is white to pale yellow in color",
+			"Large numbers of relatively small black spots occur over the whole body, but spotting is generally heavier along dorsal areas.",
+			"Often recognized by a vague pink to prominent red colored band, which extends from the cheek to the base of the caudal fin"
+		],
+
+		"Biology":
+		[	
+			"Primarily spring spawners.  Spawning time ranges from February to June with peak in mid-April",
+			"Generally spawn in smaller tributary streams, selecting fine gravel substrates in riffle areas",
+			"Size: normal adult size is 8 – 16; fish up to 8 pounds have been caught"
+
+		],
+
+		"Diet":
+		[
+			"Opportunistic feeders",
+			"Plankton",
+			"Fish and fish eggs",
+			"Aquatic and terrestrial insects",
+			"Crustaceans",
+			"Snails",
+			"Amphibians"
+
+
+		],
+
+		"Habitat":
+		[	"Streams",
+			"Deep, coldwater lakes and ponds"
+		],
+		"Look-Alikes":
+		[
+			"Brook Trout",
+			"Lake Trout",
+			"Brown Trout",
+			"Landlocked Salmon"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	
+			"Native Range: parts of western North America",
+			"Introduced to Maine in 1885"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"cold water fish",
+		"shallow",
+		"deep"
+	]
+}

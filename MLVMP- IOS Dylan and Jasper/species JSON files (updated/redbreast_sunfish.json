@@ -1,0 +1,76 @@
+{
+	"name":"Redbreast Sunfish",
+	"scientific name":"Lepomis auritus",
+	"pictures":
+	[
+		"redbreast_sunfish1.jpg",
+		"redbreast_sunfish2.jpg",
+		"redbreast_sunfish3.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Centrarchidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Rounded shaped fish, narrow when viewed from the front",
+			"Back is olive to dark brown, lower sides gray to green, belly gray-white",
+			"Breast bright orange",
+			"Earflap entirely blue",
+			"Turquoise bands radiate across head"		
+		],
+
+		"Biology":
+		[	
+			"Spawn early summer",
+			"Size: Up to 6-8 inches long"
+
+		],
+
+		"Diet":
+		[
+			"Insects",
+			"Occasionally small fish"
+
+		],
+
+		"Habitat":
+		[	"Vegetated areas",
+			"Lakes, ponds",
+			"Quiet water in streams or rivers"
+
+
+		],
+		"Look-Alikes":
+		[
+			"Black Crappie",
+			"Pumpkinseed Sunfish",
+			"Bluegill Sunfish"
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	
+			"Range: New Brunswick to Florida east of the Appalachians"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"warm water fish",
+		"shallow",
+		"deep"
+		
+	]
+}

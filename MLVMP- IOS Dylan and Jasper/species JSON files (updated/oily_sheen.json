@@ -1,0 +1,27 @@
+{
+	"name":"Oily Sheen",
+	"pictures":
+	[
+		"oily_sheen1.jpg"
+	],
+	"information":
+	{	
+		"Details":
+		[	
+			"An oily rainbow-colored sheen on the water surface may be from spilled petroleum, but it may also be from natural sources.  Natural sources include:\n\t- Some forms of bacteria, adapted to wet places, which get their energy from iron and manganese.  As these bacteria grow and decompose, they exude substances which may give the water an oily or slimy appearance.\n\t- Many aquatic insects hatch out (shed their outer larval skeletons) in mass.  During such hatches, which typically occur in the spring and summer, a dark cloud accompanied by an oily sheen may be observed on the water surface.  When a sample of water from this kind of sheen is examined carefully under a hand lens or microscope, the tiny skeletons are easily distinguished.\n\t- Diatoms (a type of planktonic algae that is most abundant during periods of lake-turnover, in spring and fall) can leave an oily substance behind as the algal cells die.",
+			"Poke the sheen with a stick.  If the sheen swirls back together immediately it is petroleum.  If the sheen breaks apart and does not flow back together, it is from natural sources such as those described above."
+			
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Surface"								
+		]	
+	},
+	"tags":
+	[
+		"other aquatic curiosities",		
+		"surface"
+	]
+}

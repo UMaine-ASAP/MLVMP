@@ -1,0 +1,74 @@
+{
+	"name":"Amphipod",
+	"scientific name":"Various",
+	"pictures":
+	[
+		"amphipod1.jpg",
+		"amphipod2.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Scud",
+			"Sideswimmer"
+		],
+		"Family":
+		[
+			"Hyalledlidae, Gammaridae, Crangonyctidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Identifying characteristics are small and require a microscope to see; all common scuds have similar biology",
+			"Creamy light gray or brown, somewhat translucent",
+			"Size: 5 to 20mm",
+			"Body strongly flattened side to side",
+			"Seven pairs of walking legs",
+			"Swim on their side"
+
+		],
+
+		"Biology":
+		[	
+			"Reproduce in spring",
+			"Females carry eggs in pouch",
+			"Eggs hatch in 1-3 weeks"
+		],
+
+		"Diet":
+		[
+			"Graze on thin film of algae, fungi, and bacteria that grows on plants",
+			"Decaying vegetation",
+			"Dead animal matter"
+		],
+
+		"Habitat":
+		[	
+			"Shallows of cool streams, springs, seeps",
+			"Lakes, ponds",
+			"Most abundant in small habitats without fish"
+		],
+
+
+
+		"Commonly Seen":
+		[	"Littoral zone",
+			"Midwater - Shallow"
+
+
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"crustaceans",
+		"not crayfish",
+		"shallow"
+	]
+}

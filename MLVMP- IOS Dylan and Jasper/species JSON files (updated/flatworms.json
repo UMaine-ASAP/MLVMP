@@ -1,0 +1,80 @@
+{
+	"name":"Planarian",
+	"pictures":
+	[
+		"flatworm1.jpg",
+		"flatworm2.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			
+			"Flatworm"
+		],
+		"Family":
+		[
+			"Planaridae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Bodies are non-segmented, soft, elongate, and flattened, and bilaterally symmetrical (their left and right sides are mirror images of each other).",
+			"Triangular head formed by a slight restriction of the body",
+			"Often two light-sensitive eyespots (ocelli) the top of the head which give the animal a cross-eyed appearance",
+			"Size ranges in length from <1mm-30mm; young planarians look like mini-adults",
+			"Color generally drab, camouflaged among the aquatic plants and the debris on the pond or stream floor"
+
+
+		],
+
+		"Biology":
+		[	
+			"As flatworms, planarians belong to the phylum, Platyhelminthes.  The majority of members of this phylum (which includes tapeworms and flukes) are parasitic; planarians, on the other hand, belong to a class of non-parasitic or Dzfree-livingdz flatworms called Turbellarians.  North America is home to about 200 species of free-living freshwater turbellarians.",
+			"Flatworms have no internal body cavity, or specialized circulatory and respiratory organs.  The simple nervous system is concentrated at the head end with nerve fibers running lengthwise through the body",
+			"The mouth is located at the tip of a small, hose-like tube (the pharynx) that tucks into the gastrovascular cavity in the middle of the flatworm’s underside; food enters, and wastes exit, through the same tube; it breathes through its outer covering (epidermis)",
+			"Underside is covered with fine, hair-like cilia.  Movement involves producing a layer of mucous that covers the body and then using the movements of the cilia (and muscle waves in larger specimens) to glide along on underwater surfaces, like a snail.  Can also move, belly up, on the underside of the surface film of the pond; some species use their cilia to swim.",
+			"Sexually hermaphroditic, meaning that each individual animal possesses both male and female anatomy; when two turbellarians mate, they inseminate one another.  Thin-shelled summer eggs may hatch in two weeks; thick-shelled winter eggs that don’t hatch until the following spring.  Adults generally live a few months, but some can encyst themselves and survive the drought cycle of an ephemeral pond.",
+			"Can also reproduce asexually.  Planarians can fully regenerate from pieces divided by cuts across the body.  Many species, routinely form a progressively-narrowing constriction behind the pharynx which eventually separates them into two pieces, and each end then grows into a complete individual. Experiments show that, in fragments that do not already have a head, a new head grows most quickly on those that were closest to the original head. This suggests that the growth of a head is controlled by a chemical whose concentration diminishes from head to tail."
+
+		],
+
+		"Diet":
+		[
+			
+			"Planarians are carnivorous predators and scavengers, feeding on small, soft-bodied invertebrates such as tiny insect larvae, micro-crustaceans, etc.",
+			"When hunting small prey, like water fleas, planarians wrap themselves around their prey like a constrictor snake"
+		],
+
+		"Habitat":
+		[	
+			"Commonly found on the surfaces and undersides of rocks along the shore of lakes and ponds and in slow moving water",
+			"Most species can exist under a wide range of environmental conditions and some can tolerate low-to-non-existent oxygen levels, which allows them to thrive in eutrophic waters and ephemeral pools.",
+			"In healthy ecosystems, flatworms usually exist in low to moderate numbers.  If an aquatic macroinvertebrate community is dominated by flatworms, it is likely an indicator that the area is polluted by organic materials, such as soil and fertilizer."
+
+
+
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Midwater - Shallow"
+			
+		],
+		"Range":
+		[	"Worldwide"
+		]
+
+		
+	},
+	"tags":
+	[
+		"fauna",
+		"other aquatic fauna",
+		"surface",
+		"shallow"
+		
+		
+	]
+}

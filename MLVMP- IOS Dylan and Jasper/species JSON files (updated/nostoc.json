@@ -1,0 +1,61 @@
+{
+	"name":"Nostoc",
+	"scientific name":"Nostoc spp.",
+	"pictures":
+	[
+		"nostoc1.jpg",
+		"nostoc2.jpg",
+		"nostoc3.jpg",
+		"nostoc4.jpg",
+		"nostoc5.jpg"
+
+	],
+	"information":
+	{	
+		"Classification":
+		[
+			"Cyanobacteria"
+		],
+
+		"Identifying Characteristics":
+		[	"Colonies form jelly-like balls easily seen without magnification; balls may be observed floating at the surface or resting on the lake bottom",
+			"Color of the gel matrix is highly variable even within the same population and habitat; the youngest colonies may be cyan to emerald; older colonies are often olive green, brown, or black but may also be turquoise, emerald or golden",
+			"The surface or 'skin' of the ball is more viscous than the internal gel; some colonies appear to have a hollow center",
+			"Colonies typically range in size from pea-sized to the size of a large grape; colonies of one Nostoc species may grow up to 22 cm in diameter",
+			"Under the microscope, the ball-shaped colonies are seen to be formed of loosely tangled filaments within a firm gelatinous matrix; each filament is comprised of a line of spherical cells attached to each other like beads on a string"
+		],
+
+		"Biology":
+		[	"Reproduction is asexual, by vegetative cell division",
+			"The age of large macrocolonies remains a mystery, with estimates from months to centuries, even millennia for the largest (>20 cm diameter) and oldest",
+			"Nostoc's annual cycle is not well understood.  Large numbers of nostoc balls seem to appear quite suddenly in late summer in some lakes.  This sudden appearance may be due to the fact that the colonies, which are neutrally buoyant, are moved around by water currents.  Also, colonies that are buried in the sediments during the winter and spring may be unearthed by water currents or possibly, the colonies may emerge from the sediments on their own accord, by somehow increasing their buoyancy."
+		],
+
+		"Habitat":
+		[	"Sandy or muddy substrate",
+			"Lakes; streams",
+			"Springs"
+			
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Midwater - Shallow",
+			"Lake bottom"
+			
+		],
+
+		"Range":
+		[	"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"algae",
+		"globular or sphere-shaped macro-algae",
+		"surface",
+		"shallow",
+		"bottom"
+	]
+}

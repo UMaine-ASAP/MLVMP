@@ -1,0 +1,70 @@
+{
+	"name":"Giant Waterbug",
+	"pictures":
+	[
+		"giant_waterbug1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Belostomatidae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Very large (19-30mm)",
+			"Adults and juveniles look the same",
+			"Large pincers"
+
+		],
+
+		"Biology":
+		[	
+			"Males carry eggs on their backs until they hatch",
+			"Adults cannot breathe underwater and must surface periodically for air"
+
+		],
+
+		"Diet":
+		[
+			"Predaceous",
+			"Arthropods, snails",
+			"Small fish, amphibians",
+			"Can attack pray many times their size"
+
+
+
+		],
+
+		"Habitat":
+		[	"Ponds",
+			"Shallow margins of lakes",
+			"River edges",
+			"In submerged vegetation and detritus"
+
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"shallow"
+		
+	]
+}

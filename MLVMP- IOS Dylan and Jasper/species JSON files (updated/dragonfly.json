@@ -1,0 +1,69 @@
+{
+	"name":"Dragonfly",
+	"pictures":
+	[
+		"dragonfly1.jpg",
+		"dragonfly2.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Odonata"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Dragonflies are closely related to damselflies; they can be distinguished from one another as follows: \n\nNymphs (larvae that resemble adults):\n\n- Dragonflies and damselflies and both have segmented bodies (1 – 7 cm in length), generally brownish in color.  Dragonfly nymphs tend to be generally flatter and wider; damselfly nymphs more slender and elongate\n\n- The lower segment (abdomen) of dragonfly nymphs ends in five short pointy gills; damselfly larvae have abdomens ending in 3 elongate, leaf-like gills.  In both cases the gills are used to obtain oxygen from the water.  By quickly expelling water from the end of their abdomen, dragonflies are able to move around by their own 'jet propulsion' system.\n\n- Both have visible wing pads (also used for respiration) and three pairs of segmented legs attached to the middle (thoracic) segment\n\nAdults:\n\n- In general, adult dragonflies are larger than damselflies; both have elongate bodies but damselflies are, smaller, slimmer, and more delicate in appearance.\n\n- Both have large eyes, but the eyes of dragonflies occupy most of the head and wrap from the side to the front of the face, touching in the middle; damselfly eyes are somewhat smaller and have a gap of space between them.\n\n- Both dragonflies and damselflies have two sets of wings.  The hind wings of dragonflies are larger (broader at the base) than the front pair; damselflies wings are all the same size and shape.  Damselfly wings also taper toward the inside, becoming quite narrow where they join the body.\n\n- Dragonflies hold their wings out perpendicular to their bodies when resting, like an airplane; damselflies at rest press their wings together parallel to the body, along the top of their backs."
+			
+
+
+
+			
+		],
+
+		"Biology":
+		[	
+			"Dragonflies go through 'incomplete' metamorphosis: passing through egg, nymph, and adult stages; lifespan may vary from 1 to 6 years, spent mostly in the nymph stage.",
+			"The female lays the eggs in plant tissue, either submerged in the water, just above the water line, or directly on the water.",
+			"Upon hatching, nymphs go through approximately 10 to 12 immature stages (called instars) during development, depending on habitat and species; when ready to become adults, they crawl out of the water and shed their exoskeleton (moult) one last time to transform into adults. ",
+			"Adult dragonflies emerge throughout the spring, summer, and fall.  To find a mate, adult males patrol shoreline areas seeking out females while chasing away other males.  In order to mate, a male damselfly will grasp a female that enters his territory, and sperm is transferred to the female. Mating pairs can be seen flying in tandem (attached to each other).",
+			"Adults have a lifespan of only a few weeks to a few months."
+		],
+
+		"Diet":
+		[
+			"Dragonfly nymphs are predatory, feeding primarily on aquatic insects, though larger nymphs can also capture tadpoles and fish; they capture prey by using a modified lower lip (labium) that shoots out rapidly and seizes the prey item",
+			"Adults prey mainly on insects (including other dragonflies), spiders, small crustaceans, and fish; when hunting flying insects, they use their legs to form a basket to scoop prey out of the air.  Voracious predators, they consume a large number of insect pests, including mosquitos."
+
+		],
+
+		"Habitat":
+		[	"Dragonfly nymphs are aquatic, and live on the bottoms of freshwater habitats such as in streams, ponds, lakes, wetlands, and rivers.  They are likely to be found sitting on aquatic vegetation, or climbing on plants or among rocks in water that is still or slow-moving.",
+			"Adult dragonflies are terrestrial, and often spotted near water"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Bottom"
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"bottom",
+		"shallow"
+		
+	]
+}

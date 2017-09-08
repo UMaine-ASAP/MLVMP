@@ -1,0 +1,65 @@
+{
+	"name":"Whirligig Beetle",
+	"pictures":
+	[
+		"whirlygig_beetle1.jpg",
+		"whirlygig_beetle2.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Coleoptera"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Worm-like up to 1.5 inches",
+			"Feathery lateral gills on abdomen",
+			"Abdomen terminates in 4 hooks",
+			"Adults are bluish-black, oval, flattened beetles"
+
+		],
+
+		"Biology":
+		[	
+			"Swim in schools (often erratically) at water surface"
+
+		],
+
+		"Diet":
+		[
+			"Predaceous"
+		],
+
+		"Habitat":
+		[	"Lakes",
+			"Ponds",
+			"Marshes"
+
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Midwater - Shallow"
+			
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"shallow",
+		"surface"
+		
+	]
+}

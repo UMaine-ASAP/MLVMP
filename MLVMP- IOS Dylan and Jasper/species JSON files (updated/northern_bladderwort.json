@@ -1,0 +1,76 @@
+{
+	"name":"Northern Bladderwort",
+	"scientific name":"Utricularia intermedia",
+	"pictures":
+	[
+		"northern_bladderwort1.jpg",
+		"northern_bladderwort2.jpg",
+		"northern_bladderwort3.jpg",
+		"northern_bladderwort4.jpg",
+		"northern_bladderwort5.jpg",
+		"northern_bladderwort6.jpg",
+		"northern_bladderwort7.jpg",
+		"northern_bladderwort8.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Flat-leaf Bladderwort"
+		],
+		"Family":
+		[
+			"Lentibulariaceae"
+		],
+		
+
+		"Identifying Characteristics":
+		[	"Submersed aquatic plant",
+			"Stems: slender, flaccid, short (<0.5m)",
+			"Leaves: finely fork divided, flattened, serrated, alternately arranged",
+			"Flowers: midsummer, yellow, snapdragon-like emergent on stalk",
+			"Fruits/Seeds: capsule on erect stalk",
+			"Other: tiny lopsided sack-like bladders (used to capture prey) attached directly to leafless stems, carnivorous: capture small prey such as zooplankton or small insects"
+		
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: fragmentation, turions"
+		],
+
+		"Habitat":
+		[	"Submersed and floating plant community",
+			"Lakes, ponds, slow-moving streams, wetland pools"	
+		],
+
+		"Look Alikes":
+		[
+			"Other Bladderworts",
+			"Fanwort",
+			"Hornworts",
+			"Water Crowfoots",
+			"Water Marigold",
+			"Leafy Watermilfoils"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"	
+		],
+
+		"Range":
+		[	"Native Range: Maine, much of New England, some other parts of the United States"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with finely-divided leaves on stems",
+		"fork or branch divided leaves",
+		"shallow"
+
+	]
+}

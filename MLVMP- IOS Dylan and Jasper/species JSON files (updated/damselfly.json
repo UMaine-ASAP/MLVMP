@@ -1,0 +1,72 @@
+{
+	"name":"Damselfly",
+	"pictures":
+	[
+		"damselfly1.jpg",
+		"damselfly2.jpg",
+		"damselfly3.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Odonata"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Damselflies are closely related to dragonflies; they can be distinguished from one another as follows:\n\nNymphs (larvae that resemble adults):\n\n- Damselflies and dragonflies both have segmented bodies (1 – 7 cm in length), generally brownish in color.  Dragonfly nymphs tend to be generally flatter and wider; damselfly nymphs more slender and elongate\n\n- The lower segment (abdomen) of dragonfly nymphs ends in five short pointy gills; damselfly larvae have abdomens ending in 3 elongate, leaf-like gills (which are easily detached; one or more may be missing).  In both cases the gills are used to obtain oxygen from the water.\n\n- Both have visible wing pads (also used for respiration) and three pairs of segmented legs attached to the middle (thoracic) segment\n\nAdults:\n\n- In general, adult damselflies are smaller than dragonflies; both have elongate bodies but damselflies are, smaller, slimmer, and more delicate in appearance.\n\n- Both have large eyes, but the eyes of dragonflies occupy most of the head and wrap from the side to the front of the face, touching in the middle; damselfly eyes are somewhat smaller and have a gap of space between them.\n\n- Both dragonflies and damselflies have two sets of wings.  The hind wings of dragonflies are larger (broader at the base) than the front pair; damselflies wings are all the same size and shape.  Damselfly wings also taper toward the inside, becoming quite narrow where they join the body.\n\n- Dragonflies hold their wings out perpendicular to their bodies when resting, like an airplane; damselflies at rest press their wings together parallel to the body, along the top of their backs."
+			
+
+
+
+			
+		],
+
+		"Biology":
+		[	
+			"Damselflies go through Ǯincompleteǯ metamorphosis: passing through egg, nymph, and adult stages; lifespan may vary from 1 to 6 years, spent mostly in the nymph stage.",
+			"The female lays the eggs in plant tissue, either submerged in the water, just above the water line, or directly on the water.",
+			"Upon hatching, nymphs go through approximately 10 to 12 immature stages (called instars) during development, depending on habitat and species; when ready to become adults, they crawl out of the water and shed their exoskeleton (moult) one last time to transform into adults.",
+			"Adult damselflies emerge throughout the spring, summer, and fall.  To find a mate, adult males patrol shoreline areas seeking out females while chasing away other males.  In order to mate, a male damselfly will grasp a female that enters his territory, and sperm is transferred to the female. Mating pairs can be seen flying in tandem (attached to each other).",
+			"Adults have a lifespan of only a few weeks to a few months."
+
+		],
+
+		"Diet":
+		[
+			"Damselfly nymphs are predatory, feeding on aquatic insects; they capture prey by using a modified lower lip (labium) that shoots out rapidly and seizes the prey item",
+			"Adults prey mainly on insects, small crustaceans, and fish, capturing their prey during flight using hind legs covered in hair; they are able to devour their prey while holding it in their legs as they fly."
+
+
+		],
+
+		"Habitat":
+		[	"Damselfly nymphs are aquatic, and live on the bottoms of freshwater habitats such as in streams, ponds, lakes, wetlands, and rivers.  They are not good swimmers so are likely to be found sitting on aquatic vegetation, or climbing on plants or among rocks in water that is still or slow-moving.",
+			"Adult damselflies are terrestrial, and often spotted near water"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Bottom"
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"bottom",
+		"shallow"
+		
+	]
+}

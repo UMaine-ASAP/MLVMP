@@ -1,0 +1,147 @@
+{
+  "flora": 
+  {   "picture":"fragrant_waterlily5.jpg",
+      "vascular aquatic plants": 
+      {   "picture":"fragrant_waterlily2.jpg",
+
+          "floating-leaved plants": 
+          {
+            "picture":"fragrant_waterlily1.jpg"
+          },
+          "plants with blade-shaped leaves on stems": 
+          {   "picture":"common_waterweed4.jpg",
+         
+              "leaves arranged in whorls": 
+                {
+                "picture":"common_waterweed5.jpg"
+                },
+              "fine slender leaves - not arranged in whorls": 
+              {
+                "picture":"slender_naiad7.jpg"
+              },
+              "wider alternately arranged leaves": 
+              {
+                "picture":"clasping_pondweed_richardsonii1.jpg"
+              }  
+          },
+          "plants with finely-divided leaves on stems": 
+          {   "picture":"common_bladderwort2.jpg",
+
+              "fork or branch divided leaves": 
+              {
+                "picture":"water_marigold8.jpg"
+              },
+              "feather divided leaves": 
+              {
+                "picture":"variable_watermilfoil2.jpg"
+              }
+          }
+      },
+      
+      "algae": 
+      {   "picture":"gleotrichia1.jpg",
+          "branching algae that resemble higher plants":
+            {
+              "picture":"brittlewort4.jpg"
+            },
+          "filamentous mat-forming algae":
+          {
+            "picture":"slmy_fil_grn1.jpg"
+          },
+          "cotton-candy or cloud-like algae":
+          {
+              "picture":"metaphyton1.jpg"
+          },
+          "algae that color the water":
+          {
+            "picture":"plnk_blgrn_algae_c1.jpg"
+          },
+          "globular or sphere-shaped macro-algae":
+          {
+            "picture":"nostoc1.jpg"
+          }
+      },
+      
+      "wetland plants": 
+      {
+        "picture":"common_reed1.jpg"
+      }
+  },
+  
+  "fauna": 
+  {
+    "picture":"bull_frog1.jpg",
+      "amphibians": 
+      {   "picture":"northern_leopard_frog2.jpg",
+          "frogs": 
+          {
+            "picture":"wood_frog2.jpg"
+          },
+          "salamanders": 
+          {
+            "picture":"eastern_newt2.jpg"
+          }
+      },
+      
+      "crustaceans": 
+      {
+        "picture":"calico_crayfish2.jpg",
+          "crayfish": 
+          {
+            "picture":"rusty_crayfish3.jpg"
+          },
+          "not crayfish": 
+          {
+            "picture":"amphipod2.jpg"
+          }
+      },
+
+      "fish": 
+      {
+        "picture":"bluegill_sunfish2.jpg",
+          "cold water fish": 
+          {
+            "picture":"landlocked_salmon1.jpg"
+          },
+          "warm water fish": 
+          {
+            "picture":"largemouth_bass2.jpg"
+          }
+      },
+      
+      "insects": 
+      {
+        "picture":"damselfly1.jpg"
+      },
+      "mollusks": 
+      {
+        "picture":"asiatic_clam1.jpg",
+          "bivalves":
+          {
+            "picture":"quagga_mussel1.jpg"
+          },
+          "limpets":
+          {
+              "picture":"limpets1.jpg"
+          },
+          "snails":
+          {
+            "picture":"chinese_mystery_snail2.jpg"
+          }
+      },
+      
+      "turtles": 
+      {
+        "picture":"eastern_painted_turtle2.jpg"
+      },
+      "other aquatic fauna": 
+      {
+        "picture":"egg_mass2.jpg"
+      }
+  },
+  
+  "other aquatic curiosities": 
+  {
+    "picture":"lake_balls1.jpg"
+  }
+}

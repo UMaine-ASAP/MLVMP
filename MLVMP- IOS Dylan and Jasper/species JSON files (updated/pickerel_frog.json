@@ -1,0 +1,82 @@
+{
+	"name":"Pickerel Frog",
+	"scientific name":"Lithobates palustris",
+	"pictures":
+	[
+		"pickerel_frog1.jpg",
+		"pickerel_frog2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Ranidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Gray or tan frog marked with seven to twenty-one irregular rectangular dark brown spots that are oriented in two columns down its back",
+			"Distinctive rectangular spots of the pickerel frog may blend together to form a long rectangle along the back",  
+			"Prominent dorsolateral ridges that are unbroken",
+			"Orange or yellow flash pattern found on the inner surface of the hind legs (frog must be picked up to examine this—legs cover the coloration)", 
+			"No webbed toes",
+			"Size: Adults can be between 4-8cm long"
+		],
+
+		"Biology":
+		[	
+			"Breeding season lasts from March to May (usually beginning as Leopard Frogs are concluding their breeding activity)",
+			"Males find mates by calling out a low-pitched snore",
+			"Egg masses of 2000-3000 eggs are typically laid in well-vegetated areas and are often difficult to locate (masses superficially resemble those of wood frogs)",  
+			"Eggs are multicolored—dark brown on top and cream colored on the bottom",
+			"Egg masses adhere to woody or herbaceous vegetation, varying in depth from a few centimeters below the surface to 4 feet deep",
+			"Eggs usually hatch in 11–21 days—temperature dependent",
+			"Tadpole stage lasts about 3 months until they metamorphose into frogs (initially still have tails when they emerge from the water)",
+			"Females are typically larger and darker than males"
+
+		],
+
+		"Habitat":
+		[	
+			"Along the edges of streams, lakes, rivers, and flooded ditches",
+			"Grassy areas close to water",
+			"Northern Species: Live near cold, clear water",
+			"Prefer rocky ravines, bogs and meadow streams",
+			"Can be found around lakes and rivers that are heavily wooded",  
+			"Southern Species: Prefers warmer waters—like those of the Coastal Plain and floodplain swamps"
+		],
+		"Diet":
+		[
+			"Insects, spiders, sawfly larvae and other invertebrates"
+		],
+
+		"Look-Alikes":
+		[
+			"Northern Leopard Frog",
+			"Plains Leopard Frog"
+		],
+
+		"Commonly Seen":
+		[	"Shoreline",
+			"Surface",
+			"Midwater - Shallow"
+			
+		],
+
+		"Range":
+		[
+			"Southern Canada and southeastern United States"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"amphibians",
+		"frogs",
+		"shoreline",
+		"surface",
+		"shallow"
+	
+	]
+}

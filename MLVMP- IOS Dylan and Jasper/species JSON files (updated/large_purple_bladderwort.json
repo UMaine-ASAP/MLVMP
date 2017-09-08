@@ -1,0 +1,76 @@
+{
+	"name":"Large Purple Bladderwort",
+	"scientific name":"Utricularia pupurea",
+	"pictures":
+	[
+		"large_purple_bladderwort1.jpg",
+		"large_purple_bladderwort2.jpg",
+		"large_purple_bladderwort3.jpg",
+		"large_purple_bladderwort4.jpg",
+		"large_purple_bladderwort5.jpg",
+		"large_purple_bladderwort6.jpg",
+		"large_purple_bladderwort7.jpg",
+		"large_purple_bladderwort8.jpg",
+		"large_purple_bladderwort9.jpg",
+		"large_purple_bladderwort10.jpg",
+		"large_purple_bladderwort11.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Lentibulariaceae"
+		],
+		
+
+		"Identifying Characteristics":
+		[	"Submersed aquatic plant",
+			"Stems: slender, flaccid, medium size (up to 1m)",
+			"Leaves: finely branch divided thread-like, strict whorl arrangement",
+			"Flowers: midsummer, pale purple snapdragon-like on slender stalks, several flowers per stalk",
+			"Fruits/Seeds: capsule on stalk",
+			"Other: tiny lopsided sack-like bladders (used to capture prey) attached directly to tips of leaves, carnivorous: capture small prey such as zooplankton or small insects"
+		
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: fragmentation, turions"
+		],
+
+		"Habitat":
+		[	"Submersed and floating plant community",
+			"Lakes, ponds, slow-moving streams, wetland pools"
+			
+		],
+
+		"Look Alikes":
+		[
+			"Other Bladderworts",
+			"Fanwort",
+			"Hornworts",
+			"Water Crowfoots",
+			"Water Marigold",
+			"Leafy Watermilfoils"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"	
+		],
+
+		"Range":
+		[	"Native Range: Maine, much of New England, some other parts of the United States"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with finely-divided leaves on stems",
+		"fork or branch divided leaves",
+		"shallow"
+	]
+}

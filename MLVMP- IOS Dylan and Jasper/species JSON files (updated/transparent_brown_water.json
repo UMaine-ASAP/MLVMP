@@ -1,0 +1,36 @@
+{
+	"name":"Transparent Brown Water",
+	"pictures":
+	[
+		"brown_water1.jpg",
+		"brown_water2.jpg"
+
+	],
+	"information":
+	{	
+		"Details":
+		[	
+			"Brown water lakes generally contain high concentrations of dissolved organic matter, including humic acids which are dark brown to black in color.  Typically, brown lakes are surrounded by forests or wetlands.  Organic matter from these areas decomposes and dissolves in the water and stains the water brown, in a manner similar to brewing tea.",
+			"Transparent brown color is a natural phenomenon, and is not an indication of the declining health of a lake.  It does, however, tell us something about the level and nature of the organic matter present in the lake and/or its watershed.",
+			"The darker the coloration (the stronger the \"tea\"), the greater the shading effect upon the underwater environment, and the greater the absorption of light and heat near the water surface.  Due to the higher concentration of humic acids in the water, brown-colored lakes are also relatively acidic.  They types of plants, fish, and other organisms that live in tea-colored lakes are best adapted to these low-light acidic concitions.",
+			"Highly colored lakes can provide advantages for some wildlife species, for example by providing extra cover for fish and their foods, shielding them from birds of prey.",
+			"Colored lakes are often referred to as \"dystrophic\", which simply means that the high concentration of humic acids interferes with the way in which nutrients like phosphorus are assimilated in the ecosystem."
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Surface",
+			"Midwater - Shallow",
+			"Midwater - Deep"
+										
+		]	
+	},
+	"tags":
+	[
+		"other aquatic curiosities",
+		"shallow",
+		"deep",
+		"surface"
+	]
+}

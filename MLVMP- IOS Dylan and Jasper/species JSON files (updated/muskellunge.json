@@ -1,0 +1,86 @@
+{
+	"name":"Muskellunge",
+	"scientific name":"Esox masquinongy",
+	"pictures":
+	[
+		"muskellunge1.jpg",
+		"muskellunge2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Esocidae"
+		],
+		"Invasive":
+		[
+			
+		],
+		"Identifying Characteristics":
+		[	
+			"Elongate fish with dorsal and anal fin located far back near the forked caudal fin",
+			"Head and snout somewhat flattened",
+			"Jaws with many teeth",
+			"Cheek completely scaled",
+			"Operculum scaled on upper half only",
+			"Dark spots typically arranged vertically on lighter colored body",
+			"7 to 11 pairs of sensory pores along the underside of the lower jaw"
+
+			
+		],
+
+		"Biology":
+		[	
+			"Spawn in mid to late May, when water temperature approach 50F",
+			"Live up to 20 years",
+			"Size: Muskellunge in excess of 30 pounds have been caught in Maine"
+
+		],
+
+		"Diet":
+		[
+			"Predaceous",
+			"Smaller fish",
+			"Frogs",
+			"Crayfish",
+			"Young waterfowl"
+
+		],
+
+		"Habitat":
+		[	"Prefer shallow water habitat with dense stand of submerged aquatic vegetation",
+			"Slow-moving streams",
+			"Lakes"
+
+
+		],
+		"Look-Alikes":
+		[
+			"Chain Pickerel",
+			"Northern Pike"
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	
+			"Range: eastern North America from Ontario and Quebec to Georgia"
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"warm water fish",
+		"shallow",
+		"deep"
+		
+	]
+}

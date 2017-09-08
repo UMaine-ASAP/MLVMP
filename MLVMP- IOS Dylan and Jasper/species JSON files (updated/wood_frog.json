@@ -1,0 +1,77 @@
+{
+	"name":"Wood Frog",
+	"scientific name":"Lithobates sylvaticus",
+	"pictures":
+	[
+		"wood_frog1.jpg",
+		"wood_frog2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Ranidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Varying shades of brown and red—most have a black marking over the eyes that looks like a robber’s mask",
+			"Individual frogs are capable of varying their color",
+			"Underparts are pale with a yellow or green cast",
+			"Size: 1.4’’ to 3.25’’ in length"
+		],
+
+		"Biology":
+		[	
+			"They are one of the first amphibians to emerge for breeding right when the snow melts—by breeding in early spring wood frogs increase their offspring's chances of metamorphosing before pools dry",
+			"Males breeding choruses are duck-like quacking sounds"
+			"Amplexus fertilization",
+			"Females deposit eggs attached to submerged substrate, typically vegetation or downed branches—most deposit eggs adjacent to other egg masses, creating large aggregations of masses",
+			"The egg masses (of a few hundred eggs each) are deposited in communal clusters"
+			"Gelatin covering, communal clusters, and exposure to the sun all help the eggs to be warmer than the surrounding water and develop faster",
+			"By mid to late April small black tadpoles are abundant in vernal pools feeding on the leaves and algae of the pool and they grow quickly and become a green-brown color",  
+			"By June the tadpoles will have developed legs and are absorbing their tail in preparation for leaving the pool",     
+			"Lifespan is about 3 years"
+		],
+
+		"Habitat":
+		[	
+			 "Moist woodlands Forested swamps", 
+ 			"Adults usually live in woodlands",
+ 			"Lay eggs in vernal pools", 
+ 			"Adults spend summer months in moist woodlands, forested swamps, ravines, or bogs",
+ 			"During the fall they leave summer habitats and migrate to neighboring uplands to overwinter", 
+			"Take shelter in leaf litter during winter months"
+		],
+
+		"Diet":
+		[
+			"Adults feed on insects, arachnids, slugs, worms, and snails",
+   			"Tadpoles are herbivorous"
+		],
+
+		"Commonly Seen":
+		[	"Shoreline",
+			"Surface",
+			"Midwater - Shallow"
+
+		],
+
+		"Range":
+		[	
+			"From northern Georgia and northeastern Canada in the east to Alaska and southern British Columbia in the west", 
+			"Most widely distributed frog in Alaska"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"amphibians",
+		"frogs",
+		"shoreline",
+		"surface",
+		"shallow"
+	
+	]
+}

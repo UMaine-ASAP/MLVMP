@@ -1,0 +1,32 @@
+{
+	"name":"Clumps of Foam",
+	"pictures":
+	[
+		"clumps_of_foam1.jpg",
+		"clumps_of_foam2.jpg",
+		"clumps_of_foam3.jpg"
+	],
+	"information":
+	{	
+		
+		"Details":
+		[	
+			"Most foam on lakes is natural and does not indicate pollution.",
+			"Organic material from decomposing plants and animals acts as a surfactant to reduce the surface tension of the water (in the same way that detergent reduces surface tension).  When low-surface-tension water mixes with air - through wave and wake action for example - bubbles are formed.",
+			"These natural lake bubbles are easily blown by the wind into quieter waters where they may accumulate as clumps of foam.  The foam may be white, off-white, or brownish.",
+			"Unlike foam from detergent, natural foam often smells fishy or earthy (not perfumed), and breaks apart easily when disturbed."
+		],
+
+		"Commonly Seen":
+		[	
+			"Shoreline",
+			"Surface"							
+		]
+	},
+	"tags":
+	[
+		"other aquatic curiosities",
+		"surface",
+		"shoreline"
+	]
+}

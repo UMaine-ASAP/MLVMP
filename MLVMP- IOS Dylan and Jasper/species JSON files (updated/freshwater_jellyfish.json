@@ -1,0 +1,68 @@
+{
+	"name":"Freshwater Jellyfish",
+	"scientific name":"Craspedacusta sowerbii",
+	"pictures":
+	[
+		"freshwater_jellyfish1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Olinidiidae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Approximately 20-25mm in diameter",
+			"Very delicate",
+			"Most of body is translucent with whitish or greenish tinge",
+			"Large flat sex organs attached to four radial canals are opaque white"
+
+		],
+
+		"Biology":
+		[	
+			"Feed on zooplankton",
+			"Prey is caught with their stinging tentacles( stinging cells have not proven to be able to pierce human skin)",
+			"The jellyfish-like individuals (called medusae) are the only individuals capable of sexual reproduction.  Tiny asexually-reproducing individuals (called polyps) are more inconspicuous in appearance, and look like small pale worms sprouting tentacles from one end.  The polyps live in colonies attached to underwater vegetation, rocks, or tree stumps, feeding and asexually reproducing during spring and summer; only some of their offspring will become medusae.  The majority of C. sowerbii populations existing in the United States are either all male or all female, meaning that sexual reproduction is rare.",
+			"During the cold winter months, polyps contract and enter dormancy as resting bodies called podocysts.  It is believed that podocysts are transported by aquatic plants or animals to other bodies of water. Once conditions become favorable, they develop into polyps again."
+			
+		],
+
+		"Diet":
+		[
+			
+			"Feeds on zooplankton"
+		],
+
+		"Habitat":
+		[	
+			"Lakes and ponds",
+			"Reservoirs, gravel pits, quarries"
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Shallow depths"
+			
+		],
+		"Range":
+		[
+			"Worldwide"
+		]
+
+		
+	},
+	"tags":
+	[
+		"fauna",
+		"other aquatic fauna",
+		"shallow"
+		
+		
+	]
+}

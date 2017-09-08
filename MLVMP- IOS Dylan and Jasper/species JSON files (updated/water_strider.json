@@ -1,0 +1,70 @@
+{
+	"name":"Water Strider",
+	"pictures":
+	[
+		"waterstrider1.jpg",
+		"waterstrider2.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Hemiptera"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Small 0.25 to 0.5 inches ",
+			"Slender bodies",
+			"Walk on water",
+			"Mouthparts from pointed beak"
+
+		],
+
+		"Biology":
+		[	
+			"Communicate by sending ripples to each other on water surface",
+			"Lay eggs at water’s edge on plant stems",
+			"Usually in large groups"
+
+
+
+		],
+
+		"Diet":
+		[
+			"Predaceous"
+
+		],
+
+		"Habitat":
+		[	"Lakes",
+			"Ponds",
+			"Rivers"
+
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Midwater - Shallow"
+			
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"shallow",
+		"surface"
+		
+	]
+}

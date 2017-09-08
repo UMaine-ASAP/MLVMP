@@ -1,0 +1,71 @@
+{
+	"name":"Isopod",
+	"scientific name":"Oniscus spp., Eurydice spp.",
+	"pictures":
+	[
+		"isopod1.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Aquatic Sow Bug"
+		],
+		"Order":
+		[
+			"Isopoda"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Strongly flattened from top to bottom",
+			"Medium to dark gray and blackish or brownish, some have mottled markings",
+			"Size: 5 to 20mm",
+			"Seven pairs of walking legs",
+			"Benthic (doesn’t really swim!)"
+
+		],
+
+		"Biology":
+		[	
+			"Reproduce throughout year",
+			"Females hold eggs in pouch until hatched and then hold young for 20-30 days"
+		],
+
+		"Diet":
+		[
+			"Fine particles of detritus",
+			"Dead animal matter",
+			"Live and decaying plants"
+		],
+
+		"Habitat":
+		[	
+			"Wide variety of freshwater habitats",
+			"Most common in seeps, springs, small spring-fed streams",
+			"Areas with leaf material"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			
+			"Lake bottom"
+
+
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"crustaceans",
+		"not crayfish",
+		"shallow",
+		"bottom"
+	]
+}

@@ -1,0 +1,62 @@
+{
+	"name":"Allegheny Crayfish",
+	"scientific name":"Orconectes obscurus",
+	"pictures":
+	[
+		"allegheny_crayfish1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Cambaridae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Crescent pattern near back edge of carapace"
+
+		],
+
+		"Biology":
+		[	
+			"Breeding in late summer",
+			"Eggs laid in spring",
+			"Juveniles appear in early April"
+		],
+
+		"Diet":
+		[
+			"Live and decaying vegetation",
+			"Insect larvae",
+			"Small fishes",
+			"Dead animal matter"
+		],
+
+		"Habitat":
+		[	
+			"Lakes",
+			"Rivers, streams"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Lake bottom"
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"crustaceans",
+		"crayfish",
+		"shallow",
+		"bottom"
+	]
+}

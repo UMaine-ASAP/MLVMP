@@ -1,0 +1,68 @@
+{
+	"name":"Limpets",
+	"scientific name":"Patella vulgata",
+	"pictures":
+	[
+		"limpets1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Patellidae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Conical shell that is not spiraled or coiled",      
+			"Single filamentous gills on its underside",
+			"A singular muscular foot to apply suction combined with adhesive mucus to stay in place",      
+			"Teeth",
+			"Size: Adults only grow to be about 3 inches"
+		],
+
+		"Biology":
+		[	
+			"Capable of locomotion—not permanently attached to a single spot in the water column",
+			"Height of the shell of a limpet is directly related to its habitat—living higher in or out of the water means a higher shell to allow a larger reserve of water to breathe"
+		],
+
+		"Diet":
+		[
+			"Herbivorous animals feeding on algae the scrape off the rock they live on", 
+			"The slime trace they leave behind helps them in not visiting the same place twice", 
+			"Limpets' slime helps in supporting algae growth—the limpet also sees to the restoration of its food sour"
+
+		],
+
+		"Habitat":
+		[	
+			"Places rich in algae on most rocky shallow shores",      
+			"Hard surfaces in the intertidal zone of bodies of water"
+
+		],
+
+
+		"Look-Alikes":
+		[
+			"Quagga Mussel"
+		],
+
+		"Commonly Seen":
+		[	"Bottom"
+			
+		]
+
+		
+	},
+	"tags":
+	[
+		"fauna",
+		"mollusks",
+		"limpets",
+		"bottom"
+		
+	]
+}

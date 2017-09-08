@@ -1,0 +1,81 @@
+{
+	"name":"Northern Red-Backed Salamander",
+	"scientific name":"Plethodon cinereus",
+	"pictures":
+	[
+		"n_red_back_salamander1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Plethodontidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"2 color variations: red dorsal stripe that tapers towards the tail or lacking almost all red color",
+			"Red stripe can also be yellow, orange, or white",
+			"Speckled black and white underbelly",    
+			"Between 19 and 20 folds on their sides",
+			"Prominent gular fold",
+			"Small legs with short, thick toes",
+			"The five hind toes are slightly webbed and there are 4 toes on forefeet",     
+			"Teeth", 
+			"They have the ability to drop all or part of their tail if under attack from a predator and re-grow a new one—the tail that grows back is often lighter in color",
+			"Size: Average adults are around 7.5cm long"
+		],
+
+		"Biology":
+		[
+			"Sexual maturity occurs after about 2 years",
+			"Mating season runs from October until December",
+			"Male deposits spermatophores that are later recovered by the female in her cloaca",
+			"Female lay eggs between June and July",
+			"Eggs are typically deposited in clusters of 3-13", 
+			"Clusters are held together and suspended from the ceiling of the nest—is usually a rotted out log or any available crevice",  
+			"Female tend the eggs until they hatch",  
+			"There is no aquatic larval stage", 
+			"Gills reach full development before the larva hatches from its egg envelope but only persist a few days after hatching In the redbacked phase-the dorsal band is well developed by the time of hatching", 
+			"In the redbacked phase-the dorsal band is well developed by the time of hatching",
+			"Males have a more swollen snout, enlarged premaxillary teeth, and proportionally longer legs",
+			"Males are generally smaller than females in body length",
+			"Lifespan is generally 10 years"
+
+		],
+
+		"Habitat":
+		[	
+			"Temperate areas in deciduous forests",    
+			"Wetlands—marshes and swamps"
+		],
+
+		"Diet":
+		[
+			"Foragers",
+			"Invertebrates including flies, spiders, snails, earthworms, ants, insects, mites, centipedes, millipedes, beetles, snails, and larvae"
+		],
+
+		
+
+		"Commonly Seen":
+		[	"Shoreline"
+
+		],
+
+		"Range":
+		[
+			"Nearctic region only—Eastern North America",
+			"Range is west to Missouri, south to North Carolina, and north from southern Quebec and the Maritime Provinces in Canada to Minnesota"	
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"amphibians",
+		"salamanders",
+		"shoreline"
+	
+	]
+}

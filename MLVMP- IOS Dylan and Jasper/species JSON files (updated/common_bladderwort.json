@@ -1,0 +1,76 @@
+{
+	"name":"Common Bladderwort",
+	"scientific name":"Utricularia vulgaris",
+	"pictures":
+	[
+		"common_bladderwort1.jpg",
+		"common_bladderwort2.jpg",
+		"common_bladderwort3.jpg",
+		"common_bladderwort4.jpg",
+		"common_bladderwort5.jpg",
+		"common_bladderwort6.jpg",
+		"common_bladderwort7.jpg",
+		"common_bladderwort8.jpg",
+		"common_bladderwort9.jpg",
+		"common_bladderwort10.jpg",
+		"common_bladderwort11.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Lentibulariaceae"
+		],
+		
+		"Identifying Characteristics":
+		[	"Coarse-appearing submersed aquatic plant",
+			"Stems: thick, hardy",
+			"Leaves: paler and greener toward growing tip, finely branch divided, alternately arranged",
+			"Flowers: midsummer, yellow snapdragon-like on a stalk, may be 4-20 flowers per stalk",
+			"Fruits/Seeds: capsule on stalk (up to 20mm)",
+			"Other: tiny lopsided sack-like bladders (used to capture prey) attached directly to leaves, carnivorous: capture small prey such as zooplankton or small insects"
+		
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: fragmentation, turions"
+		],
+
+		"Habitat":
+		[	"Submersed and floating plant community",
+			"Lakes, ponds, slow-moving streams, wetland pools"
+			
+		],
+
+		"Look Alikes":
+		[
+			"Other Bladderworts",
+			"Fanwort",
+			"Hornworts",
+			"Water Crowfoots",
+			"Water Marigold",
+			"Leafy Watermilfoils"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"	
+		],
+
+		"Range":
+		[	"Native Range: Maine, much of New England, some other parts of the United States"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with finely-divided leaves on stems",
+		"fork or branch divided leaves",
+		"shallow"
+	
+	]
+}

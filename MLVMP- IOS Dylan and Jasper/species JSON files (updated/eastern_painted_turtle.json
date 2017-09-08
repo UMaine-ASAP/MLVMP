@@ -1,0 +1,83 @@
+{
+	"name":"Eastern Painted Turtle",
+	"scientific name":"Chrysemys picta picta",
+	"pictures":
+	[
+		"eastern_painted_turtle1.jpg",
+		"eastern_painted_turtle2.jpg",
+		"eastern_painted_turtle3.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Emydidae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Upper shell is olive green to black and may possess a pale stripe down the middle and red markings on the periphery",
+			"Scutes of the top shell have pale leading edges and occur in straight rows across the back (other species have alternating segments)", 
+			"Bottom shell is plain yellow or lightly spotted",
+			"Sometimes as few as one dark grey spot near the lower center of the shell",
+			 "Size: 4-10’’ long"
+
+		],
+
+		"Biology":
+		[	
+			"Females begin reproductive cycles in mid-summer and ovulate the following spring", 
+			"Copulate at the bottom of the shallow body of water",
+			"Nesting is done (by the females only) between late May and mid-July—nests are often within 200 meters of water, but may be as far away as 600 meters and nest sizes vary depending on female sizes and locations but are about 5–11 cm deep", 
+			"In August and September the young turtle breaks out from its egg—not all offspring leave the nest immediately", 
+			"Hatchling can survive winter in the nest—the hardest freezes can kill many hatchlings", 
+			"Immediately after hatching, turtles are dependent on egg yolk material for sustenance", 
+			"About a week to a week and a half after emerging from their eggs the hatchlings begin feeding to support growth",
+			"Young turtles grow rapidly at first—can sometimes double their size in the first year", 
+			"In most populations males reach sexual maturity at 2–4 years old, and females at 6–10 years old", 
+			"Lifespan can be more than 60 years"
+		],
+
+		"Diet":
+		[
+			"Prefers eating in water—consumes mostly aquatic plants like elodea and dead fish", 
+			"Has been seen eating on land—earthworms, crickets and other insects"
+
+		],
+
+		"Habitat":
+		[	
+			"Permanent ponds",  
+			"Weed-choked shallow coves of large northern lakes", 
+			"Beaver ponds", 
+			"Farm ponds",
+			"Occasionally in the slow-moving sections of rivers",
+			"Often seen in fresh and brackish water bodies"
+		],
+
+		"Commonly Seen":
+		[	"Shoreline",
+			"Surface",
+			"Midwater - Shallow",
+			"Bottom"
+			
+		],
+
+		"Range":
+		[	
+			"Eastern United States and southeastern Canada—Nova Scotia and Maine down to Georgia (east of the Appalachian Mountains)"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"turtles",
+		"shoreline",
+		"surface",
+		"shallow",
+		"bottom"
+		
+	]
+}

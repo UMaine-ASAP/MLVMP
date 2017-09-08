@@ -1,0 +1,63 @@
+{
+	"name":"Appalachian Brook Crayfish",
+	"scientific name":"Cambarus bartonii bartonii",
+	"pictures":
+	[
+		"appalachian_brook_crayfish1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Cambaridae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Short rostrum end in point (stubby head), inflated claws",
+			"Sometimes create “chimney” burrows – top sticks out of water resembling a chimney"
+
+		],
+
+		"Biology":
+		[	
+			"Mate in spring at night",
+			"Females carry eggs during May and June"
+		],
+
+		"Diet":
+		[
+			"Live and decaying vegetation",
+			"Insect larvae",
+			"Small fishes",
+			"Dead animal matter"
+		],
+
+		"Habitat":
+		[	
+			"Under large boulders in small streams and creeks",
+			"Stream banks",
+			"Fast cold streams"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Lake bottom"
+		],
+
+		"Range":
+		[	
+			"Eastern and southern United States, southeastern Canada"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"crustaceans",
+		"crayfish",
+		"shallow",
+		"bottom"
+	]
+}

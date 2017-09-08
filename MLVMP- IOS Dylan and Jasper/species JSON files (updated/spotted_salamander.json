@@ -1,0 +1,78 @@
+{
+	"name":"Spotted Salamander",
+	"scientific name":"Ambystoma maculatum",
+	"pictures":
+	[
+		"spotted_salamander1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Ambystomatidae"
+		],
+		
+		"Identifying Characteristics":
+		[
+
+			"Stout with wide snouts",
+			"Mainly black in color, but can sometimes be blueish-black, dark grey, dark green, or dark brown",
+			"Two uneven rows of yellowish-orange spots run down the entire top of the body", 
+			"Spots near the top of the head are more orange and the spots on the rest of the body are more yellow", 
+			"Underside is gray and pink Larvae are usually light brown or greenish-yellow", 
+			"Larvae are usually light brown or greenish-yellow",
+			"Larvae have small dark spots and are born with external gills",    
+			"Size: Adults can reach up to 9” in length but are typically about 7”"
+		],
+
+		"Biology":
+		[	
+			"Cannot breed in permanent pools because fish inhabiting the pools would eat the eggs and larvae",
+			"Only come above ground after a rain or for foraging and breeding",
+			"During winter they hibernate underground, and are not seen again until breeding season in early March–May",
+			"Mates usually breed in ponds when it is raining in the spring",
+			"Females lay about 100 eggs that cling to the underwater vegetation",
+			"Eggs are round, clear, jelly-like clumps that are usually 2.5–4 in long",
+			"The eggs hatch in one to two months",
+			"Eggs can have a symbiotic relationship with green algae and photosynthetic algae are present within the somatic and possibly the germ cells of the salamander", 
+			"Hatch time depends on the water temperatures",
+			"After larvae develop (in two to four months) the larvae lose their gills and become juvenile salamanders and leave the water",
+			"Life span: can live up to 32 years"
+		],
+
+		"Habitat":
+		[	
+			"Moist and low-lying forests near floodplains",   
+			"In burrows or under leaf litters",
+			"Hardwood forest areas with vernal pools",
+			"Mature deciduous forests",    
+			"Upland forests and mountainous regions",    
+			"Spend most of their time underground"
+		],
+
+		"Diet":
+		[
+			"Crickets, worms, insects, spiders, slugs, centipedes, millipedes"
+		],
+
+		"Commonly Seen":
+		[	"Shoreline"
+
+
+		],
+
+		"Range":
+		[	
+			"Eastern Canada and eastern and Midwest United States"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"amphibians",
+		"salamanders",
+		"shoreline"
+	
+	]
+}

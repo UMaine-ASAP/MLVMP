@@ -1,0 +1,70 @@
+{
+	"name":"Common Waterweed",
+	"scientific name":"Elodea canadensis",
+	"pictures":
+	[
+		"common_waterweed1.jpg",
+		"common_waterweed2.jpg",
+		"common_waterweed3.jpg",
+		"common_waterweed4.jpg",
+		"common_waterweed5.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Hydrocharitaceae"
+		],
+		
+
+		"Identifying Characteristics":
+		[
+			"Submersed aquatic plant",
+			"Stems: long, slender, branched",
+			"Leaves: lance-shaped leaves (2mm wide) that are short and stout (almost same width and length) attached directly to stem (no petiole) in whorls of 3, finely serrated ",
+			"Flowers: early to mid summer, small white with 3 petals, produced at tips of long slender stalks that rise above water surface",
+			"Fruits/Seeds: capsule, 6mm long",
+			"Other:"
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: fragmentation",
+			"Reproduction by seed (rare)"
+		],
+
+		"Habitat":
+		[	"Submersed plant community",
+			"Prefer fine, nutrient-rich sediment",
+			"Freshwater ponds, lakes, slow moving streams, tidal tributaries"
+		],
+
+		"Look Alikes":
+		[
+			"Brazilian Waterweed",
+			"Hydrilla",
+			"Native Waterweeds",
+			"Mare's Tail"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+			
+		],
+
+		"Range":
+		[	"Native Range: Maine, New England, and much of the United States"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with blade-shaped leaves on stems",
+		"leaves arranged in whorls",
+		"shallow"
+		
+	]
+}

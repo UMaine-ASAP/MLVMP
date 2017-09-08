@@ -1,0 +1,71 @@
+{
+	"name":"Quagga Mussel",
+	"scientific name":"Dreissena bugensis",
+	"pictures":
+	[
+		"quagga_mussel1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Dreissenidae"
+		],
+		
+		"Invasive":
+		[
+
+		],
+
+		"Identifying Characteristics":
+		[	
+			"Shell is striped and/or zigzagged rings/bands",    
+			"Very light or white shell with dark concentric rings on shell",
+			"Very light color at the hinge", 
+			"Valves are asymmetrical when viewed from ventricle side",
+			"Size: Adults can be up to 4cm long"
+		],
+
+		"Biology":
+		[	
+			"Life is about 5 years long",
+			"Intense filter feeders resulting in the accumulation of pseudofeces—increase water acidity and produces toxic byproducts",       
+			"Produce organic toxins and pollutants, which get passed up the food chain",     
+			"Threaten local ecosystems as they colonize and smother other species"
+			
+		],
+
+		"Diet":
+		[
+			"Remove suspended particulates from the water column through filter feeding—phytoplankton, zooplankton, algae, and sometimes their own veligers"
+
+		],
+
+		"Habitat":
+		[
+			"Freshwater rivers, lakes, and reservoirs",       
+			"Can inhabit both soft and hard substrates",
+			"Ideal water temperatures are around 28 degrees Celsius and depth of habitat depends on water temperature"	
+		],
+
+		"Commonly Seen":
+		[	"Bottom"
+			
+		],
+
+		"Range":
+		[	
+			"Native: Dneiper River drainage of Ukraine and Ponto-Caspian Sea",
+			"Invasive: United States—Great Lakes, Iowa, Kentucky, Michigan, Minnesota, New York, Ohio, and Pennsylvania, the Ohio River, the Mississippi River, California, Arizona, Nevada, Colorado, Utah, New Mexico" 
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"mollusks",
+		"bivalves",
+		"bottom"
+		
+	]
+}

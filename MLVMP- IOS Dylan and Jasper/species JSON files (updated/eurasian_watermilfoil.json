@@ -1,0 +1,78 @@
+{
+	"name":"Eurasian Watermilfoil",
+	"scientific name":"Myriophyllum spicatum",
+	"pictures":
+	[
+		"eurasian_watermilfoil1.jpg",
+		"eurasian_watermilfoil2.jpg",
+		"eurasian_watermilfoil3.jpg",
+		"eurasian_watermilfoil4.jpg",
+		"eurasian_watermilfoil5.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Haloragaceae"
+		],
+		"Invasive":
+		[
+			
+		],
+
+		"Identifying Characteristics":
+		[	"Dense, submersed aquatic plant",
+			"Stems: long, abundantly branched, reddish or olive-green",
+			"Leaves: Finely feather divided, 12-24 leaflet pairs, whorls of 3-6 leaves, tips blunt, internodal space 1cm or more",
+			"Flowers: June to September, in whorls on emergent stalk with bracts (smooth margins), flowers larger than bracts, tiny, white, female has not petals, male has 4 petals",
+			"Fruits/Seeds: up to 3mm diameter, divided into 4 chambers, 1 seed per chamber",
+			"Other: "
+		
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: root division, fragmentation, seeds"
+		],
+
+		"Habitat":
+		[	"Submersed and emergent communities",
+			"Extremely adapted – still and flowing waters",
+			"Tolerates mild salinity",	
+			"Variety of substrates – fine-textured to inorganic"
+		],
+
+		"Look Alikes":
+		[
+			"Bladderworts",
+			"Fanwort",
+			"Hornworts",
+			"Water Crowfoots",
+			"Water Marigold",
+			"Other Leafy Watermilfoils"
+				
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	"Northeast US Range: most states including Maine, also most Canadian provinces including Quebec",
+			"Native Range: Europe, Asia"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with finely-divided leaves on stems",
+		"feather divided leaves",
+		"shallow",
+		"deep"
+
+	]
+}

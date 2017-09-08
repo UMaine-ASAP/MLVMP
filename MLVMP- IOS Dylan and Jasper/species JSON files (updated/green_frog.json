@@ -1,0 +1,79 @@
+{
+	"name":"Green Frog",
+	"scientific name":"Lithobates clamitans",
+	"pictures":
+	[
+		"green_frog1.jpg",
+		"green_frog2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Ranidae"
+		],
+		
+		"Identifying Characteristics":
+		[
+			"Tadpoles are olive green and iridescent creamy-white below",     
+			"Adults are green, greenish-brown, brownish, yellowish-green, and olive, with some rare individuals being blue",
+			"Often brighter color in front with small, random black spots",
+			"Legs have dark bands across them and their skin is yellowish or white below the bands",
+			"Dorsolateral ridges, prominent, seam-like skin folds that run down the sides of the back Very fast and long leaps Size: typically 5-10cm as adults"	
+		],
+
+		"Biology":
+		[	
+			"Lifespan is between 4-5 years", 
+			"Sexually dimorphic—mature females are typically larger than males, the male tympanum is twice the diameter of the eye, whereas in females, the tympanum diameter is about the same as that of the eye, males have bright yellow throats",  
+			"Breeding season lasts from April to August",  
+			"Male mating call sounds like a banjo string being plucked",  
+			"Amplexus breeding in water",    
+			"Female lays eggs (between 1000-7000) attached to submerged vegetation",    
+			"Metamorphosis can occur within the same breeding season (in 3-5 days) or tadpoles may overwinter to metamorphose the next summer", 
+			"Males become sexually mature at one year, females may mature in either two or three years"
+		],
+
+		"Habitat":
+		[	
+			"Shallow freshwater ponds",
+			"Road-side ditches",
+			"Lakes",
+			"Swamps",
+			"Streams and brooks"
+		],
+		"Diet":
+		[
+			"Adults eat any mouth-sized animal they can capture - insects, spiders, fish, crayfish, shrimp, other frogs, tadpoles, small snakes, birds, and snails",
+			"Tadpoles graze on algae and water plants"
+		],
+
+		"Look-Alikes":
+		[
+			"Bullfrog"
+		],
+
+		"Commonly Seen":
+		[	"Shoreline",
+			"Surface",
+			"Midwater - Shallow"
+
+		],
+
+		"Range":
+		[	
+			"Nearctic region - United States and Canada (from Maine and eastern Canada through the Great Lakes region to western Ontario and Oklahoma, south to eastern Texas, east into northern Florida and extending up the entire east coast of the United States)"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"amphibians",
+		"frogs",
+		"shoreline",
+		"surface",
+		"shallow"
+	
+	]
+}

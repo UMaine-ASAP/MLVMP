@@ -1,0 +1,75 @@
+{
+	"name":"Water Bear",
+	"pictures":
+	[
+		"waterbear1.jpg",
+		"waterbear2.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Tardigrade",
+			"Moss Piglet"
+		],
+		"Phylum":
+		[
+			"Tardigrada"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Water-dwelling, segmented, micro-animal",
+			"Up to 0.5mm long (generally need magnification to see them clearly) ",
+			"Short, plump barrel-shaped bodies",
+			"Four pairs of stubby legs, each with 4-8 claws "
+		],
+
+		"Biology":
+		[	
+			"Considered to be among the most durable of known organisms",
+			"Can withstand an extreme range of temperatures, pressures six times greater than those found in the deepest ocean trenches, ionizing radiation at doses hundreds of times higher than the lethal dose for a human, and the vacuum of outer space.",
+			"Can go without food or water in a dehydrated state for more than 10 years",
+			"Feed on plant cells, algae, bacteria, and small invertebrates.  The tubular mouth is armed with needle-like structures which are used to pierce the outer membranes of prey species, allowing the fluid contents to be sucked out.",
+			"The first three pairs of legs are used for locomotion; the fourth pair, located on the terminal segment of the trunk, is used primarily for grasping the substrate.",
+			"Although some species are parthonogenic (meaning embryos occur without fertilization); in most species mating between males and females is common.  As they grow they molt several times."
+
+		],
+		"Diet":
+		[
+			"Feed on plant cells, algae, small invertebrates"
+		],
+
+	
+		"Habitat":
+		[	
+			"Have been found in hot springs, on top of the Himalayas, under layers of solid ice, in ocean sediments, and in stone walls",
+			"Most common (and active) in moist environments, including lakes, ponds, streams, and wetlands",
+			"Look for them along the lake shore among mosses and lichens"
+
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Surface"
+			
+			
+		],
+		"Range":
+		[
+			"Worldwide"
+		]
+
+		
+	},
+	"tags":
+	[
+		"fauna",
+		"other aquatic fauna",
+		"surface"
+		
+		
+	]
+}

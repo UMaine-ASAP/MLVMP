@@ -1,0 +1,64 @@
+{
+    "name":"Fanwort",
+    "scientific name":"Cabomba caroliniana",
+    "pictures":
+    [
+     "fanwort1.jpg",
+     "fanwort2.jpg",
+     "fanwort3.jpg"
+     ],
+    "information":
+    {
+        "Family":
+        [
+         "Cabombaceae"
+         ],
+        "Invasive":
+        [
+        ],
+        "Identifying Characteristics":
+        [ "Submersed aquatic plant",
+         "Stems: up to 2m long, slender, sometimes covered with gelatinous slime",
+         "Leaves: two leaf types: floating – small (1cm) oval to elliptical; submerged – finely branch divided with a petiole (looks like fan with handle), arranged in opposite pairs on main stem, each pair staggers 90 degrees down stem",
+         "Flowers: May to September, small white (1 cm) among floating leaves",
+         "Fruits/Seeds: leathery pod, 2-3cm long, 1mm wide",
+         "Other: "
+         ],
+        "Biology":
+        [ "Perennial",
+         "Primary reproduction: stem fragments and root expansion",
+         "Reproduction by seed rarely in areas beyond native range"
+         ],
+        "Habitat":
+        [ "Variety of substrates: sand, mud, gravel",
+         "Prefers stagnant of slow moving waters of lakes, ponds, streams",
+         "Depths up to 2.5 meters",
+         "Large mats of drifting mats may occur"
+         ],
+        "Look Alikes":
+        [
+         "Bladderworts",
+         "Hornworts",
+         "Water Crowfoots",
+         "Leafy Watermilfoils"
+         ],
+        "Commonly Seen":
+        [ 
+         "Midwater - Shallow",
+         "Midwater - Deep"
+         ],
+        "Range":
+        [ "Northeast US Range: New Hampshire, Massachusetts, New York, Rhode Island",
+         "Native Range: Europe"
+         ]
+    },
+    "tags":
+    [
+     "flora",
+     "vascular aquatic plants",
+     "plants with finely-divided leaves on stems",
+     "fork or branch divided leaves",
+     "shallow",
+     "deep"
+     ]
+}

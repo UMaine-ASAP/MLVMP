@@ -1,0 +1,87 @@
+{
+	"name":"Eastern Newt",
+	"scientific name":"Notophthalmus viridescens",
+	"pictures":
+	[
+		"eastern_newt1.jpg",
+		"eastern_newt2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Slamandridae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+		"Aquatic larvae have flattened tails, olive colored skin, and feathery gills",
+  		"Eft is reddish-orange in color with two rows of black-bordered red spots", 
+ 		 "It has well-developed lungs, limbs, and eyelids", 
+  		"Adult newts are yellowish-brown to greenish-brown and have black-bordered red spots", 
+  		"Brightly colored skin to warn away predators that they are poisonous", 
+ 		 "Belly color is yellow with black spots", 
+ 		 "Adult newt is slightly moist (just enough to keep its skin from drying out) with rough skin", 
+ 		 "Size: 7-12cm in length" 
+		],
+
+		"Biology":
+		[	
+			"Breeding season begins in late winter and lasts until early spring", 
+ 			 "Females are attracted by a male's spots, which he uses to lure a female towards him", 
+  			"He also makes fanning motions with his tail and emits a pheromone", 
+ 			 "After fertilization it takes several weeks after breeding for females to lay their eggs", 
+ 			"Females lay between 200 and 400 single, jelly-covered eggs on submerged plants each season", 
+  			"Females leave eggs to survive on their own", 
+  			"Eggs develop for 3 to 8 weeks (depending on water temperature). 3 to 4 months later (early Fall) the aquatic larvae develop sac-like lungs and emerge onto land as an “eft”", 
+  			"Hatchlings range in length from 7 to 9 mm and have smooth skin that is not toxic",  
+  			"Eastern newts usually transform into a terrestrial 'eft' stage after 2 to 5 months as an aquatic larva—has a long-slender body with a flattened tail and ranges in length from 3.4 to 4.5 cm After 2-3 years the eft develops a tail and returns to the water to breed",
+  			"Adults remain in their pond or lake for the rest of their life (if the water is permanent)—or spend dry seasons on land and move back to the water in the spring", 
+  			"Some eastern newt populations skip the eft stage and immediately transform into breeding adults", 
+ 			 "Lifespan is between 12 and 15 years"
+		],
+
+		
+		"Habitat":
+		[
+		 "Inhabit both deciduous and coniferous forests", 
+  		 "Immature larvae and adult newts live in small bodies of freshwater, usually with mud bottoms", 
+  		 "Adults can survive on land if their watery habitat dries up—adults may move onto land when the water is low",
+  		 "The juvenile ('eft') stage lives in lakeshore and woodland habitats and is often seen in forest litter on rainy nights"	
+		],
+
+		"Diet":
+		[
+			 "Aquatic larvae eat small invertebrates including water fleas, snails, and beetle larvae",
+     		 "Efts eat small invertebrates, mainly those found in leaf litter, including snails, springtails, and soil mites",
+      		"Adults eat mainly midge larva and other aquatic immature stages of insects" 
+		],
+		"Look-Alikes":
+		[
+			 "Red-spotted newt",  
+    		"Broken-striped newt", 
+    		"Central newt",  
+   			"Peninsula newt" 
+		],
+
+		"Commonly Seen":
+		[	"Shoreline"
+
+
+		],
+
+		"Range":
+		[	
+			 "Eastern United States—from Atlantic coast to the Great Lakes and south to Texas, Alabama, Georgia, and Florida"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"amphibians",
+		"salamanders",
+		"shoreline"
+	
+	]
+}

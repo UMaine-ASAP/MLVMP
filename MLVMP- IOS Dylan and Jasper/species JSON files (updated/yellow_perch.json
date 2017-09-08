@@ -1,0 +1,90 @@
+{
+	"name":"Yellow Perch",
+	"scientific name":"Perca flavescens",
+	"pictures":
+	[
+		"yellow_perch1.jpg",
+		"yellow_perch2.jpg",
+		"yellow_perch3.jpg",
+		"yellow_perch4.jpg",
+		"yellow_perch5.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"American Perch"
+		],
+		"Family":
+		[
+			"Percidae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Top of the head and back is bright green to olive in color",
+			"Sides are yellowish-green to golden yellow with 6 to 8 dark vertical bands",
+			"Belly area ranges from yellow to white",
+			"Pectoral, pelvic and anal fins vary in color from pale yellow to bright orange" 
+
+
+			
+		],
+
+		"Biology":
+		[	
+			"Spawn in early spring: peak mid-April to early May",
+			"Spawning occurs at night to early morning in shallow water",
+			"Long strands of adhesive eggs are deposited over submerged vegetation, trees, shrubs, and directly onto sand and gravel substrates",
+			"Size: average 6 to 12 inches in length and weigh from 1/4 to 1 pound; larger yellow perch, up to 15 inches and 1.6 pounds, are occasionally caught in Maine"
+		],
+
+		"Diet":
+		[
+			"Larval and adult aquatic insects",
+			"Small fish"
+
+
+
+		],
+
+		"Habitat":
+		[	"Lakes, ponds, and impoundments",
+			"Slow moving rivers",
+			"Utilize warm and cool water areas, but generally located in shallow water less than 30 feet deep",
+			"Prefer clear water with moderate vegetation and bottom substrates that range from muck to gravel"
+
+
+		],
+		"Look-Alikes":
+		[
+			"Alewife",
+			"Golden Shiner",
+			"White Perch"
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	
+			"Native Range: North America"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"warm water fish",
+		"shallow",
+		"deep"
+		
+	]
+}

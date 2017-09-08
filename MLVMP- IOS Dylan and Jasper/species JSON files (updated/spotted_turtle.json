@@ -1,0 +1,85 @@
+{
+	"name":"Spotted Turtle",
+	"scientific name":"Clemmys guttata",
+	"pictures":
+	[
+		"spotted_turtle1.jpg",
+		"spotted_turtle2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Emydidae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Adults have a smooth carapace",
+			"Black or brownish-black shell with a variable number of round yellow spots—the spots may fade in old adults and sometimes adults can lack carapace spots altogether",
+			"Visible growth rings", 
+			"Lower shell is yellow or orange with a black blotch covering a portion of each scute—sometimes black pigment can cover nearly the entire plastron", 
+			"Head is mostly black, with a variable number of yellow spots—there is usually a large yellow or orange blotch on each side of the head",
+			"Upper jaw is notched medially",
+			"The upper legs and tail are black with a scattering of yellow spots and the lower legs and neck are orange to pink or salmon-red",    
+			"Size: typically between 2’’ and 5’’"
+		],
+
+		"Biology":
+		[	
+			"Males and females can be told apart from birth—males have a tan chin, brown eyes, and a long, thick tail while females have a yellow chin, orange eyes, and a shorter tail than the male—in addition, the bottom shell of males is concave while it is either flat or convex in females and on average, females grow to be slightly larger than males and have more spots than males", 
+			"Reach sexual maturity between 7 and 14 years of age",
+			"Nesting can occur from late May through June", 
+			"Females usually lay one clutch of 1 to 8 eggs per year",
+			"Nesting females look for open, sunny locations that offer moist, but well-drained, soils", 
+			"Nests dug with the hind feet",
+			"Eggs range from 2.5 to 3.4 cm long, are elliptical, and have thin, flexible shells",
+			"Incubation requires from 44 to 83 days—faster development at warmer temperatures", 
+			"Majority of young emerge from nests in August or September but can also overwinter",
+			"Lifespan can be 100+ years"
+		],
+
+		"Diet":
+		[
+			"Eats exclusively in the water",
+			"Consumes plant material including aquatic vegetation, green algae, and sometimes wild cranberries",
+			"Animal food includes aquatic insect larvae, worms, slugs, millipedes, spiders, crustaceans, tadpoles, salamanders, and several kinds of small fish"
+
+		],
+
+		"Habitat":
+		[
+			"Swamps, bogs, fens, marshes, woodland streams, and wet pastures",
+			"Brackish streams that are influenced by tides and ditches, vernal pools, and sedge meadows",
+			"For a habitat to be sufficient for spotted turtle survival it must have areas of soft substrate and at least some aquatic vegetation",
+			"Shallow and slow moving waters with soft muddy soil, sedge tussocks, water lilies, sphagnum moss, and cattails", 
+			"Can be found basking in patches of grass"
+		],
+
+		"Commonly Seen":
+		[	"Shoreline",
+			"Surface",
+			"Midwater - Shallow",
+			"Bottom"
+			
+		],
+
+		"Range":
+		[	
+			"Southern Maine, Quebec, and Ontario, south along the eastern US to Florida in the east",
+			"Central Indiana and Ohio in the west"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"turtles",
+		"shoreline",
+		"surface",
+		"shallow",
+		"bottom"
+		
+	]
+}

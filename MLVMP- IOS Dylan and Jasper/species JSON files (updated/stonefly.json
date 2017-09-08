@@ -1,0 +1,70 @@
+{
+	"name":"Stonefly",
+	"pictures":
+	[
+		"stonefly1.jpg",
+		"stonefly2.jpg",
+		"stonefly3.jpg",
+		"stonefly4.jpg",
+		"stonefly5.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Plecoptera"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Nymph-like",
+			"External wingpads",
+			"Most have 2 long tails and 2 tarsal claws at the end of each leg"
+
+		],
+
+		"Biology":
+		[	
+			"Spend 10 months to 2 years as larvae in water"
+
+		],
+
+		"Diet":
+		[
+			"Predators or shredders"
+
+
+		],
+
+		"Habitat":
+		[	"Running waters",
+			"Areas with boulder, cobble, water-soaked wood and leaf packets"
+
+
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Bottom"
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"shallow",
+		"bottom"
+		
+	]
+}

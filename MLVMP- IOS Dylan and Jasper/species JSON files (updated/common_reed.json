@@ -1,0 +1,67 @@
+{
+	"name":"Common Reed",
+	"scientific name":"Phragmites australis",
+	"pictures":
+	[
+		"common_reed1.jpg",
+		"common_reed2.jpg",
+		"common_reed3.jpg",
+		"common_reed4.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Poaceae"
+		],
+		"Invasive":
+		[
+		
+		],
+
+		"Identifying Characteristics":
+		[	"Emergent wetland plant",
+			"Stems: up to 6m high, hairy",
+			"Leaves: smooth, long, alternate arrangement, has a sheath, taper to long tip",
+			"Flowers: late July – August, up to 0.5cm long on large conspicuous inflorescence, silver, silky, drape to one side",
+			"Fruits/Seeds: mature seeds have hairs and appear “fluffy”, grey sheen",
+			"Other: "
+		
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: seed, rhizome"
+		],
+
+		"Habitat":
+		[	"Lake shores, wetlands, rivers, ditches"
+		],
+
+		"Look-Alikes":
+		[
+			"Bluejoint Grass",
+			"Lake sedge",
+			"Rattlesnake Grass",
+			"Prairie Cordgrass"
+
+		],
+
+		"Commonly Seen":
+		[	"Shoreline"
+		],
+
+		"Range":
+		[	"Northeast US Range: most northeast states",
+			"Native Range: origin unclear, currently found in Asia, Africa, America, Europe, Australia"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"wetland plants",
+		"shoreline"
+	
+	]
+}

@@ -1,0 +1,64 @@
+{
+	"name":"Virile Crayfish",
+	"scientific name":"Orconectes virilis",
+	"pictures":
+	[
+		"virile_crayfish1.jpg",
+		"virile_crayfish2.jpg",
+		"virile_crayfish3.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Cambaridae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Claws are distinctly blueish with yellow bumps on larger individuals",
+			"Red-orange tips on end of claws"
+		],
+
+		"Biology":
+		[	
+			"Breeding in July",
+			"Eggs laid in spring"
+		],
+
+		"Diet":
+		[
+			"Live and decaying vegetation",
+			"Insect larvae",
+			"Small fishes",
+			"Dead animal matter"
+		],
+
+		"Habitat":
+		[	
+			"Excavates under rocks but occasionally constructs burrow networks in the banks of rivers",
+			"Rivers, streams",
+			"Lakes, ponds"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Lake bottom"
+		],
+
+		"Range":
+		[	
+			"Southern Canada, northern United States, United Kingdom (invasive)"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"crustaceans",
+		"crayfish",
+		"shallow",
+		"bottom"
+	]
+}

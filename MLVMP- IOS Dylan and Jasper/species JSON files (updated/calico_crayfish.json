@@ -1,0 +1,66 @@
+{
+	"name":"Calico Crayfish",
+	"scientific name":"Orconectes immunis",
+	"pictures":
+	[
+		"calico_crayfish1.jpg",
+		"calico_crayfish2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Cambaridae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Slender and fragile looking",
+			"Small claws are orange-tipped"
+
+		],
+
+		"Biology":
+		[	
+			"Breeding occurs in late summer",
+			"Eggs laid in spring"
+		],
+
+		"Diet":
+		[
+			"Live and decaying vegetation",
+			"Insect larvae",
+			"Small fishes",
+			"Dead animal matter"
+		],
+
+		"Habitat":
+		[	
+			"Constructs deep burrows and can survive temporary waters",
+			"Slow moving streams",
+			"Lakes, ponds",
+			"Marshes",
+			"Ditches"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Lake bottom"
+		],
+
+		"Range":
+		[	
+			"Native Range: North central and eastern United States"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"crustaceans",
+		"crayfish",
+		"shallow",
+		"bottom"
+	]
+}

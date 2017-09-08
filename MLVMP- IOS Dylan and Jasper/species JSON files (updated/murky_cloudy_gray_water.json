@@ -1,0 +1,32 @@
+{
+	"name":"Murky or Cloudy (Turbid) Water",
+	"pictures":
+	[
+		"murky_water1.jpg",
+		"murky_water2.jpg"
+
+	],
+	"information":
+	{	
+		"Details":
+		[	
+			"Turbidity is generally caused by tiny particles suspended in water that scatter light and obscure visibility, similar to the way the ash particles in smoke obscure visibility in the air.",
+			"Particulate matter that causes turbidity can include sediment (especially clay and silt), fine organic and inorganic matter, soluble colored organic compounds, algae, and other microscopic organisms.",
+			"An increase in turbidity may be associated with declining lake water quality."
+		],
+
+		"Commonly Seen":
+		[	
+			"Surface",
+			"Midwater - Shallow",
+			"Midwater - Deep"							
+		]		
+	},
+	"tags":
+	[
+		"other aquatic curiosities",
+		"surface",
+		"shallow",
+		"deep"
+	]
+}

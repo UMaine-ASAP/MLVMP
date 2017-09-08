@@ -1,0 +1,77 @@
+{
+	"name":"Variable Pondweed",
+	"scientific name":"Potamogeton gramineus",
+	"pictures":
+	[
+		"variable_pondweed1.jpg",
+		"variable_pondweed2.jpg",
+		"variable_pondweed3.jpg",
+		"variable_pondweed4.jpg",
+		"variable_pondweed5.jpg",
+		"variable_pondweed6.jpg",
+		"variable_pondweed7.jpg",
+		"variable_pondweed8.jpg",
+		"variable_pondweed9.jpg",
+		"variable_pondweed10.jpg",
+		"variable_pondweed11.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Grass-leaved Pondweed"
+		],
+		"Family":
+		[
+			"Potamogetonaceae"
+		],
+		
+
+		"Identifying Characteristics":
+		[	"Submersed aquatic plant",
+			"Stems: slender, profusely branching",
+			"Leaves: two types: submersed – green, elongate to lance-shaped (3-10mm wide, 3-8cm long), fine serrations (need magnification to see), no petioles, taper slight where attached to stem, 3-7 veins; floating – elliptical to oval (0.5-2.5cm wide, 2-5cm long), slender petioles typically longer than leaf blade, may occur singly or in pairs or whorls; both types: have free stipules with blunt slightly hooded tip",
+			"Flowers: early summer, occur among floating leaves, densely arranged on cylindrical spike (1.5-3cm long), small with 4 petal-like lobes on long stalks (up to 20cm)",
+			"Other: some plants are compact, very bushy, with small leaves, while others can be sprawling, “leggy”, with larger leaves"
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: rhizome, turions, seed"
+		],
+
+		"Habitat":
+		[	"Submersed community",
+			"Lakes, ponds, streams",
+			"Prefers firm sediments"
+			
+		],
+
+		"Look Alikes":
+		[
+			"Curly-leaf Pondweeds",
+			"Other Pondweeds"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+			
+		],
+
+		"Range":
+		[	"Native Range: Maine, New England, northern United States"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with blade-shaped leaves on stems",
+		"wider alternately arranged leaves",
+		"shallow",
+		"deep"
+	]
+}

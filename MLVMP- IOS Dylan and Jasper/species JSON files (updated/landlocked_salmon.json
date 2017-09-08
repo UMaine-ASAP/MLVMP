@@ -1,0 +1,73 @@
+{
+	"name":"Landlocked Salmon",
+	"scientific name":"Salmo salar",
+	"pictures":
+	[
+		"landlocked_salmon1.jpg",
+		"landlocked_salmon2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Salmonidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Landlocked salmon are a freshwater form of the sea-run Atlantic salmon ",
+			"Adults are generally silvery with a slightly forked tail and small X-shaped markings on the back and upper sides",
+			"Juvenile salmon have a dark red spot between each pair of parr marks",
+			"Mature males develop a kype, or hooked jaw, during the spawning season"
+		],
+
+		"Biology":
+		[	
+			"Spawn in lake outlets or inlets during the period from mid-October to late November",
+			"Eggs are buried in gravel from 4-12 inches deep and remain there until hatching early the following spring",
+			"Young salmon spend from 1 to 4 years in a stream environment prior to migrating to a lake",
+			"Recent studies in Maine show most wild salmon (about 75%) spend 2 years as stream dwellers",
+			"The oldest landlocked salmon on record in Maine was 13 years old",
+			"Size: Average size is 16-18 inches and 1-1 1/2 pounds, but 3-5 pound fish are not uncommon"
+
+		],
+
+		"Diet":
+		[
+			"Rainbow smelts are the principal forage species in Maine"
+
+		],
+
+		"Habitat":
+		[	"Rivers and streams",
+			"Deep, coldwater lakes and ponds"
+		],
+		"Look-Alikes":
+		[
+			"Brook Trout",
+			"Lake Trout",
+			"Brown Trout",
+			"Rainbow Trout"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	
+			"Native Range: Eastern Canada and Maine"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"cold water fish",
+		"shallow",
+		"deep"
+	]
+}

@@ -1,0 +1,84 @@
+{
+	"name":"Variable Watermilfoil",
+	"scientific name":"Myriophyllum heterophyllum",
+	"pictures":
+	[
+		"variable_watermilfoil1.jpg",
+		"variable_watermilfoil2.jpg",
+		"variable_watermilfoil3.jpg",
+		"variable_watermilfoil4.jpg",
+		"variable_watermilfoil5.jpg",
+		"variable_watermilfoil6.jpg",
+		"variable_watermilfoil7.jpg",
+		"variable_watermilfoil8.jpg",
+		"variable_watermilfoil9.jpg",
+		"variable_watermilfoil10.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Haloragaceae"
+		],
+		"Invasive":
+		[
+			
+		],
+
+		"Identifying Characteristics":
+		[	"Submersed bottle brush appearing aquatic plant",
+			"Stems: sturdy, often reddish but sometimes green, up to 4m long",
+			"Leaves: green, finely feather divided leaves with 5-14 leaflet pairs in whorls of 4-6, internodal space less than 5mm",
+			"Flowers: June to September, in whorls on emergent stalk with bracts (toothed margins), flowers smaller than bracts, white, minute",
+			"Fruits/Seeds: tiny nutlets",
+			"Other: hybridizes with Myriophyllum laxum; hybrid is present in Maine: "
+		
+		],
+
+		"Biology":
+		[	
+			"Primary reproduction: fragmentation, root division",
+			"Reproduction by seed rare outside native range"
+		],
+
+		"Habitat":
+		[	"Submersed community",
+			"Well adapted – still and flowing water, under ice",
+			"Various substrates – organic muck, silt, sand, gravel"
+		],
+
+		"Look Alikes":
+		[
+			"Bladderworts",
+			"Fanwort",
+			"Hornworts",
+			"Water Crowfoots",
+			"Water Marigold",
+			"Other Leafy Watermilfoils"
+				
+		],
+
+		"Commonly Seen":
+		[	"Shoreline",
+			"Midwater - Shallow",
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	"Northeast US Range: Maine, all northeast states",
+			"Native Range: southeastern US"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with finely-divided leaves on stems",
+		"feather divided leaves",
+		"shoreline",
+		"deep",
+		"shallow"
+
+	]
+}

@@ -1,0 +1,63 @@
+{
+	"name":"Water Mite",
+	"pictures":
+	[
+		"watermite1.jpg"
+
+	],
+	"information":
+	{	
+		"Group":
+		[
+			"Hydrachnidiae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Noticed as a bright red speck in the water (species that live in streams tend to be drab, not red)",
+			"Superficially, mites look like tiny aquatic spiders, but unlike their relatives the spiders who have segmented bodies with two distinct parts, water mites have a single disk-like body part. Like spiders, mites generally have eight legs.",
+			"Two sets of double eyes (some species have an additional third eye in between)",
+			"Still-water water mites have hairs on their legs to increase the surface area for swimming; mites that live in running water have strong claws instead, so they can grab the substrate and resist the current."
+		],
+
+		"Biology":
+		[	
+			"Some species are scavengers and omnivores, feeding upon detritus and plants. Most are carnivorous, grasping prey (tiny crustaceans, insect larvae, etc.) piercing them with their fangs, sucking the juices from their bodies, and then discarding the skin and roughage.",
+			"Females lay eggs which hatch into larvae that metamorphose several times before becoming adults.   Some species have a parasitic larval phase, attaching to insect hosts such as stonefly and dragonfly nymphs.  In such cases it is possible for a mite to mature inside its aquatic insect host as the host matures into an aerial adult."
+		],
+		
+	
+		"Habitat":
+		[	
+			"Usually found in the shallows of lakes, ponds, marshes, swamps and bogs, but some have been found to depths of 100 meters.  May inhabit ephemeral pools, burrowing into the mud when the water dries up; also in open water under the ice in winter",
+			"Prime water mite habitat may contain as many as 2,000 mites per square meter",
+			"Look for them swimming in sunlit waters (if they stop swimming, they sink) or Dzwalkingdz across the lake-floor or on submerged plants.",
+			"Can survive in very low oxygen conditions",
+			"Lakes and ponds",
+			"Slow moving rivers and streams"
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+			
+			
+		],
+		"Range":
+		[
+			"Worldwide"
+		]
+
+		
+	},
+	"tags":
+	[
+		"fauna",
+		"other aquatic fauna",
+		"shallow"
+		
+		
+	]
+}

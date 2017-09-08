@@ -1,0 +1,92 @@
+{
+	"name":"Blanding's Turtle",
+	"scientific name":"Emys blandingii or Emydoidea blandingii",
+	"pictures":
+	[
+		"blandings_turtle1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Emydidae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Bright yellow chin and throat",     
+			"Upper shell is domed but slightly flattened along the midline",   
+			"Upper shell is speckled with yellow and light-colored flecks and streaks",      
+			"Lower shell is yellow with symmetrical dark splotches",       
+			"Head and legs are usually dark in color with yellow speckles",       
+			"Hinge located between the pectoral and abdominal scutes", 
+			"Have a permanent 'smile' due to the notch in the upper jaw",
+			"Agile and a good swimmer",    
+			"Spends lots of time underwater",       
+			"Size: Adult carapace length ranges from 15.2 to 27.4 cm"
+		],
+
+		"Biology":
+		[	
+			"Mating occurs in April and early May with nesting beginning in early June and going through the month", 
+			"Take 14–20 years to reach sexual maturity",
+			"Clutch size ranges from 5–12 eggs with an average of eight",
+			"Reproduce through internal fertilization with copulation taking place in the water", 
+			"Less than half of the adult female population will reproduce in a given year",
+			"In June females travel considerable distances from water to find suitable nest sites to lay eggs", 
+			"Females dig a nest cavity (approximately 17 cm deep and 7 to 10 cm in diameter at the mouth) using hind feet",  
+			"Lay flexible, elliptical shaped eggs measuring about 3.6 cm long",
+			"Hatchlings will emerge 50 to 75 days later (depending on the temperature and moisture in the nest) in August or early September",
+			"Few young are ever encountered in the wild—hatchlings are very unlikely to survive the initial weeks away from the nest",
+			"Can reproduce for approximately 40 years",     
+			"Lifespan can be up to 80 years"
+		],
+
+		"Diet":
+		[
+			"Eats crustaceans and other invertebrates, fish, frogs, crayfish, carrion, berries and vegetable debris",
+			"Is capable of catching live fish" 
+
+		],
+
+		"Habitat":
+		[	
+			"Found in and around shallow weedy ponds, marshes, swamps, and lake inlets and coves",
+			"Hibernate under or near water, in mud or under vegetation or debris", 
+			"Prefer slow-moving, shallow water and a muddy bottom with plenty of vegetation",
+			"Often found basking on logs",
+			"Found wandering from water—particularly when nesting",
+			"Younger turtles may bask on sedge and alder hummocks",
+			"Open sunny spots in well-drained but moist sandy soil, but when lacking preferred areas, lawns, gardens, or gravel road edges will be used"
+		],
+		"Look-Alikes":
+		[
+			"Box Turtle"
+		],
+		"Commonly Seen":
+		[
+			"Shoreline",
+			"Surface",
+			"Shallow",
+			"Bottom"
+		],
+		"Range":
+		[
+			"Southwestern Quebec and southern Ontario west to Minnesota and central Nebraska and south to central Illinois",
+			"Stable populations in the Great Lakes region", 
+			"Small isolated populations along the eastern seaboard, including New York, Massachusetts, Rhode Island, New Hampshire, southern Maine, and Nova Scotia" 
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"turtles",
+		"shoreline",
+		"surface",
+		"shallow",
+		"bottom"
+		
+	]
+}

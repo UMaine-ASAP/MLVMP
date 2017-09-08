@@ -1,0 +1,51 @@
+{
+    "name":"Slimy Filamentous Green Algae",
+    "scientific name":"Spirogyra, Mougeotia, Zygnema",
+    "pictures":[
+                "slmy_fil_grn1.jpg",
+                "slmy_fil_grn2.jpg"
+                ],
+    "information":
+    {
+        "Classification":
+        [
+         "chlorophyta"
+         ],
+        "Identifying Characteristics":
+        [ "Green mats look hair-like or cottony, and feel silky, slippery, and/or slimy to the touch",
+         "An algal mat may begin forming on bottom of lake, rise to form suspended cotton candy-like clouds (metaphyton), and finally surface as a floating, bubbling, greenish mass.",
+         "Spirogyra, Mougeotia and Zygnema often occur together.  They can be distinguished under the microscope by the shape of the chloroplasts (the part of the cell that contains the chlorophyll): Spirogyra has spiral chloroplasts; Mougeotia has granular, ribbon-shaped chloroplasts; Zygnema has star-shaped chloroplasts",
+         "Dense mats can impede activities like swimming and fishing, and may cause odor problems and oxygen depletion"
+         ],
+        "Biology":
+        [   "Generally, reproduction is asexual, by vegetative cell division",
+            "Spirogyra is capable of reproducing both sexually and asexually. A filament may fragment into smaller pieces, each one capable of forming new cells. During sexual reproduction (which may be induced by environmental stress) two cells align with each other and form conjugation tubes which connect the two cells and allow for the exchange of genetic material.",
+            "Depending upon genus, life cycles may include both single cell stage (some propelled by flagella) and multicellular stages consisting of cells being joined end-to-end forming thread-like filaments",
+            "Numerous green algae species are naturally occurring in most Maine lakes, and are vital components of lake ecosystems."
+         ],
+        
+        "Habitat":
+        [ 
+            "Freshwater lakes, ponds, wetlands"
+        ],
+        "Commonly Seen":
+        [   
+            "Lake bottom",
+            "Water Surface",
+            "Midwater - Shallow",
+         
+         ],
+        "Range":
+        [ "Worldwide"
+         ]
+    },
+    "tags":
+    [
+     "flora",
+     "algae",
+     "filamentous mat-forming algae",
+     "surface",
+     "shallow",
+     "bottom"
+     ]
+}
