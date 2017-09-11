@@ -54,7 +54,7 @@ class PageViewController: UIPageViewController, UIPageViewControllerDataSource, 
         self.view.frame = CGRect(x: 0,y: 0, width:self.view.frame.width, height: UIScreen.mainScreen().bounds.height - navHeight)
         
         //Set up nav buttons
-        let homeButton = UIBarButtonItem(title: "Back", style: .Plain , target: self, action: "Back")
+        let homeButton = UIBarButtonItem(title: "Back", style: .Plain , target: self, action: #selector(PageViewController.Back))
         self.navigationItem.setLeftBarButtonItem(homeButton, animated: false)
         navigationController?.navigationBar.tintColor = UIColor.whiteColor()
         homeButton.tintColor = UIColor.whiteColor()
@@ -83,7 +83,7 @@ class PageViewController: UIPageViewController, UIPageViewControllerDataSource, 
         {
             return nil
         }
-        index--
+        index -= 1
         return self.viewControllerAtIndex(index)
     }
     //Scroll forwards
@@ -95,7 +95,7 @@ class PageViewController: UIPageViewController, UIPageViewControllerDataSource, 
         {
             return nil
         }
-        index++
+        index += 1
         if (index == self.pageTitles.count)
         {
             return nil

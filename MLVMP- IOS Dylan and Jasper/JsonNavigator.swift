@@ -46,7 +46,7 @@ class JsonNavigator: NSObject {
         json = jsonResponse()
         orderOfNavigation.removeLast()
 
-        for (var index: Int = 0; index < orderOfNavigation.count; index++){
+        for index: Int in 0 ..< orderOfNavigation.count {
 
             json = json[orderOfNavigation[index]] as! [String : AnyObject]
             
@@ -62,16 +62,16 @@ class JsonNavigator: NSObject {
         
         if(!(newJson.keys.count == 1)){
             
-            for(var i = 0; i < newJson.keys.count; i++){
+            for i in 0 ..< newJson.keys.count{
                 let array : [String] = [String](newJson.keys)
                 let selectedCategory = array[i];
                 var matches = SortThread.getSortThread().retrieveMatches()
                 
-                for(var j = 0; j < matches.count; j++){
+                for j in 0 ..< matches.count{
                 
                     
                     
-                    for(var k = 0; k < matches[j].tags.count; k++){
+                    for k in 0 ..< matches[j].tags.count{
                         
                         if(selectedCategory == matches[j].tags[k]) {
                             
@@ -90,11 +90,11 @@ class JsonNavigator: NSObject {
             
             var matches = SortThread.getSortThread().retrieveMatches()
             
-            for(var j = 0; j < matches.count; j++){
+            for j in 0 ..< matches.count {
                 
                
                 
-                for(var k = 0; k < matches[j].tags.count; k++){
+                for k in 0 ..< matches[j].tags.count {
                     
                     if(matches[j].tags[k] == categoryToCheck){
                         
@@ -128,7 +128,7 @@ class JsonNavigator: NSObject {
         
         if(pullSpecies == false){
         //Display categories.
-            for(var index: Int = 0; index < json.keys.count; index++){
+            for index: Int in 0 ..< json.keys.count {
                 
                 if(array[index] != "picture"){
                     
@@ -157,7 +157,7 @@ class JsonNavigator: NSObject {
                             $0.order < $1.order
                     }
             }
-            for(var index: Int = 0; index < matchedSpeciesArray.count; index++){
+            for index: Int in 0 ..< matchedSpeciesArray.count {
                 
                 
                 if(matchedSpeciesArray[index].invasive != nil){

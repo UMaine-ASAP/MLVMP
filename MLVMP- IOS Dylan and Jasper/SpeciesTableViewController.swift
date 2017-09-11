@@ -55,7 +55,7 @@ class SpeciesTableViewController: UITableViewController {
             let scale = wantedwidth/width
             let newheight = height*scale
             heights.append(newheight)
-            index++
+            index += 1
 
         
         }
@@ -88,7 +88,7 @@ class SpeciesTableViewController: UITableViewController {
         if((!(needToDisplayLocation)) && locationPicked)
         {
             
-            for(var i = 0; i < arrayOfCards.count; i++)
+            for(var i = 0; i < arrayOfCards.count; i += 1)
             {
                 
                 if(jsonNavigator.json[arrayOfCards[i].name] != nil)
@@ -98,7 +98,7 @@ class SpeciesTableViewController: UITableViewController {
                     if(!(jsonNavigator.checkAvail(newJson, categoryToCheck: arrayOfCards[i].name)))
                     {
                         arrayOfCards.removeAtIndex(i)
-                        i--
+                        i -= 1
                     }
                 }
                 
@@ -175,7 +175,7 @@ class SpeciesTableViewController: UITableViewController {
         SortThread.getSortThread().resetMatches()
         
         //Regress the json tree search back to start
-        for (var x = 0; x < times; x++)
+        for x in 0 ..< times
         {
             jsonNavigator.regress()
         }
@@ -232,7 +232,7 @@ class SpeciesTableViewController: UITableViewController {
             
             //Searches through matches array for the species that pairs with the title of the button and sets the species object in the resultViewController equal to the match.
             
-            for(var index: Int = 0; index < speciesArray.count; index++){
+            for index: Int in 0 ..< speciesArray.count {
                 
                 if(speciesArray[index].name.lowercaseString == sender.titleLabel!.text!.lowercaseString)
                 {
@@ -273,7 +273,7 @@ class SpeciesTableViewController: UITableViewController {
         
         
         
-        let homeButton = UIBarButtonItem(title: "", style: .Plain , target: self, action: "goHome")
+        let homeButton = UIBarButtonItem(title: "", style: .Plain , target: self, action: #selector(SpeciesTableViewController.goHome))
         let p1 = NSBundle.mainBundle().pathForResource("MVLMP Images (Resized)/" + "home1", ofType: "png")
         var i = UIImage()
         if(p1 != nil)
@@ -287,12 +287,12 @@ class SpeciesTableViewController: UITableViewController {
         UIGraphicsBeginImageContextWithOptions(newSize, false, 0)
         let context = UIGraphicsGetCurrentContext()
         // Set the quality level to use when rescaling
-        CGContextSetInterpolationQuality(context, CGInterpolationQuality.High)
+        CGContextSetInterpolationQuality(context!, CGInterpolationQuality.High)
         let flipVertical = CGAffineTransformMake(1, 0, 0, -1, 0, newSize.height)
-        CGContextConcatCTM(context, flipVertical)
+        CGContextConcatCTM(context!, flipVertical)
         // Draw into the context; this scales the image
-        CGContextDrawImage(context, newRect, imageRef)
-        let newImageRef = CGBitmapContextCreateImage(context)! as CGImage
+        CGContextDrawImage(context!, newRect, imageRef!)
+        let newImageRef = CGBitmapContextCreateImage(context!)! as CGImage
         let newImage = UIImage(CGImage: newImageRef)
         // Get the resized image from the context and a UIImage
         UIGraphicsEndImageContext()
@@ -334,12 +334,12 @@ class SpeciesTableViewController: UITableViewController {
                 UIGraphicsBeginImageContextWithOptions(newSize, false, 0)
                 let context = UIGraphicsGetCurrentContext()
                 // Set the quality level to use when rescaling
-                CGContextSetInterpolationQuality(context, CGInterpolationQuality.High)
+                CGContextSetInterpolationQuality(context!, CGInterpolationQuality.High)
                 let flipVertical = CGAffineTransformMake(1, 0, 0, -1, 0, newSize.height)
-                CGContextConcatCTM(context, flipVertical)
+                CGContextConcatCTM(context!, flipVertical)
                 // Draw into the context; this scales the image
-                CGContextDrawImage(context, newRect, imageRef)
-                let newImageRef = CGBitmapContextCreateImage(context)! as CGImage
+                CGContextDrawImage(context!, newRect, imageRef!)
+                let newImageRef = CGBitmapContextCreateImage(context!)! as CGImage
                 let newImage = UIImage(CGImage: newImageRef)
                 // Get the resized image from the context and a UIImage
                 UIGraphicsEndImageContext()
@@ -376,7 +376,7 @@ class SpeciesTableViewController: UITableViewController {
             let cell = tableView.dequeueReusableCellWithIdentifier(cellIdentifier, forIndexPath: indexPath) as! TableViewCell
             let cellButton = cell.speciesUIButton
             
-            cellButton.addTarget(self, action: "pressed:", forControlEvents: UIControlEvents.TouchUpInside)
+            cellButton.addTarget(self, action: #selector(SpeciesTableViewController.pressed(_:)), forControlEvents: UIControlEvents.TouchUpInside)
             //Fetches the appropriate species for the data source layout.
             cell.buttonView.layer.shadowColor = UIColor.blackColor().CGColor
                         cell.buttonView.layer.shadowOffset = CGSizeMake(0, 4)
@@ -471,7 +471,7 @@ class SpeciesTableViewController: UITableViewController {
                 cell.locationButtonView.layer.masksToBounds = false
                 
                 //Add text and set up press function
-                cellButton.addTarget(self, action: "pressedLocationButton:", forControlEvents: UIControlEvents.TouchUpInside)
+                cellButton.addTarget(self, action: #selector(SpeciesTableViewController.pressedLocationButton(_:)), forControlEvents: UIControlEvents.TouchUpInside)
                 let speciesLabel = UILabel(frame: CGRectMake(0, 0, UIScreen.mainScreen().bounds.width, 40))
                 speciesLabel.backgroundColor = UIColor(white: 1, alpha: 0)
                 let attributes = [NSForegroundColorAttributeName: UIColor(red: 0, green: 40/255, blue: 0, alpha: 1.0),  NSFontAttributeName: UIFont(name: "Arial-BoldItalicMT", size: 17.0)!]
@@ -492,7 +492,7 @@ class SpeciesTableViewController: UITableViewController {
             {
                 let cellIdentifier = "Browse Cell"
                 let cell = tableView.dequeueReusableCellWithIdentifier(cellIdentifier, forIndexPath: indexPath) as! BrowseTableViewCell
-                cell.browseButton.addTarget(self, action: "pressedBrowse:", forControlEvents: UIControlEvents.TouchUpInside)
+                cell.browseButton.addTarget(self, action: #selector(SpeciesTableViewController.pressedBrowse(_:)), forControlEvents: UIControlEvents.TouchUpInside)
                 return cell
                 
             }

@@ -37,7 +37,9 @@ class LocationViewController2: UIViewController {
         
         title = "Location"
         
-        for(var index: Int = 0; index < locations.count; index++){
+        //for(var i = 0; i < locations.count; i++){
+        
+        for i in 0 ..< locations.count {
             
             
             //Create green borders
@@ -49,7 +51,7 @@ class LocationViewController2: UIViewController {
             contentView.addSubview(brownBarRight)
             navigationController?.navigationBar.tintColor = UIColor.whiteColor()
         
-            let path = NSBundle.mainBundle().pathForResource("MVLMP Images (Resized)/" + locations[index].pictureName, ofType: "jpg")
+            let path = NSBundle.mainBundle().pathForResource("MVLMP Images (Resized)/" + locations[i].pictureName, ofType: "jpg")
             var image = UIImage()
             image = UIImage(contentsOfFile: path!)!
 
@@ -88,10 +90,10 @@ class LocationViewController2: UIViewController {
             
             //Create button title
             button = UIButton(frame: CGRectMake(imageView.frame.origin.x, imageView.frame.origin.y, imageView.frame.width, imageView.frame.height + buttonUIView.frame.height))
-            button.setTitle(locations[index].name.capitalizedString, forState: .Normal)
+            button.setTitle(locations[i].name.capitalizedString, forState: .Normal)
             button.titleLabel?.font = UIFont(name: "Helvetica Neue", size: 22)
             button.titleEdgeInsets.top += ((imageView.frame.height + 0))
-            button.addTarget(self, action: "pressed:", forControlEvents: UIControlEvents.TouchUpInside)
+            button.addTarget(self, action: #selector(LocationViewController2.pressed(_:)), forControlEvents: UIControlEvents.TouchUpInside)
             button.setTitleColor(UIColor.whiteColor(), forState: .Normal)
             contentView.addSubview(button)
             spacingCounter += brownBarLeft.frame.height
@@ -134,12 +136,12 @@ class LocationViewController2: UIViewController {
         {
             i = UIImage(contentsOfFile: p1!)!
         }
-        let backbutton = UIBarButtonItem(title: "", style: .Plain , target: self, action: "back")
+        let backbutton = UIBarButtonItem(title: "", style: .Plain , target: self, action: #selector(LocationViewController2.back))
         backbutton.tintColor = UIColor(red:0.89, green:0.90, blue:0.89, alpha:1.0)
         backbutton.image = i
         self.navigationItem.setLeftBarButtonItem(backbutton, animated: false)
         
-        let homeButton = UIBarButtonItem(title: "", style: .Plain , target: self, action: "goHome")
+        let homeButton = UIBarButtonItem(title: "", style: .Plain , target: self, action: #selector(LocationViewController2.goHome))
         
         let p2 = NSBundle.mainBundle().pathForResource("MVLMP Images (Resized)/" + "home1", ofType: "png")
         i = UIImage()
@@ -157,12 +159,12 @@ class LocationViewController2: UIViewController {
         UIGraphicsBeginImageContextWithOptions(newSize, false, 0)
         let context = UIGraphicsGetCurrentContext()
         // Set the quality level to use when rescaling
-        CGContextSetInterpolationQuality(context, CGInterpolationQuality.High)
+        CGContextSetInterpolationQuality(context!, CGInterpolationQuality.High)
         let flipVertical = CGAffineTransformMake(1, 0, 0, -1, 0, newSize.height)
-        CGContextConcatCTM(context, flipVertical)
+        CGContextConcatCTM(context!, flipVertical)
         // Draw into the context; this scales the image
-        CGContextDrawImage(context, newRect, imageRef)
-        let newImageRef = CGBitmapContextCreateImage(context)! as CGImage
+        CGContextDrawImage(context!, newRect, imageRef!)
+        let newImageRef = CGBitmapContextCreateImage(context!)! as CGImage
         let newImage = UIImage(CGImage: newImageRef)
         // Get the resized image from the context and a UIImage
         UIGraphicsEndImageContext()

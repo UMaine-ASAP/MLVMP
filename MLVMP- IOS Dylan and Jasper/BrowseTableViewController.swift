@@ -40,11 +40,11 @@ class BrowseTableViewController: UITableViewController
                 {
                     self.matches.sortInPlace { return $0.order < $1.order}
                 }
-                for var x = 0; x < self.matches.count; x++
+                for x in 0 ..< self.matches.count
                 {   let s = self.matches[x]
                     if let pics = s.pictures
                     {   var picList = [UIImage]()
-                        for var y = 0; y < pics.count; y++
+                        for y in 0 ..< pics.count
                         {
                             let p = pics[y]
                             var parsedImageName = p.componentsSeparatedByString(".")
@@ -66,12 +66,12 @@ class BrowseTableViewController: UITableViewController
                             UIGraphicsBeginImageContextWithOptions(newSize, false, 0)
                             let context = UIGraphicsGetCurrentContext()
                             // Set the quality level to use when rescaling
-                            CGContextSetInterpolationQuality(context, CGInterpolationQuality.High)
+                            CGContextSetInterpolationQuality(context!, CGInterpolationQuality.High)
                             let flipVertical = CGAffineTransformMake(1, 0, 0, -1, 0, newSize.height)
-                            CGContextConcatCTM(context, flipVertical)
+                            CGContextConcatCTM(context!, flipVertical)
                             // Draw into the context; this scales the image
-                            CGContextDrawImage(context, newRect, imageRef)
-                            let newImageRef = CGBitmapContextCreateImage(context)! as CGImage
+                            CGContextDrawImage(context!, newRect, imageRef!)
+                            let newImageRef = CGBitmapContextCreateImage(context!)! as CGImage
                             let newImage = UIImage(CGImage: newImageRef)
                             // Get the resized image from the context and a UIImage
                             UIGraphicsEndImageContext()
@@ -118,17 +118,17 @@ class BrowseTableViewController: UITableViewController
         
         
         let speciesArray = NSMutableArray(capacity: numberOfCollectionViewCells)
-        for var tableViewRow = 0; tableViewRow < numberOfTableViewRows; ++tableViewRow
-        {                                                               //Loops through species and creates array of arrays containing species pictures
+        for tableViewRow in 0 ..< numberOfTableViewRows {
+                                                                //Loops through species and creates array of arrays containing species pictures
             let pictureArray: NSMutableArray = NSMutableArray(capacity: numberOfCollectionViewCells)
-            for var collectionViewItem = 0; collectionViewItem < matches[tableViewRow].pictures!.count; ++collectionViewItem
+            for collectionViewItem in 0 ..< matches[tableViewRow].pictures!.count
             {
                 pictureArray.addObject(matches[tableViewRow].pictures![collectionViewItem])
             }
             speciesArray .addObject(pictureArray)
         }
         //Create Navigation items
-        let homeButton = UIBarButtonItem(title: "Home", style: .Plain , target: self, action: "goHome")
+        let homeButton = UIBarButtonItem(title: "Home", style: .Plain , target: self, action: #selector(BrowseTableViewController.goHome))
         homeButton.tintColor = UIColor.whiteColor()
         self.navigationItem.setRightBarButtonItem(homeButton, animated: false)
         let p1 = NSBundle.mainBundle().pathForResource("MVLMP Images (Resized)/" + "backarrow", ofType: "png")
@@ -140,7 +140,7 @@ class BrowseTableViewController: UITableViewController
             
             
         }
-        let backbutton = UIBarButtonItem(title: "", style: .Plain , target: self, action: "back")
+        let backbutton = UIBarButtonItem(title: "", style: .Plain , target: self, action: #selector(BrowseTableViewController.back))
         backbutton.tintColor = UIColor(red:0.89, green:0.90, blue:0.89, alpha:1.0)
         backbutton.image = i
         self.navigationItem.setLeftBarButtonItem(backbutton, animated: false)
@@ -160,7 +160,7 @@ class BrowseTableViewController: UITableViewController
         switchViewController.jsonNavigator = JsonNavigator(json: jsonResponse())
         SortThread.getSortThread().resetMatches()
         
-        for (var x = 0; x < times; x++)
+        for x in 0 ..< times
         {
             jsonNavigator.regress()
         }
@@ -178,7 +178,7 @@ class BrowseTableViewController: UITableViewController
     override func viewWillAppear(animated: Bool) {
         super.viewWillAppear(animated)
         UIDevice.currentDevice().setValue(UIInterfaceOrientation.Portrait.rawValue, forKey: "orientation")
-        let homeButton = UIBarButtonItem(title: "", style: .Plain , target: self, action: "goHome")
+        let homeButton = UIBarButtonItem(title: "", style: .Plain , target: self, action: #selector(BrowseTableViewController.goHome))
         
         let p2 = NSBundle.mainBundle().pathForResource("MVLMP Images (Resized)/" + "home1", ofType: "png")
         var i = UIImage()
@@ -196,11 +196,11 @@ class BrowseTableViewController: UITableViewController
         UIGraphicsBeginImageContextWithOptions(newSize, false, 0)
         let context = UIGraphicsGetCurrentContext()
         // Set the quality level to use when rescaling
-        CGContextSetInterpolationQuality(context, CGInterpolationQuality.High)
+        CGContextSetInterpolationQuality(context!, CGInterpolationQuality.High)
         let flipVertical = CGAffineTransformMake(1, 0, 0, -1, 0, newSize.height)
-        CGContextConcatCTM(context, flipVertical)
+        CGContextConcatCTM(context!, flipVertical)
         // Draw into the context; this scales the image
-        CGContextDrawImage(context, newRect, imageRef)
+        CGContextDrawImage(context!, newRect, imageRef!)
         let newImageRef = CGBitmapContextCreateImage(context!)! as CGImage
         let newImage = UIImage(CGImage: newImageRef)
         // Get the resized image from the context and a UIImage
@@ -343,12 +343,12 @@ extension BrowseTableViewController:UICollectionViewDataSource,UICollectionViewD
             UIGraphicsBeginImageContextWithOptions(newSize, false, 0)
             let context = UIGraphicsGetCurrentContext()
             // Set the quality level to use when rescaling
-            CGContextSetInterpolationQuality(context, CGInterpolationQuality.High)
+            CGContextSetInterpolationQuality(context!, CGInterpolationQuality.High)
             let flipVertical = CGAffineTransformMake(1, 0, 0, -1, 0, newSize.height)
-            CGContextConcatCTM(context, flipVertical)
+            CGContextConcatCTM(context!, flipVertical)
             // Draw into the context; this scales the image
-            CGContextDrawImage(context, newRect, imageRef)
-            let newImageRef = CGBitmapContextCreateImage(context)! as CGImage
+            CGContextDrawImage(context!, newRect, imageRef!)
+            let newImageRef = CGBitmapContextCreateImage(context!)! as CGImage
             let newImage = UIImage(CGImage: newImageRef)
             // Get the resized image from the context and a UIImage
             UIGraphicsEndImageContext()

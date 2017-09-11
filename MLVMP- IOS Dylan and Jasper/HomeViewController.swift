@@ -58,7 +58,7 @@ class HomeViewController: UIViewController {
         self.navigationController!.navigationBar.translucent = false
         
         //Set up logo for welcome page
-        proceedButton.addTarget(self, action: "proceed", forControlEvents: UIControlEvents.TouchUpInside)
+        proceedButton.addTarget(self, action: #selector(HomeViewController.proceed), forControlEvents: UIControlEvents.TouchUpInside)
         let path = NSBundle.mainBundle().pathForResource("MVLMP Images (Resized)/" + "MVLMPlogoforhelp", ofType: "png")
         var image1 = UIImage()
         if (path != nil)

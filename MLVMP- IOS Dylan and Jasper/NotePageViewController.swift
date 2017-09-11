@@ -42,7 +42,7 @@ class NotePageViewController: UIPageViewController, UIPageViewControllerDataSour
         
         self.setViewControllers(viewControllers as? [UIViewController], direction: .Forward, animated: true, completion: nil)
         
-        let homeButton = UIBarButtonItem(title: "Back", style: .Plain , target: self, action: "Back")
+        let homeButton = UIBarButtonItem(title: "Back", style: .Plain , target: self, action: #selector(NotePageViewController.Back))
         self.navigationItem.setLeftBarButtonItem(homeButton, animated: false)
         // Do any additional setup after loading the view.
         
@@ -67,7 +67,7 @@ class NotePageViewController: UIPageViewController, UIPageViewControllerDataSour
             return nil
             
         }
-        index--
+        index -= 1
         return self.viewControllerAtIndex(index)
     }
     
@@ -79,7 +79,7 @@ class NotePageViewController: UIPageViewController, UIPageViewControllerDataSour
         {
             return nil
         }
-        index++
+        index += 1
         if (index == self.pageTitles.count)
         {
             return nil

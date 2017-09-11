@@ -90,24 +90,24 @@ class SlideshowViewController: UIViewController
         UIGraphicsBeginImageContextWithOptions(newSize1, false, 0)
         let context1 = UIGraphicsGetCurrentContext()
         // Set the quality level to use when rescaling
-        CGContextSetInterpolationQuality(context1, CGInterpolationQuality.High)
+        CGContextSetInterpolationQuality(context1!, CGInterpolationQuality.High)
         let flipVertical1 = CGAffineTransformMake(1, 0, 0, -1, 0, newSize1.height)
-        CGContextConcatCTM(context1, flipVertical1)
+        CGContextConcatCTM(context1!, flipVertical1)
         // Draw into the context; this scales the image
-        CGContextDrawImage(context1, newRect1, imageRef1)
-        let newImageRef1 = CGBitmapContextCreateImage(context1)! as CGImage
+        CGContextDrawImage(context1!, newRect1, imageRef1!)
+        let newImageRef1 = CGBitmapContextCreateImage(context1!)! as CGImage
         let newImage1 = UIImage(CGImage: newImageRef1)
         // Get the resized image from the context and a UIImage
         UIGraphicsEndImageContext()
         
         //let image = UIImage(named: imageName as! String)
-        let backbutton = UIBarButtonItem(title: "", style: .Plain , target: self, action: "back")
+        let backbutton = UIBarButtonItem(title: "", style: .Plain , target: self, action: #selector(SlideshowViewController.back))
         backbutton.tintColor = UIColor(red:0.89, green:0.90, blue:0.89, alpha:1.0)
         backbutton.image = newImage1
         self.navigationItem.setLeftBarButtonItem(backbutton, animated: false)
         
         
-        let homeButton = UIBarButtonItem(title: "", style: .Plain , target: self, action: "goHome")
+        let homeButton = UIBarButtonItem(title: "", style: .Plain , target: self, action: #selector(SlideshowViewController.goHome))
         let p2 = NSBundle.mainBundle().pathForResource("MVLMP Images (Resized)/" + "home1", ofType: "png")
         i = UIImage()
         if(p2 != nil)
@@ -121,12 +121,12 @@ class SlideshowViewController: UIViewController
         UIGraphicsBeginImageContextWithOptions(newSize, false, 0)
         let context = UIGraphicsGetCurrentContext()
         // Set the quality level to use when rescaling
-        CGContextSetInterpolationQuality(context, CGInterpolationQuality.High)
+        CGContextSetInterpolationQuality(context!, CGInterpolationQuality.High)
         let flipVertical = CGAffineTransformMake(1, 0, 0, -1, 0, newSize.height)
-        CGContextConcatCTM(context, flipVertical)
+        CGContextConcatCTM(context!, flipVertical)
         // Draw into the context; this scales the image
-        CGContextDrawImage(context, newRect, imageRef)
-        let newImageRef = CGBitmapContextCreateImage(context)! as CGImage
+        CGContextDrawImage(context!, newRect, imageRef!)
+        let newImageRef = CGBitmapContextCreateImage(context!)! as CGImage
         let newImage = UIImage(CGImage: newImageRef)
         // Get the resized image from the context and a UIImage
         UIGraphicsEndImageContext()
@@ -143,7 +143,7 @@ class SlideshowViewController: UIViewController
         switchViewController.jsonNavigator = JsonNavigator(json: jsonResponse())
         SortThread.getSortThread().resetMatches()
         
-        for (var x = 0; x < times; x++)
+        for x in 0 ..< times
         {
             jsonNavigator.regress()
         }

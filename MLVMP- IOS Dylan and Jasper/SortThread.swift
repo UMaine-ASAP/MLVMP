@@ -23,7 +23,7 @@ class SortThread: NSObject {
     static func getSortThread() -> SortThread{
         if(globalSortThread==nil){
             globalSortThread = SortThread()
-            globalSortThread?.sortThread = NSThread(target: globalSortThread!, selector: "doStuff:", object: nil)
+            globalSortThread?.sortThread = NSThread(target: globalSortThread!, selector: #selector(SortThread.doStuff(_:)), object: nil)
         }
         return globalSortThread!
     }
@@ -67,7 +67,7 @@ class SortThread: NSObject {
             var tempArray = self.stackOfMismatches.pop() as [Species]
             
         
-            for(var i = 0; i < tempArray.count; i++){
+            for i in 0 ..< tempArray.count{
 
                 self.matches.append(tempArray[i])
             
@@ -87,10 +87,10 @@ class SortThread: NSObject {
 
             let stackedArrays = self.stackOfMismatches.items.count
             
-            for(var index: Int = 0; index < stackedArrays; index++){
+            for index: Int in 0 ..< stackedArrays {
                 var tempArray = self.stackOfMismatches.pop() as [Species]
 
-                for(var index2: Int = 0; index2 < tempArray.count; index2++){
+                for index2: Int in 0 ..< tempArray.count {
 
                     
                     self.matches.append(tempArray[index2])
@@ -127,7 +127,7 @@ class SortThread: NSObject {
         //Stores the names of files in the designated folder in a String array.
         let speciesJsonFiles: NSArray = try! defaultManager.contentsOfDirectoryAtPath(pathToSpeciesJsonFiles)
     
-        for( var index: Int = 1; index < speciesJsonFiles.count; index++){
+        for index: Int in 1 ..< speciesJsonFiles.count {
             
             //Grabs json file name and parses out the file type extension.
             var parsedSpeciesName = speciesJsonFiles[index].componentsSeparatedByString(".")
@@ -214,7 +214,7 @@ class SortThread: NSObject {
         }
     
         
-        for(var index: Int = 0; index < self.species.count; index++){
+        for index: Int in 0 ..< self.species.count {
             self.matches.append(species[index])
         }
         
@@ -223,10 +223,10 @@ class SortThread: NSObject {
                 
                 if(self.tagQueue.count == 1){
 
-                    for(var index: Int = 0; index < self.matches.count; index++){
+                    for(var index: Int = 0; index < self.matches.count; index += 1){
                         var matched = false
                     
-                        for(var index2: Int = 0; index2 < self.matches[index].tags.count; index2++){
+                        for index2: Int in 0 ..< self.matches[index].tags.count {
                         
                             if(self.matches[index].tags[index2] == self.tagQueue.last){
                                 matched = true
@@ -239,7 +239,7 @@ class SortThread: NSObject {
                         if(matched == false){
                             self.misMatches.append(self.matches[index])
                             self.matches.removeAtIndex(index)
-                            index--
+                            index -= 1
                         }
                     
                     

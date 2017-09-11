@@ -81,7 +81,7 @@ class TutorialPageViewController: UIPageViewController, UIPageViewControllerData
             self.view.frame = CGRect(x: 0,y: 0, width:self.view.frame.width, height:self.view.frame.size.height)
         }
         
-        let homeButton = UIBarButtonItem(title: "Back", style: .Plain , target: self, action: "Back")
+        let homeButton = UIBarButtonItem(title: "Back", style: .Plain , target: self, action: #selector(TutorialPageViewController.Back))
         self.navigationItem.setLeftBarButtonItem(homeButton, animated: false)
         // Do any additional setup after loading the view.
         
@@ -106,7 +106,7 @@ class TutorialPageViewController: UIPageViewController, UIPageViewControllerData
             return nil
             
         }
-        index--
+        index -= 1
         return self.viewControllerAtIndex(index)
     }
     
@@ -118,7 +118,7 @@ class TutorialPageViewController: UIPageViewController, UIPageViewControllerData
         {
             return nil
         }
-        index++
+        index += 1
         if (index == self.pageTitles.count)
         {
             return nil

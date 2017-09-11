@@ -75,7 +75,7 @@ class ResultPageViewController: UIPageViewController, UIPageViewControllerDataSo
             return nil
             
         }
-        index--
+        index -= 1
         return self.viewControllerAtIndex(index)
     }
     
@@ -87,7 +87,7 @@ class ResultPageViewController: UIPageViewController, UIPageViewControllerDataSo
         {
             return nil
         }
-        index++
+        index += 1
         if (index == self.pageTitles.count)
         {
             return nil

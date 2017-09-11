@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "5F140E21D5B6B2D220102738D244286178CC06E6",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "4E26543BF03D55FDDFC32F07CB21A579AC24356B" : 9223372036854775807,
+    "5F140E21D5B6B2D220102738D244286178CC06E6" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "3FC4BA43-2BA6-4271-87A6-2F29030D4561",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "4E26543BF03D55FDDFC32F07CB21A579AC24356B" : "",
+    "5F140E21D5B6B2D220102738D244286178CC06E6" : "MLVMP\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "MLVMP- IOS Dylan and Jasper",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "MLVMP- IOS Dylan and Jasper.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/isaacsparkswilley\/MLVMP--IOS-Dylan-and-Jasper.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4E26543BF03D55FDDFC32F07CB21A579AC24356B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/UMaine-ASAP\/MLVMP.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5F140E21D5B6B2D220102738D244286178CC06E6"
+    }
+  ]
+}

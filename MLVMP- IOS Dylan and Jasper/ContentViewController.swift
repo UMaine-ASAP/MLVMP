@@ -291,10 +291,10 @@ class ContentViewController: UIViewController, UIScrollViewDelegate
             {   let dots = (vc.parentViewController as! BrowseSlideshowViewController).dotHolder
                 if forward
                 {
-                    vc.startIndex++
+                    vc.startIndex += 1
                     if vc.startIndex >= vc.speciesList[vc.speciesIndex].pictures!.count
                     {   vc.dotChange = true
-                        vc.speciesIndex++
+                        vc.speciesIndex += 1
                         vc.startIndex = 0
                         vc.species = vc.speciesList[vc.speciesIndex]
                         (vc.parentViewController as! BrowseSlideshowViewController).label.text = vc.species.name
@@ -336,7 +336,7 @@ class ContentViewController: UIViewController, UIScrollViewDelegate
                 }
                 else
                 {
-                    vc.startIndex--
+                    vc.startIndex -= 1
                     if vc.startIndex < 0
                     {   vc.dotChange = true
                         vc.speciesIndex -= 1

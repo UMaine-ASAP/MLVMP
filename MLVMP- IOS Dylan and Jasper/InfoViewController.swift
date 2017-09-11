@@ -21,7 +21,7 @@ class InfoViewController: UIViewController {
         //Essentially, set up a ton of text
         super.viewDidLoad()
         title = "Info"
-        let helpButton = UIBarButtonItem(title: "Help", style: .Plain , target: self, action: "goToHelp")
+        let helpButton = UIBarButtonItem(title: "Help", style: .Plain , target: self, action: #selector(InfoViewController.goToHelp))
         helpButton.tintColor = UIColor(red:0.89, green:0.90, blue:0.89, alpha:1.0)
         self.navigationItem.setRightBarButtonItem(helpButton, animated: false)
         
@@ -98,7 +98,7 @@ class InfoViewController: UIViewController {
         scrollView.addSubview(contactLabel)
         scrollView.contentSize.height += contactLabel.frame.height + indent
         
-        for(var i = 0; i < contactInformation.count; i++){
+        for i in 0 ..< contactInformation.count {
             
             let maximumContactInformationFrameSize = CGSize(width: screenSize.width - indent*2, height: 200)
             let contactInformationRect: CGRect = (contactInformation[i] as NSString).boundingRectWithSize(maximumContactInformationFrameSize, options: NSStringDrawingOptions.UsesLineFragmentOrigin, attributes: [NSFontAttributeName: UIFont.systemFontOfSize(16)], context: nil)
@@ -128,7 +128,7 @@ class InfoViewController: UIViewController {
             
             
         }
-        let backbutton = UIBarButtonItem(title: "", style: .Plain , target: self, action: "back")
+        let backbutton = UIBarButtonItem(title: "", style: .Plain , target: self, action: #selector(InfoViewController.back))
         backbutton.tintColor = UIColor(red:0.89, green:0.90, blue:0.89, alpha:1.0)
         backbutton.image = i
         self.navigationItem.setLeftBarButtonItem(backbutton, animated: false)

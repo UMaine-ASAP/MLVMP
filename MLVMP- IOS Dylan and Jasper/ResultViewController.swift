@@ -34,14 +34,14 @@ class ResultViewController: UIViewController {
         {
             i = UIImage(contentsOfFile: p1!)!
         }
-        let backbutton = UIBarButtonItem(title: "", style: .Plain , target: self, action: "back")
+        let backbutton = UIBarButtonItem(title: "", style: .Plain , target: self, action: #selector(ResultViewController.back))
         backbutton.tintColor = UIColor(red:0.89, green:0.90, blue:0.89, alpha:1.0)
         backbutton.image = i
         self.navigationItem.setLeftBarButtonItem(backbutton, animated: false)
         
         
         
-        let homeButton = UIBarButtonItem(title: "", style: .Plain , target: self, action: "goHome")
+        let homeButton = UIBarButtonItem(title: "", style: .Plain , target: self, action: #selector(ResultViewController.goHome))
         let p2 = NSBundle.mainBundle().pathForResource("MVLMP Images (Resized)/" + "home1", ofType: "png")
         i = UIImage()
         if(p2 != nil)
@@ -55,12 +55,12 @@ class ResultViewController: UIViewController {
         UIGraphicsBeginImageContextWithOptions(newSize, false, 0)
         let context = UIGraphicsGetCurrentContext()
         // Set the quality level to use when rescaling
-        CGContextSetInterpolationQuality(context, CGInterpolationQuality.High)
+        CGContextSetInterpolationQuality(context!, CGInterpolationQuality.High)
         let flipVertical = CGAffineTransformMake(1, 0, 0, -1, 0, newSize.height)
-        CGContextConcatCTM(context, flipVertical)
+        CGContextConcatCTM(context!, flipVertical)
         // Draw into the context; this scales the image
-        CGContextDrawImage(context, newRect, imageRef)
-        let newImageRef = CGBitmapContextCreateImage(context)! as CGImage
+        CGContextDrawImage(context!, newRect, imageRef!)
+        let newImageRef = CGBitmapContextCreateImage(context!)! as CGImage
         let newImage = UIImage(CGImage: newImageRef)
         // Get the resized image from the context and a UIImage
         UIGraphicsEndImageContext()
@@ -74,7 +74,7 @@ class ResultViewController: UIViewController {
     override func viewDidLoad()
     {
         //Set up nav bar icons
-        let homeButton = UIBarButtonItem(title: "Home", style: .Plain , target: self, action: "goHome")
+        let homeButton = UIBarButtonItem(title: "Home", style: .Plain , target: self, action: #selector(ResultViewController.goHome))
         homeButton.tintColor = UIColor(red:0.89, green:0.90, blue:0.89, alpha:1.0)
         self.navigationItem.setRightBarButtonItem(homeButton, animated: false)
         let p1 = NSBundle.mainBundle().pathForResource("MVLMP Images (Resized)/" + "backarrow", ofType: "png")
@@ -83,7 +83,7 @@ class ResultViewController: UIViewController {
         {
             i = UIImage(contentsOfFile: p1!)!
         }
-        let backbutton = UIBarButtonItem(title: "", style: .Plain , target: self, action: "back")
+        let backbutton = UIBarButtonItem(title: "", style: .Plain , target: self, action: #selector(ResultViewController.back))
         backbutton.tintColor = UIColor(red:0.89, green:0.90, blue:0.89, alpha:1.0)
         backbutton.image = i
         self.navigationItem.setLeftBarButtonItem(backbutton, animated: false)
@@ -130,7 +130,7 @@ class ResultViewController: UIViewController {
         uncroppedImageView.frame = CGRectMake((scrollView.frame.width - (scrollView.frame.width/20)*17)/3.2, 0, imageWidth, imageHeight)
         //Set up button over picture to view other pictures of species
         button.frame = CGRectMake((scrollView.frame.width - (scrollView.frame.width/20)*17)/2, 0, imageWidth, imageHeight)
-                   button.addTarget(self, action: "picTap", forControlEvents: UIControlEvents.TouchUpInside)
+                   button.addTarget(self, action: #selector(ResultViewController.picTap), forControlEvents: UIControlEvents.TouchUpInside)
                 scrollView.addSubview(button)
         
         
@@ -241,7 +241,7 @@ class ResultViewController: UIViewController {
     
         //Create labels for bullets
         var informationContents: [String] = bullets
-        for(var index2: Int = 0; index2 < informationContents.count; index2++)
+        for index2: Int in 0 ..< informationContents.count
         {
             let maximumLabelSize: CGSize = CGSize(width: textWidth, height: 150)
             let labelRect: CGRect = (informationContents[0] as NSString).boundingRectWithSize(maximumLabelSize, options: NSStringDrawingOptions.UsesLineFragmentOrigin, attributes: [NSFontAttributeName: UIFont.systemFontOfSize(16)], context: nil)
@@ -283,7 +283,7 @@ class ResultViewController: UIViewController {
         switchViewController.jsonNavigator = JsonNavigator(json: jsonResponse())
         SortThread.getSortThread().resetMatches()
         
-        for (var x = 0; x < times; x++)
+        for x in 0 ..< times
         {
             jsonNavigator.regress()
         }
