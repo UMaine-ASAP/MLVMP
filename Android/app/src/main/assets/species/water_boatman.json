@@ -1,0 +1,73 @@
+{
+	"name":"Water Boatman",
+	
+	"pictures":
+	[
+		"water_boatman1.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Hemiptera"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Small 0.2 to 0.5 inches – similar appearance to adults",
+			"Mouthparts form pointed beak",
+			"Forelegs shorter than middle pair",
+			"Dramatic yellow and black tiger stripe patterns"
+
+
+		],
+
+		"Biology":
+		[	
+			"Adults carry air bubble to breathe",
+			"Lay eggs from early February to early May",
+			"Embed eggs in plant stems"
+
+
+		],
+
+		"Diet":
+		[
+			"Predators",
+			"Scavengers",
+			"Herbivore-detritivores",
+			"Omnivores"
+
+		],
+
+		"Habitat":
+		[	"Lakes",
+			"Ponds",
+			"Vernal pools"
+
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Midwater - Shallow"
+			
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"shallow",
+		"surface"
+		
+	]
+}

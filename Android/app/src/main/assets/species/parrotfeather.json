@@ -1,0 +1,80 @@
+{
+	"name":"Parrotfeather",
+	"scientific name":"Myriophyllum aquaticum",
+	"pictures":
+	[
+		"parrotfeather1.jpg",
+		"parrotfeather2.jpg",
+		"parrotfeather3.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Parrotfeather Watermilfoil"
+		],
+		"Family":
+		[
+			"Haloragaceae"
+		],
+		"Invasive":
+		[
+			
+		],
+
+		"Identifying Characteristics":
+		[	"Submersed and emergent feather divided aquatic plant",
+			"Stems: sturdy, sparsely branched, up to 2m long, 5mm diameter",
+			"Leaves: vibrant green, slender feather divided (2.5 – 5 cm long), 10-18 leaflet pairs, arranged in whorls of 4-6, flat midrib, internodal space 1cm or more",
+			"Flowers: spring and/or fall, tiny white, found in leaf axils of emergent stems",
+			"Fruits/Seeds: only female plants in North America so no fruits produced",
+			"Other: "
+		
+		],
+
+		"Biology":
+		[	"Dioecious, Perennial",
+			"Primary reproduction: root division, fragmentation",
+			"Reproduction by seed rare outside native range"
+		],
+
+		"Habitat":
+		[	"Submersed and emergent communities",
+			"Lakes, ponds, slow moving streams",
+			"Tolerates water with some salt intrusion"
+		],
+
+		"Look Alikes":
+		[
+			"Bladderworts",
+			"Fanwort",
+			"Hornworts",
+			"Water Crowfoots",
+			"Water Marigold",
+			"Other Leafy Watermilfoils"
+				
+		],
+
+		"Commonly Seen":
+		[	"Shoreline",
+			"Surface",
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	"Northeast US Range: New York, Rhode Island",
+			"Native Range: South America"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with finely-divided leaves on stems",
+		"feather divided leaves",
+		"shoreline",
+		"surface",
+		"shallow"
+
+	]
+}

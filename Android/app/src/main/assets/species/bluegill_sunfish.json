@@ -1,0 +1,73 @@
+{
+	"name":"Bluegill Sunfish",
+	"scientific name":"Lepomis macrochirus",
+	"pictures":
+	[
+		"bluegill_sunfish1.jpg",
+		"bluegill_sunfish2.jpg",
+		"bluegill_sunfish3.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Centrarchidae"
+		],
+		"Invasive":
+		[
+			
+		],
+		"Identifying Characteristics":
+		[	
+			"Rounded shaped fish, narrow when viewed from front",
+			"Snout curves upward",
+			"Back is dark green to brown, shading to white on belly and yellow to orange on breast",
+			"Vertical bars typically present",
+			"Long, pointed pectoral fins",
+			"Dark spot on posterior area of dorsal fin"
+		],
+
+		"Biology":
+		[	
+			"Spawn in early summer",
+			"Live up to 10 years",
+			"Size: Up to 10 inches in length"
+		],
+
+		"Diet":
+		[
+			"Young - zooplankton",
+			"Adult - insects, invertebrates, small fish"
+		],
+
+		"Habitat":
+		[	"Weedy shores when young",
+			"Open Water"
+		],
+		"Look-Alikes":
+		[
+			"Pumpkinseed Sunfish",
+			"Readbreast Sunfish"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	
+			"Native Range: St. Lawrence River south to Georgia and west to Texas and Minnesota, in all Northeast states except Maine"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"warm water fish",
+		"shallow",
+		"deep"
+	]
+}

@@ -1,0 +1,67 @@
+{
+    "name":"Hydrilla",
+    "scientific name":"Hydrilla verticillata",
+    "pictures":
+    [
+     "hydrilla1.jpg",
+     "hydrilla2.jpg",
+     "hydrilla3.jpg",
+     "hydrilla4.jpg",
+     "hydrilla5.jpg",
+     "hydrilla6.jpg"
+     ],
+    "information":
+    {
+        "Family":
+        [
+         "Hydrocharitaceae"
+         ],
+        "Invasive":
+        [
+        ],
+        "Identifying Characteristics":
+        [
+         "Submersed aquatic plant",
+         "Stems: monoecious variety – branch at lake bottom; doecious variety branch at water surface",
+         "Leaves: green, lance-shaped with claw-like serrations along outer margin, in whorls of 4-8; lower leaves may be in opposite of in whorls of 3",
+         "Flowers: to late summer, small white mid, rise to surface on slender stalks from upper leaf axils",
+         "Fruits/Seeds: small, spindle-shaped, 5-6mm long, rarely seen",
+         "Other: spiny green turions form in leaf axils"
+         ],
+        "Biology":
+        [ "Perennial",
+         "Two forms: dioecious (southern) and monoecious (northern)",
+         "Primary reproduction: rhizomes, tubers, turions",
+         "Reproduction by seed thought to be low relative to other methods"
+         ],
+        "Habitat":
+        [ "Submersed community",
+         "Wide variety of environmental conditions: varied substrate, still or flowing water, low or high nutrients, low light",
+         "Tolerates salinities up to 10 parts per thousand"
+         ],
+        "Look Alikes":
+        [
+         "Brazilian Waterweed",
+         "Native Waterweeds",
+         "Mare's Tail"
+         ],
+        "Commonly Seen":
+        [ 
+         "Midwater - Shallow",
+         "Midwater - Deep"
+         ],
+        "Range":
+        [ "Northeast US Range: Maine, Connecticut, Massachusetts, New Jersey",
+         "Native Range: Africa, Australia, parts of Asia"
+         ]
+    },
+    "tags":
+    [
+     "flora",
+     "vascular aquatic plants",
+     "plants with blade-shaped leaves on stems",
+     "leaves arranged in whorls",
+     "shallow",
+     "deep"
+     ]
+}

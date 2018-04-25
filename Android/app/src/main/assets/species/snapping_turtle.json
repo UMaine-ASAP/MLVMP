@@ -1,0 +1,81 @@
+{
+	"name":"Snapping Turtle",
+	"scientific name":"Chelydra serpentina",
+	"pictures":
+	[
+		"snapping_turtle1.jpg",
+		"snapping_turtle2.jpg",
+		"snapping_turtle3.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Chelydridae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Shell color ranges from dark brown to tan and can even be black",
+			"Shell often becomes covered with mud and algae as time goes on",
+			"Tail has sharp ridges running along its length and is almost as long as the shell", 
+			"Necks, legs, and tails have a yellowish color and the head is dark", 
+			"Mouth is shaped like a strong, bony beak with no teeth",
+			"Skin is rough with characteristic bumps (tubercles) on their necks and legs", 
+			"Feet are webbed and have strong claws",
+			"Cannot pull their head and legs into their shell for protection",      
+			"Size: typically between 8’’ and 18’’ in length"
+		],
+
+		"Biology":
+		[	
+			"Mating lasts from April through November—peak laying season is in June and July", 
+			"Females can hold sperm for several seasons, using it as necessary",
+			"Females travel over land to find sandy soil in which to lay their eggs—often far from water",
+			"Female digs a hole and typically deposits 25 to 80 eggs each year with hind feet and covers eggs with sand for incubation and protection", 
+			"Incubation time ranges from 9 to 18 weeks",
+			"Hatchlings can overwinter in the nest", 
+			"Extremely cold-tolerant—some do not hibernate, but remain active under the ice during the winter",      
+			"Lifespan is poorly known but can be recorded at around 100 years"
+		],
+
+		"Diet":
+		[
+			"Eat both plant and animal matter as aquatic scavengers and ambush hunters"
+
+		],
+
+		"Habitat":
+		[	
+			"Fresh or brackish water",
+			"Shallow ponds and streams",
+			"Water with muddy bottoms and lots of vegetation so that they can hide more easily",
+			"Can be found basking on logs in Spring" 
+		],
+
+		"Commonly Seen":
+		[	"Shoreline",
+			"Surface",
+			"Midwater - Shallow",
+			"Bottom"
+			
+		],
+
+		"Range":
+		[	
+			"Nearctic region—Southern Alberta and east to Nova Scotia in Canada and south to the Gulf of Mexico to Texas"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"turtles",
+		"shoreline",
+		"surface",
+		"shallow",
+		"bottom"
+		
+	]
+}

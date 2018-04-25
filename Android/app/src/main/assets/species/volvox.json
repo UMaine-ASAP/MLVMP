@@ -1,0 +1,55 @@
+{
+	"name":"Volvox",
+	"scientific name":"Volvox spp.",
+	"pictures":
+	[
+		"volvox1.jpg"
+
+	],
+	"information":
+	{	
+		"Classification":
+		[
+			"Chlorophyta"
+		],
+
+		"Identifying Characteristics":
+		[	"Jade green, sphere-shaped colonies are barely visible to the naked eye",
+			"Spherical colonies are very tiny (up to 1mm) and generally sparsely distributed in the upper (sunlit) portion of the lake",
+			"Under the microscope thousands of individual cells that comprise the colony, may be seen embedded within the spherical gelatinous matrix.  The individual cells are spherical to star-shaped with two tail-like flagella.   The colony is hollow, and may contain several smaller sphere-shaped Dzdaughterdz colonies inside"
+		],
+
+		"Biology":
+		[	"As a protist (kingdom Protista) volvox has characteristics that are both plant-like and animal like",
+			"Reproduction occurs either asexually by vegetative cell division, or sexually.",
+			"In sexual reproduction, the few reproductive cells in the colony enlarge and produce either packets of elongate sperm shaped like bundles of miniature matchsticks, or one large egg per cell.  Sperm are released from their 'packet' and attracted to an egg, presumably guided by a pheromone release.",
+			"Each cell contains a green chloroplast (and organelle containing the green pigment chlorophyll) which captures energy from the sun to make food for the colony through photosynthesis",
+			"The flagellated cells beat in synchrony allowing the colony to rotate and swim; one pole of the spherical colony is the anterior (head) end, and it always leads"
+		],
+
+		"Habitat":
+		[	"Lakes, ponds",
+			"Ditches",
+			"Wetlands"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+			
+			
+		],
+
+		"Range":
+		[	"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"algae",
+		"globular or sphere-shaped macro-algae",
+		"shallow"
+	]
+}

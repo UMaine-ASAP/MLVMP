@@ -1,0 +1,50 @@
+{
+    "name":"Bryozoans",
+    "pictures":
+    [
+     "bryozoan1.jpg",
+     "bryozoan2.jpg"
+     ],
+    "information":
+    { "Other Name(s)":
+        [
+         "Moss Animals"
+         ],
+        "Phylum":
+        [
+         "Bryozoa"
+         ],
+        
+        "Identifying Characteristics":
+        [
+         "Tiny colonial invertebrate animals, individuals are called zooids",
+         "Colony looks like a brainlike gelatinous mass",
+         "20 freshwater species "
+         ],
+        "Biology":
+        [
+            "Zooids feed by filtering tiny algae, protozoa, photosynthetic bacteria, small nematodes, and microscopic crustaceans from the water.  Tentacles help capture prey and create currents that draw food toward the mouth.",
+            "Bryozoans are simultaneous hermaphrodites, with individual zooids functioning first as males and then as females.  Colonies contain a zooids in both male and female stages.  Sperm from male zooids exit into the water through pores in the tips of some of the tentacles, and then are captured by the feeding currents of egg-producing female zooids."
+         ],
+        "Diet":
+        [
+        
+        ],
+        "Habitat":
+        [ 
+         "Attached to aquatic plants or sticks",
+         "Lakes and ponds",
+         "Streams and rivers"
+         ],
+        "Commonly Seen":
+        [ "Littoral"
+         ]
+        
+    },
+    "tags":
+    [
+     "fauna",
+     "other aquatic fauna"
+     
+     ]
+}

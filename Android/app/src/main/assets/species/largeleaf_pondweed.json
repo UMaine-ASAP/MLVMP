@@ -1,0 +1,64 @@
+{
+    "name":"Large-leaf Pondweed",
+    "scientific name":"Potamogeton amplifolius",
+    "pictures":
+    [
+     "large_leaf_pondweed1.jpg",
+     "large_leaf_pondweed2.jpg",
+     "large_leaf_pondweed3.jpg",
+     "large_leaf_pondweed4.jpg",
+     "large_leaf_pondweed5.jpg",
+     "large_leaf_pondweed6.jpg",
+     "large_leaf_pondweed7.jpg",
+     "large_leaf_pondweed8.jpg",
+     "large_leaf_pondweed9.jpg",
+     "large_leaf_pondweed10.jpg",
+     "large_leaf_pondweed11.jpg"
+     ],
+    "information":
+    {
+        "Family":
+        [
+         "Potamogetonaceae"
+         ],
+        
+        "Identifying Characteristics":
+        [ "Large, submersed aquatic plant",
+         "Stems: round in cross-section",
+         "Leaves: large stipules that taper to sharp point, Submersed - broad (3-7cm wide), green, alternative arrangement, many veins, arched, outer margins folding slightly toward one another at midrib, have petioles (1-6cm); floating – oval shaped (2.5-5cm wide), opposite arrangement near top of plant, have long petioles (up to 30cm)",
+         "Flowers: midsummer, small, 4 petal-like lobes on long (5cm) spike rising above water",
+         "Fruits/Seeds: late summer, oval to egg shaped with small beak",
+         "Other:"
+         ],
+        "Biology":
+        [ "Perennial",
+         "Primary reproduction: rhizome, seed"
+         ],
+        "Habitat":
+        [ "Submersed community",
+         "Soft sediments in quiet water"
+         ],
+        "Look Alikes":
+        [
+         "Curly-leaf Pondweeds",
+         "Other broad-leaved pondweeds"
+         ],
+        "Commonly Seen":
+        [ 
+         "Surface",
+         "Midwater - Shallow"
+         ],
+        "Range":
+        [ "Native Range: Maine, New England, much of United States"
+         ]
+    },
+    "tags":
+    [
+     "flora",
+     "vascular aquatic plants",
+     "plants with blade-shaped leaves on stems",
+     "wider alternately arranged leaves",
+     "shallow",
+     "surface"
+     ]
+}

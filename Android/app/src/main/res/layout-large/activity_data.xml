@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/background"
+    android:id="@+id/background">
+    <LinearLayout
+        style="@style/scroll"></LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:scrollbarThumbVertical="@drawable/gradient_button_pressed"
+        android:scrollbarSize="9dp">
+
+        <LinearLayout
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:id="@+id/linlayout1">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:id="@+id/linlayout2">
+            </LinearLayout>
+            <ImageView
+                style="@style/category_image_large"
+                android:id="@+id/img"
+                android:onClick="toSlideshow"/>
+            <Button
+               style="@style/shadow_large" />
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:gravity="center"
+                android:id="@+id/buttons">
+            </LinearLayout>
+            <TextView
+                style="@style/name_text_large"
+                android:id="@+id/name_box"/>
+            <TextView
+                style="@style/sciname_text_large"
+                android:id="@+id/sci_name_box">
+            </TextView>
+            <TextView
+               style="@style/info_text_large"
+                android:id="@+id/info_box"/>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

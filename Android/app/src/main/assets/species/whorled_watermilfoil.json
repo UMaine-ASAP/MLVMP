@@ -1,0 +1,75 @@
+{
+	"name":"Whorled Watermilfoil",
+	"scientific name":"Myriophyllum verticillatum",
+	"pictures":
+	[
+		"whorled_watermilfoil1.jpg",
+		"whorled_watermilfoil2.jpg",
+		"whorled_watermilfoil3.jpg",
+		"whorled_watermilfoil4.jpg",
+		"whorled_watermilfoil5.jpg",
+		"whorled_watermilfoil6.jpg",
+		"whorled_watermilfoil7.jpg",
+		"whorled_watermilfoil8.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Haloragaceae"
+		],
+		
+
+		"Identifying Characteristics":
+		[	"Submersed aquatic plant",
+			"Stems: ",
+			"Leaves: two types: submersed – finely feather divided, 5-14 leaflet pairs, whorls of 4-5 leaves, internodal space up to 1cm; emergent (bracts) – pinnately lobed, arranged in whorls, two or more times longer than flowers",
+			"Flowers: midsummer, very small occurring on emergent spike (4-15cm)",
+			"Fruits/Seeds: small, splits into 4 chambers with 1 seed per chamber",
+			"Other: hybridize with other milfoils"
+		
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: fragmentation, rhizomes",
+			"Reproduction by seed not common",
+			"Forms club-shaped winter buds"
+		],
+
+		"Habitat":
+		[	"Submersed and emergent communities",
+			"Prefers quiet waters of lakes and streams"
+		],
+
+		"Look Alikes":
+		[
+			"Bladderworts",
+			"Fanwort",
+			"Hornworts",
+			"Water Crowfoots",
+			"Water Marigold",
+			"Other Leafy Watermilfoils"
+				
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	"Maine, New England, much of United States"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with finely-divided leaves on stems",
+		"feather divided leaves",
+		"shallow"
+
+	]
+}

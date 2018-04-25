@@ -1,0 +1,71 @@
+{
+	"name":"Chinese Mystery Snail",
+	"scientific name":"Cipangopaludina chinensis malleata",
+	"pictures":
+	[
+		"chinese_mystery_snail1.jpg",
+		"chinese_mystery_snail2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Viviparidae"
+		],
+		"Invasive":
+		[
+
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Large globose shell",      
+			"Centrally marked opercula Approximately 6-7 whorls with clear and smooth growth lines as adults (2-3 whorls as juveniles)",      
+			"Inner coloration is white or pale blue",   
+			"Juveniles exhibit lighter shell coloration",
+			"Adults exhibit olive green, greenish brown, brown or reddish brown shell coloration", 
+			"Size: Adults can be up to 65mm"
+		],
+
+		"Biology":
+		[	
+			"Ovoviviparous species—females bear the most young in the 4th and 5th years living",
+			"Sexual reproduction Females live up to 5 years, males live up to 3 years", 
+			"Young are born typically from June to October in shallow waters", 
+			"Females migrate to deeper waters for the winter"
+		],
+
+		"Diet":
+		[
+			"Generally feeds non-selectively on organic and inorganic bottom material",
+			"Also feeds on benthic and epiphytic algae (mostly by scraping)—diatoms are probably the most nutritious food it feeds on in eastern North America"
+
+		],
+
+		"Habitat":
+		[	
+			"Shallow waters", 
+			"Prefers slow-moving freshwater rivers, streams, and lakes with soft, muddy or silt-y bottoms"
+		],
+
+		"Commonly Seen":
+		[	"Bottom"
+			
+		],
+
+		"Range":
+		[	
+			"Native: East Asia—ranging from the tropics of Indochina to northern China and southeast Asia to Japan and eastern Russia",
+			"Invasive: North America—Canada, Unites States (CA, CT, MA, MD, NH, NJ, NY, PA, RI, ME, VA, ID, MI, IN, OH, WI)"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"mollusks",
+		"snails",
+		"bottom"
+		
+	]
+}

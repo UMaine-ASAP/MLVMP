@@ -1,0 +1,79 @@
+{
+	"name":"Rudd",
+	"scientific name":"Scardinius erythrophthalmus",
+	"pictures":
+	[
+		"rudd1.jpg",
+		"rudd2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Cyprinidae"
+		],
+		"Invasive":
+		[
+			
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Larger slab-bodied minnow",
+			"Taxinomically identical to native Golden Shiner. A key distinction between these two minnows is the phyangeal teeth",
+			"Rudd has two rows of phyrangeal teeth – 3 inner and 6 outer teeth",
+			"Golden Shiner has one row of phyrangeal teeth – 5 outer teeth",
+			"Rudd can also grow twice the size of a Golden Shiner, reaching lengths of 20 inches",
+			"Shiny brassy-yellow body color",
+			"Males have bright red fins",
+			"9-10 gill rakers",
+			"Eye is red/orange",
+			"Scales on belly keel between pelvic and anal fins"		
+		],
+
+		"Biology":
+		[	
+			"Spawn from spring through late summer"
+
+		],
+
+		"Diet":
+		[
+			"Crustaceans",
+			"Aquatic Insects",
+			"Some plant material"
+
+		],
+
+		"Habitat":
+		[	"Vegetated areas of lakes"
+
+		],
+		"Look-Alikes":
+		[
+			"Golden Shiner"
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	
+			"Range: Native to Europe; introduced to North America",
+			"Northeast Range: Maine, Vermont, Massachusetts, New York"
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"warm water fish",
+		"shallow"
+		
+	]
+}

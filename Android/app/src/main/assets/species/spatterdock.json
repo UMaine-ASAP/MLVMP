@@ -1,0 +1,73 @@
+{
+	"name":"Spatterdock",
+	"scientific name":"Nuphar variegata",
+	"pictures":
+	[
+		"spadderdock1.jpg",
+		"spadderdock2.jpg",
+		"spadderdock3.jpg",
+		"spadderdock4.jpg",
+		"spadderdock5.jpg",
+		"spadderdock6.jpg",
+		"spadderdock7.jpg",
+		"spadderdock8.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Cow Lily"
+		],
+		"Family":
+		[
+			"Nymphaceae"
+		],
+		
+
+		"Identifying Characteristics":
+		[
+			"Floating leaved aquatic plant",
+			"Stems: thick, elastic, one side rounded the other flat, half-moon in cross-section, unbranched, single leaf per stem",
+			"Leaves: elongate, heart-shaped (7-40cm long), notch in top of leaf",
+			"Flowers: throughout summer, yellow ball-shaped, 5-6 petals around yellowish-green stigmatic disk",
+			"Fruits/Seeds: large seedpod shaped like barrel or vase",
+			"Other: one of most common plants in New England"
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: rhizome, seed"
+		],
+
+		"Habitat":
+		[	"Floating community",
+			"Still or slow moving waters",
+			"Soft sediments"
+		],
+
+		"Look Alikes":
+		[
+			"European Frogbit",
+			"Fragrant Water Lily",
+			"Little Floating Heart",
+			"Yellow Floating Heart"
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	"Native Range: Maine, New England, northern United States"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"floating-leaved plants",
+		"surface",
+		"shallow"
+	]
+}

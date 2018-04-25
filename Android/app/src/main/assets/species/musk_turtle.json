@@ -1,0 +1,82 @@
+{
+	"name":"Musk Turtle",
+	"scientific name":"Sternotherus odoratus",
+	"pictures":
+	[
+		"musk_turtle1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Kinosternidae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Black, grey or brown, highly domed shells",     
+			"Long necks and short legs",       
+			"Yellow lines on neck", 
+			"Head is vaguely triangular in shape, with a pointed snout and sharp beak, and yellow-green striping from the tip of the nose to the neck",
+			"One transverse, anterior hinge",
+			"Also called the “stinkpot”—a common musk turtle may emit a foul smell from glands on the corners of the plastron that exude an orange liquid",      
+			"Size: average between 2’’ and 5’'"
+		],
+
+		"Biology":
+		[	
+			"Males become sexually mature at 4 years old and females at closer to 10 years", 
+			"The female digs shallow nests at the water's edge under rotting logs or dead leaves",  
+			"Communal nesting occurs frequently", 
+			"The turtles mate underwater",
+			"Females lay between one and nine eggs sometime between February and June",
+			"The hatchlings emerge 60 to 84 days later", 
+			"Lifespan is typically around 50 years"
+		],
+
+		"Diet":
+		[
+			"Aquatic invertebrates including crayfish, freshwater clams, snails, aquatic larvae, tadpoles and various insects",
+			"Also eat fish and carrion", 
+			"Hatchling's diet is much more carnivorous than an adult's—can slowly acquire a taste for aquatic plants as the turtle matures"
+
+		],
+
+		"Habitat":
+		[
+			"Wetland habitats and littoral zones—particularly shallow watercourses with a slow current and muddy bottom",
+			"Permanent bodies of water—shallow streams, ponds, rivers, or clear water lakes",
+			"Stays mainly in shallow areas",
+			"Nest on land", 
+			"Hibernate buried in the mud under logs, or in muskrat lodges"
+
+		],
+
+		"Commonly Seen":
+		[	"Shoreline",
+			"Surface",
+			"Midwater - Shallow",
+			"Bottom"
+		],
+
+		"Range":
+		[	
+			"Southern Ontario", 
+			"Southern Quebec", 
+			"Eastern United States from southern Maine in the north, and south through to Florida", 
+			"Also found west to central Texas, with a population located in central Wisconsin"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"turtles",
+		"shoreline",
+		"surface",
+		"shallow",
+		"bottom"
+		
+	]
+}

@@ -1,0 +1,68 @@
+{
+	"name":"Spinycheek Crayfish",
+	"scientific name":"Orconectes limosus",
+	"pictures":
+	[
+		"spiny_cheek_crayfish1.jpg",
+		"spiny_cheek_crayfish2.jpg",
+		"spiny_cheek_crayfish3.jpg",
+		"spiny_cheek_crayfish4.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Cambaridae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Multiple spines on cheek region of carapace",
+			"Legs with orange tips (not very distinct)",
+			"Striped abdomens (not very distinct)",
+			"Older individuals are often dark colored *But, note that many of these species can appear dark if they are covered in algae"
+		],
+
+		"Biology":
+		[	
+			"Sexual reproduction",
+			"Parthenogenesis"
+		],
+
+		"Diet":
+		[
+			"Live and decaying vegetation",
+			"Insect larvae",
+			"Small fishes",
+			"Dead animal matter"
+		],
+
+		"Habitat":
+		[	
+			"Clear streams with moderate current",
+			"Under large pieces of material in riffles",
+			"Under woody debris or undercut banks",
+			"Lakes"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Lake bottom"
+		],
+
+		"Range":
+		[	
+			"Native Range: East coast of North America, Europe (invasive)"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"crustaceans",
+		"crayfish",
+		"shallow",
+		"bottom"
+	]
+}

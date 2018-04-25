@@ -1,0 +1,71 @@
+{
+	"name":"Midge",
+	"pictures":
+	[
+		"midge1.jpg",
+		"midge2.jpg",
+		"midge3.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Chrionomidae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Tube-like segmented body",
+			"Separate head",
+			"Posterior prologs",
+			"Anal tubules"
+
+
+		],
+
+		"Biology":
+		[	
+			"Most diverse and abundant family of aquatic insects",
+			"Primarily burrowers, some cling to rocks & vegetation"
+
+
+
+		],
+
+		"Diet":
+		[
+			"Organic matter",
+			"Detritus"
+
+		],
+
+		"Habitat":
+		[	"Lakes",
+			"Slow rivers"
+
+
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"shallow"
+		
+	]
+}

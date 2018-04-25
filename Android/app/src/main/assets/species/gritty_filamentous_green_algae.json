@@ -1,0 +1,53 @@
+{
+	"name":"Gritty Filamentous Green Algae",
+	"scientific name":"Cladophora, Rhizoclonium, Pithophora, Oedogonium",
+	"pictures":
+	[
+		"metaphyton1.jpg"
+
+	],
+	"information":
+	{	
+		"Classification":
+		[
+			"Chlorophyta"
+		],
+
+		"Identifying Characteristics":
+		[	"Algal mat feels coarse or gritty to the touch",
+			"Mat may begin forming on bottom of lake, and then rise to surface.  May be observed as a dense dark mat on the bottom, suspended \"clouds\" in the water column, or a bubbling greenish mass floating on the water surface",
+			"Dense mats can impede activities like swimming and fishing, and may cause odor problems and oxygen depletion"
+		
+		],
+
+		"Biology":
+		[	"Reproduction is asexual, by vegetative cell division",
+			"Life cycles may include both single cell stage (some propelled by flagella) and multicellular stages consisting of cells being joined end-to-end forming thread-like filaments",
+			"Numerous green algae species are naturally occurring in most Maine lakes, and are vital components of lake ecosystems."
+
+		],
+
+		"Habitat":
+		[	"Freshwater lakes, ponds, wetlands"
+		],
+
+		"Commonly Seen":
+		[	"Water Surface",
+			"Midwater - Shallow",
+			"Lake bottom"
+		],
+
+		"Range":
+		[	"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"algae",
+		"filamentous mat-forming algae",
+		"surface",
+		"shallow",
+		"bottom"
+	]
+}

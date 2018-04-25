@@ -1,0 +1,73 @@
+{
+	"name":"Cranefly",
+	"pictures":
+	[
+		"cranefly1.jpg",
+		"cranefly2.jpg",
+		"cranefly3.jpg",
+		"cranefly4.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Diptera"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Larvae have plump, cylindrical, worm-like bodies (1 – 7 cm in length); bodies are segmented, tapering slightly at the head end; the head is often retracted into the body.  The abdomen may be smooth, lined with hairs, or studded with projections or welt-like spots; the color is generally grayish, brownish, or beige.",
+			"The larvae of the aquatic species have circle of small tentacle-like projections surrounding breathing holes at the posterior end, and will stick this end out of the water to breathe air.",
+			"Adults resemble giant mosquitos with slender bodies and long stilt-like legs (which are deciduous at this stage, easily becoming detached from the body).  They have one pair of wings with a wingspan of about 1.0 to 6.5 cm; the wings transparent with distinctive venation."
+
+
+			
+		],
+
+		"Biology":
+		[	
+			"Craneflies go through Ǯcompleteǯ metamorphosis: passing through egg, larvae, and adult stages.",
+			"The adult female usually contains mature eggs as she emerges from her pupa, and often mates immediately if a male is available.  Copulation may be accomplished in flight, at which time the female immediately deposits eggs on various substrates on or near water, or simply drops them in flight",
+			"Adults have a lifespan of 10 to 15 days",
+			"Once hatched, the larvae of aquatic species live most of their lives on the bottom of the stream or lake under dead leaves or other debris. Terrestrial larvae live in moist soil or among decaying plant material near water where they help to process organic material in the soil ecosystem, increasing microbial activity.",
+			"The pupal stage for all craneflies (terrestrial and aquatic) occurs in the soil; the pupae typically overwintering in the mud near the water's edge, and hatching into a flying adult the following spring",
+			"Larvae and adults are valuable prey items for many animals, including insects, spiders, fish, amphibians, birds, and mammals."
+		],
+
+		"Diet":
+		[
+			"Larvae may eat algae, microflora, fungi, living or decomposing plant matter, including wood and plant roots; some are predatory.",
+			"The larvae of some species are carnivorous on other small invertebrates, sometimes including mosquito larvae.  Adults, with their short lifespans, may feed on nectar or not at all."
+
+
+		],
+
+		"Habitat":
+		[	"Lakes, ponds, and marshes",
+			"Under debris or burrowed in mud or soil"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Bottom"
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"bottom",
+		"shallow"
+		
+	]
+}

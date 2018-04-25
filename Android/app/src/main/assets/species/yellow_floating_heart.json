@@ -1,0 +1,72 @@
+{
+	"name":"Yellow Floating Heart",
+	"scientific name":"Nymphoides peltata",
+	"pictures":
+	[
+		"yellow_floating_heart1.jpg",
+		"yellow_floating_heart2.jpg",
+		"yellow_floating_heart3.jpg",
+		"yellow_floating_heart4.jpg",
+		"yellow_floating_heart5.jpg",
+		"yellow_floating_heart6.jpg"
+
+	],
+	"information":
+	{
+		"Family":
+		[
+			"Menyanthacea"
+		],
+		"Invasive":
+		[
+			
+		],
+
+		"Identifying Characteristics":
+		[
+			"Floating-leaved aquatic plant",
+			"Stems: rooted to sediments, often loosely branching with multiple leaves per rooted stem",
+			"Leaves: small to medium (3-10cm wide), rounded, heart-shaped, entire, slightly scalloped margin",
+			"Flowers: showy, distinctly-fringed yellow flowers (3 to 4 cm in diameter) occur June – September, Flowers emerge from water on slender stalks with 1 to 5 flowers per stalk.",
+			"Fruits/Seeds: fruit capsule is 2.5 cm long and contains numerous seeds. The seeds are oval and flat (about 3.5 mm long) and hairy along their outer edges.",
+			"Other: "
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: rhizome, seeds"
+		],
+
+		"Habitat":
+		[	"Floating-leaved community",
+			"From damp mud to 12 foot depth",
+			"Various substrates"
+		],
+
+		"Look Alikes":
+		[
+			"European Frogbit",
+			"Fragrant Water Lily",
+			"Little Floating Heart",
+			"Spatterdock"
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Shallow"
+		],
+
+		"Range":
+		[	"Range: Most of New England (not Maine) and other US States",
+			"Native Range:  Europe and Asia"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"floating-leaved plants",
+		"surface",
+		"shallow"
+	]
+}

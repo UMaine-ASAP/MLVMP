@@ -1,0 +1,86 @@
+{
+	"name":"Brook Trout",
+	"scientific name":"Salvelinus fontinalis",
+	"pictures":
+	[
+		"brook_trout1.jpg",
+		"brook_trout2.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Eastern Brook Trout",
+			"Squaretail",
+			"Brookie",
+			"Speckled Trout"
+		],
+		"Family":
+		[
+			"Salmonidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Color is variable, depending on habitat",
+			"Dark, wavy, worm-like line along back",
+			"Leading edges of fins are white, including the tail"
+		],
+
+		"Biology":
+		[	
+			"Spawn late summer, early autumn",
+			"Female constructs a depression (redd) in the stream bed where groundwater percolates upward through the gravel",
+			"Eggs are fertilized by one or more males as they are expressed by the female",
+			"Female buries the eggs in a small gravel mound; eggs hatch in 95 to 100 days",
+			"Adult size: varies greatly, depending on water temperature, productivity, and food sources",
+			"Statewide average length of 3 year-old brook trout in Maine lakes is 13.3 inches, but in some lakes may reach 17.5 inches in length",
+			"Stream populations are typically slower growing than lake populations"
+		],
+
+		"Diet":
+		[
+			"Larval, pupal, and adult forms of aquatic insects (e.g., caddisflies, stoneflies, mayflies and aquatic dipterans)",
+			"Adult forms of terrestrial insects (e.g., ants, beetles, grasshoppers and crickets) that fall into the water",
+			"Crustaceans",
+			"Frogs and other amphibians",
+			"Mollusks",
+			"Small fishes",
+			"Invertebrates",
+			"Small aquatic mammals such as voles"
+		],
+
+		"Habitat":
+		[	"Rivers",
+			"Streams",
+			"Deep, coldwater lakes and ponds",
+			"Prefer clear, cool waters of high purity and a narrow pH range; preferred pH - 5.0 to 7.5", 
+			"Preferred water temperatures 34 to 72 °F (1 to 22 °C)"
+		],
+		"Look-Alikes":
+		[
+			"Brown Trout",
+			"Lake Trout",
+			"Rainbow Trout"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	
+			"Native Range: Eastern North America in the US and Canada"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"cold water fish",
+		"shallow",
+		"deep"
+	]
+}

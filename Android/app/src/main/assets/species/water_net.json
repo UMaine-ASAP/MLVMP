@@ -1,0 +1,53 @@
+{
+	"name":"Water Net",
+	"scientific name":"Hydrodictyon reticulatum",
+	"pictures":
+	[
+		"water_net1.jpg",
+		"water_net2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Chlorophyta"
+		],
+
+		"Identifying Characteristics":
+		[	"Forms dense light-green mat comprised of filaments that are joined hexagonally, resembling a net",
+			"The net-like appearance is more clearly visible when the water is squeezed out of the mat.",
+			"Under the microscope the net arrangement of the cells is the most obvious feature that distinguishes Hydrocictyon from other algae."
+		],
+
+		"Biology":
+		[	"Reproduction is asexual, by vegetative cell division",
+			"Requires high alkalinity",
+			"Indicator of very high nitrogen and phosphorus levels"
+		],
+
+		"Habitat":
+		[	"High alkalinity, high nutrient lakes",
+			"Farm ponds"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Shallow areas"
+			
+			
+		],
+
+		"Range":
+		[	"Worldwide, but less associated with high nutrients in New Zealand"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"algae",
+		"filamentous mat-forming algae",
+		"shallow"
+	]
+}

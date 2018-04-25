@@ -1,0 +1,85 @@
+{
+	"name":"White Perch",
+	"scientific name":"Morone americana",
+	"pictures":
+	[
+		"white_perch1.jpg",
+		"white_perch2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Centrarchidae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Slightly rounded body, thick from front view",
+			"2 dorsal fins",
+			"Upper and lower jaws approximately same length",
+			"3 anal spines – first one quite short, second and third longer",
+			"Back and base of median fins olive green to dark gray, body grades to silvery gray on sides and white on underside"
+
+			
+		],
+
+		"Biology":
+		[	
+			"Spawn in late spring",
+			"Travel in schools searching for food",
+			"May live up to 12 years old",
+			"Size: usually < 10 inches long, up to 1 pound weight"
+
+		],
+
+		"Diet":
+		[
+			"Zooplankton",
+			"Minnows",
+			"Crustaceans",
+			"Insects"
+
+
+
+		],
+
+		"Habitat":
+		[	"Coastal waters",
+			"Inland freshwater habitats",
+			"Lakes"
+
+		],
+		"Look-Alikes":
+		[
+			"Alewife",
+			"Golden Shiner",
+			"Yellow Perch"
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	
+			"Range: St. Lawrence River south to South Carolina, all Northeast states"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"warm water fish",
+		"shallow",
+		"deep"
+		
+	]
+}

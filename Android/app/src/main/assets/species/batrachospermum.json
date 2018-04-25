@@ -1,0 +1,58 @@
+{
+	"name":"Batrachospermum",
+	"scientific name":"Batrachospermum",
+	"pictures":
+	[
+		"batrachospermum1.jpg",
+		"batrachospermum2.jpg",
+		"batrachospermum3.jpg",
+		"batrachospermum4.jpg"
+
+	],
+	"information":
+	{	
+		"Classification":
+		[
+			"Chlorophyta"
+		],
+
+		"Identifying Characteristics":
+		[	"Branching filaments arranged loosely around a center, forming a somewhat spherical branching mass",
+			"May grow to be the size of a tennis-ball or larger",
+			"Pink, purple, blue-green, green, brown, or yellow in color",
+			"Under magnification, the tear-drop shaped cells, forming long, branched, threadlike filaments may be seen (like little glass beads strung on a thread)",
+			"The delicate strands feel slimy, gelatinous, to the touch."
+		],
+
+		"Biology":
+		[	"Propagation through sexual reproduction; the male cells (antheridia) do not swim, meeting the female cells (carpogonium) simply by chance as they drift upon the current; after fertilization, spores are formed in clusters around the base of the carpogonium.",
+			"Has a wide environmental tolerance with respect to light, current velocity, pH and temperature"
+
+
+		],
+
+		"Habitat":
+		[	"Lakes, ponds, wetlands, pools in sphagnum bogs",
+			"Common in slow-flowing streams, especially shady sites"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+			
+			
+		],
+
+		"Range":
+		[	"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"algae",
+		"branching algae that resemble higher plants",
+		"shallow"
+	]
+}

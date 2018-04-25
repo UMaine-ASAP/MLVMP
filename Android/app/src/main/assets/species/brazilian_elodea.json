@@ -1,0 +1,68 @@
+{
+    "name":"Brazilian Elodea",
+    "scientific name":"Egeria densa",
+    "pictures":
+    [
+     "brazilian_elodea1.jpg",
+     "brazilian_elodea2.jpg",
+     "brazilian_elodea3.jpg",
+     "brazilian_elodea4.jpg"
+     ],
+    "information":
+    { "Other Name(s)":
+        [
+         "Brazilian Waterweed",
+         "Anacharis"
+         ],
+        "Family":
+        [
+         "Hydrocharitaceae"
+         ],
+        "Invasive":
+        [
+        ],
+        "Identifying Characteristics":
+        [
+         "Dense, submersed aquatic plant",
+         "Stems: up to 3m",
+         "Leaves: bright to dark green, blade shaped (1-3cm long, up to 5mm wide) in whorls of >3, very finely serrated margins",
+         "Flowers: late spring to early fall, small white, 3 petalled flower with yellow center, emerge just above or at surface of water on slender stalks from leaf axils",
+         "Fruits/Seeds: only produced in native range",
+         "Other: most of biomass produced near water surface"
+         ],
+        "Biology":
+        [ "Perennial",
+         "Primary reproduction: fragmentation",
+         "Seed production only in native range - only male flowers present on plants in US"
+         ],
+        "Habitat":
+        [ "Submersed community",
+         "Substrates: sand, mud, stone"
+         ],
+        "Look Alikes":
+        [
+         "Hydrilla",
+         "Native Waterweeds",
+         "Mare's Tail"
+         ],
+        "Commonly Seen":
+        [ 
+         "Midwater - Shallow",
+         "Midwater - Deep"
+         ],
+        "Range":
+        [ "Northeast US Range: New Hampshire, Massachusetts, Vermont, New York",
+         "Native Range: South America"
+         ]
+    },
+    "tags":
+    [
+     "flora",
+     "vascular aquatic plants",
+     "plants with blade-shaped leaves on stems",
+     "leaves arranged in whorls",
+     "surface",
+     "shallow",
+     "deep"
+     ]
+}

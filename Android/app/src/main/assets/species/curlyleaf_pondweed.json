@@ -1,0 +1,79 @@
+{
+	"name":"Curly-leaf Pondweed",
+	"scientific name":"Potamogeton crispus",
+	"pictures":
+	[
+		"curly_leaf_pondweed1.jpg",
+		"curly_leaf_pondweed2.jpg",
+		"curly_leaf_pondweed3.jpg",
+		"curly_leaf_pondweed4.jpg",
+		"curly_leaf_pondweed5.jpg",
+		"curly_leaf_pondweed6.jpg",
+		"curly_leaf_pondweed7.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Potamogetonaceae"
+		],
+		"Invasive":
+		[
+			
+		],
+
+		"Identifying Characteristics":
+		[	"Submersed aquatic plant",
+			"Stems: branched, up to 90cm long, somewhat flattened",
+			"Leaves: green to yellowish lance-shaped, toothed margin, wavy edges, no petiole, distinct venation pattern",
+			"Flowers: early summer, small tightly arranged at end of slender stalk (7cm)",
+			"Fruits/Seeds: prominent cone-shaped beak and bumpy crown-like ridge",
+			"Other: stem slightly flattened, plants break up by mid-July"
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: rhizomes, turions, fragmentation",
+			"Reproduction by seed does occur but the importance to the plant's propogation is unknown"
+		],
+
+		"Habitat":
+		[	"Submersed community",
+			"Prefers soft sediments",
+			"Still or flowing waters – lakes, ponds, rivers, streams",
+			"Extremely well adapted – can survive where other aquatic plants do not: shaded, disturbed, polluted or turbid waters"
+			
+		],
+
+		"Look Alikes":
+		[
+			"Clasping-leaf Pondweeds",
+			"Large-leaf Pondweed",
+			"Variable Pondweed",
+			"Other broad-leaved pondweeds"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+			
+		],
+
+		"Range":
+		[	"Northeast US Range: Maine, New Hampshire, Massachusetts, Vermont, Connecticut, New York, Rhode Island",
+			"Native Range: Eurasia"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with blade-shaped leaves on stems",
+		"wider alternately arranged leaves",
+		"shallow",
+		"deep"
+	]
+}

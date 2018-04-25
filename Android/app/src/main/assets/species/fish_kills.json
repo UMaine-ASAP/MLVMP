@@ -1,0 +1,32 @@
+{
+    "name":"Fish Kills",
+    "pictures":
+    [
+     "fish_kill1.jpg"
+     ],
+    "information":
+    {
+        "Details":
+        [
+            "Fish kills (the mass die off of fish resulting from a discrete influence or event) are rarely the result of toxic pollution.  Fish may die in numbers from lack of food, viral or bacterial infection, or from being stranded by low water levels.",
+            "Some fish (suckers, for example) naturally die after migration or spawning.  Schools of smelt may die from relatively moderate stress, such as higher than normal water temperatures.",
+            "The most significant fish kills in lakes occur from lack of dissolved oxygen in the water.  This phenomenon is more common in highly eutrophic lakes where excess nutrients have caused algal blooms.  Bacterial decomposition of ogranic matter (including algae) results in the loss of dissolved oxygen in lake water, especially in deeper areas that are subject to thermal stratification.",
+            "Cold-water fish species (such as trout and salmon) - that spend the warm summer months in deeper, cooler water, and require relatively high levels of oxygen to survive - are particularly vulnerable to summer oxygen depletion.",
+            "Winter ice cover on lakes prevents the oxygen replenishment at the surface.  During long, cold winters, limited oxygen supplies in the lake may become severly depleted, resulting in a fish kill."
+            
+
+         ],
+        "Commonly Seen":
+        [
+         "Shoreline",
+         "Surface"
+         ]
+        
+    },
+    "tags":
+    [
+     "other aquatic curiosities",
+     "surface",
+     "shoreline"
+     ]
+}

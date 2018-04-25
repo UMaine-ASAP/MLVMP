@@ -1,0 +1,29 @@
+{
+	"name":"Lines on Rocks",
+	"pictures":
+	[
+		"lines_on_rocks1.jpg"
+
+	],
+	"information":
+	{	
+		"Details":
+		[	
+			"Lines on the rocks that follow the shore are the telltale marks left behind by various aquatic phenomena, and can reveal information about the range of water level fluctuation in the particular waterbody.",
+			"Pollen, planktonic algae and other biological matter that settles on, or rises to, the water surface can leave lines behind on the rocks.  The lines become more obvious as the water level drops through the summer.  The lines left behind by pollen are typically pale yellow.  Diatoms (a type of algae with silica in their cells) leave behind crusty white lines.",
+			"Another type of line is formed by certain types of algae which adhere to hard surfaces (including rocks) where the water meets the air, similar to bands of seaweed along the coast.  These algae appear as a black band on shoreline rocks.",
+			"Bands of bare rock just above the black algae layer are areas where winter ice has scoured the rock.",
+			"Above the bare scour zone is often a band of moss or lichens.  Lichens grow slowly, so they are a good indicator of how high the ice is pushed up along the shore during the winter."
+		],
+
+		"Commonly Seen":
+		[	
+			"Shoreline"							
+		]		
+	},
+	"tags":
+	[
+		"other aquatic curiosities",
+		"shoreline"
+	]
+}

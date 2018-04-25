@@ -1,0 +1,62 @@
+{
+	"name":"White River Crayfish",
+	"scientific name":"Procambarus acutus",
+	"pictures":
+	[
+		"white_river_crayfish1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Cambaridae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Broad dark strip along abdomen (more obvious in juveniles)",
+			"long, slender claws",
+			"Rostrum tapers"
+		],
+
+		"Biology":
+		[	
+			"Breed year round"
+		],
+
+		"Diet":
+		[
+			"Live and decaying vegetation",
+			"Insect larvae",
+			"Small fishes",
+			"Dead animal matter"
+		],
+
+		"Habitat":
+		[	
+			"Streams",
+			"Ditches",
+			"Swampy areas"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Lake bottom"
+		],
+
+		"Range":
+		[	
+			"United States, Mexico"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"crustaceans",
+		"crayfish",
+		"shallow",
+		"bottom"
+	]
+}

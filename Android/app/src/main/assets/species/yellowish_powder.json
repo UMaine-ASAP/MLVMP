@@ -1,0 +1,30 @@
+{
+	"name":"Yellowish Powder",
+	"pictures":
+	[
+		"yellowish_powder1.jpg",
+		"yellowish_powder2.jpg"
+
+	],
+	"information":
+	{	
+		"Details":
+		[	
+			"Yellowish powder or dust seen on the lake surface in spring or early summer is likely pollen from pine or other trees.  Pollen grains are produced in great abundance by many plants, and the \"extras\" that don't pollinate another plant often end up in lakes.",
+			"Wind may push the pollen toward shore or into quieter water, where the tiny grains accumulate and give the water the appearance of yellowish paint.  Individual pollen grains can also clump together to form small yellow blobs.",
+			"Lines of pollen left behind on rocks when water levels drop, can provide an indication of how much the water level fluctuates during a given season.",
+			"Once they have become water-logged, pollen grains sink and are distributed upon the lake floor sediments.  As layers of sediment accumulate year after year, the pollen grains in each layer are trapped and preserved. Since pollen grains may persist relatively intact in sediments for thousands of years, they are used by scientists to study changes in local vegetation that may be related to climate change or to other factors, including human impacts."
+		],
+
+		"Commonly Seen":
+		[	
+			"Surface"
+											
+		]	
+	},
+	"tags":
+	[
+		"other aquatic curiosities",
+		"surface"
+	]
+}

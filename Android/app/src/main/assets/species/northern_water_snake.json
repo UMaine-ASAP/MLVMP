@@ -1,0 +1,72 @@
+{
+    "name":"Northern Water Snake",
+    "scientific name": "Nerodia sipedon",
+    "pictures":
+    [
+     "northern_water_snake1.jpg",
+     "northern_water_snake2.jpg",
+     "northern_water_snake3.jpg",
+     "northern_water_snake4.jpg"
+     ],
+    "information":
+    {
+        "Family":
+        [
+         "Colubridae"
+         ],
+        
+        "Identifying Characteristics":
+        [
+         "Body covered in plates and scales",
+         "Forked tongue",
+         "Can grow to 1.35 meters (4.4 feet) in length",
+         "Upper side brown, gray, reddish, or brownish-black",
+         "May have dark crossbands on neck and dark stripes and blotches on the rest of the body ",
+         "Will darken as they age, some becoming nearly black",
+         "Underside can be white, yellow, or gray, usually with reddish or black crescents",
+         "Not venomous, but can inflict painful bite if threatened"
+         ],
+        "Biology":
+        [
+         "Adult snakes mate April through June",
+         "Females carry eggs inside, then give birth to free living young",
+         "Young are born between August and October",
+         "Average brood size is eight, but may be as many as thirty",
+         "Young are self-sufficient at birth",
+         "Active during the day and at night"
+         ],
+        "Diet":
+        [
+         "Prey upon small fish, frogs, worms, leeches, crayfish, salamanders, small birds and mammals"
+         ],
+        
+        "Habitat":
+        [
+         "Often seen basking on rocks, stumps, or brush",
+         "During the day, they hunt among plants at the water's edge",
+         "Lakes", 
+         "Ponds",
+         "Wetlands"
+         ],
+        "Commonly Seen":
+        [ "Shoreline",
+         "Surface",
+         "Midwater - Shallow"
+         
+         ],
+        "Range":
+        [
+         "Throughout eastern and central North America"
+         ]
+        
+    },
+    "tags":
+    [
+     "fauna",
+     "other aquatic fauna",
+     "shoreline",
+     "surface",
+     "shallow"
+     
+     ]
+}

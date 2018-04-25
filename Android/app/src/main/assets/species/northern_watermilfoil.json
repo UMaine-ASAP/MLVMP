@@ -1,0 +1,72 @@
+{
+	"name":"Northern Watermilfoil",
+	"scientific name":"Myriophyllum sibiricum",
+	"pictures":
+	[
+		"northern_watermilfoil1.jpg",
+		"northern_watermilfoil2.jpg",
+		"northern_watermilfoil3.jpg",
+		"northern_watermilfoil4.jpg",
+		"northern_watermilfoil5.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Haloragaceae"
+		],
+		
+
+		"Identifying Characteristics":
+		[	"Submersed aquatic plant",
+			"Stems: up to 3m long, often reddish, branching",
+			"Leaves: two types: submersed – finely feather divided (1-5cm long), 5-14 leaflet pairs, whorls of 4-5 leaves, internodal space up to 1cm; emergent (bract) – entire or slightly serrated margin, same length or longer than flowers, arranged in whorls; internodal space up to 1cm",
+			"Flowers: midsummer, tiny, develop on emergent spikes (4-15 cm), arranged in whorls",
+			"Fruits/Seeds: nutlike, up to 3mm diameter, separate into 4 chambers, 1 seed per chamber",
+			"Other: hybridize with other milfoils"
+		
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: fragmentation, rhizomes",
+			"Reproduction by seed not common",
+			"Forms egg-shaped winter buds"
+		],
+
+		"Habitat":
+		[	"Submersed and emergent communities",
+			"Prefer quiet waters of lakes and streams"
+		],
+
+		"Look Alikes":
+		[
+			"Bladderworts",
+			"Fanwort",
+			"Hornworts",
+			"Water Crowfoots",
+			"Water Marigold",
+			"Other Leafy Watermilfoils"
+				
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	"Native Range: Maine, New England, northern and western United States"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with finely-divided leaves on stems",
+		"feather divided leaves",
+		"shallow"
+
+	]
+}

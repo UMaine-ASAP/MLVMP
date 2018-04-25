@@ -1,0 +1,71 @@
+{
+	"name":"Mare's Tail",
+	"scientific name":"Hippuris vlugaris",
+	"pictures":
+	[
+		"mares_tail1.jpg",
+		"mares_tail2.jpg",
+		"mares_tail3.jpg",
+		"mares_tail4.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Plantaginaceae"
+		],
+		
+
+		"Identifying Characteristics":
+		[
+			"Stems: unbranched",
+			"Leaves: ribbon-like (1 – 10cm), entire, no petiole, in whorls of 6 – 12, emergent leaves blunt with hard tips, submersed leaves elongate, flaccid, sometimes paler",
+			"Flowers: June to September, small, inconspicuous, located in leaf base, lack petal and sepals, are educed to a tiny rim",
+			"Fruits/Seeds: tiny, nut-like, 2mm long",
+			"Other: "
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: rhizome division",
+			"Reproduction by seed considered rare"
+		],
+
+		"Habitat":
+		[	"Submersed and emergent communities",
+			"Typically muddy substrates",
+			"Damp shores, shallow quiet waters of ponds and streams",
+			"Fresh or brackish water, prefers non-acidic conditions"
+		],
+
+		"Look Alikes":
+		[
+			"Brazilian Waterweed",
+			"Common Waterweed",
+			"Hydrilla",
+			"Slender Waterweed"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Surface"
+			
+		],
+
+		"Range":
+		[	" Native Range: Maine, New England, much of the United States"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with blade-shaped leaves on stems",
+		"leaves arranged in whorls",
+		"shallow",
+		"surface"
+		
+	]
+}

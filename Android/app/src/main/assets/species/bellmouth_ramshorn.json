@@ -1,0 +1,65 @@
+{
+	"name":"Bellmouth Ramshorn",
+	"scientific name":"Planorbella campanulata",
+	"pictures":
+	[
+		"bellmouth_ramshorn1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Planorbidae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Reddish-brown or blackish color of its foot and slow moving nature",
+			"Shell has four whorls going in a counter clockwise motion",
+			"Size: very small—maybe reaching 2.5cm"
+		],
+
+		"Biology":
+		[	
+			"Monoecism animal—asexual reproduction",      
+			"Become reproductively mature at about 3-4 months", 
+			"Lay eggs in a gelatinous mass attached to rocks or plants",
+			"Lifespan of about a year or less" 
+		],
+
+		"Diet":
+		[
+			"Vegetation - suspended or submerged",
+			"Algae"
+
+		],
+
+		"Habitat":
+		[	
+			"Lakes and ponds and quiet portions of streams",      
+			"Substrates (rock soils, gravel, and on almost on any freshwater bottom)",     
+			"Water depths less than 6ft deep"
+		],
+
+		"Commonly Seen":
+		[	"Bottom"
+			
+		],
+
+		"Range":
+		[	
+			"Canada (Alberta, Manitoba, New Brunswick, Newfoundland I, Nova Scotia, Ontario, Prince Edward I., Québec, Saskatchewan)", 
+			"United States (Connecticut, Illinois, Indiana, Iowa, Maine, Massachusetts, Michigan, Minnesota, New York, North Dakota, Ohio, Pennsylvania, Vermont, Wisconsin)"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"mollusks",
+		"snails",
+		"bottom"
+		
+	]
+}

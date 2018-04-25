@@ -1,0 +1,82 @@
+{
+	"name":"Northern Leopard Frog",
+	"scientific name":"Lithobates pipiens",
+	"pictures":
+	[
+		"northern_leopard_frog1.jpg",
+		"northern_leopard_frog2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Ranidae"
+		],
+		
+		"Identifying Characteristics":
+		[
+			"Irregularly shaped dark spots that adorn their backs and legs",    
+			 "Each spot is normally bordered by a lighter ring",
+			 "Greenish-brown in color with a pearly white underside and light-colored ridges on either side of their backs",    
+			  "Very powerful back legs",  
+			  "Pale stripe running from the nostril, under the eye and tympanum and terminating at the shoulder",
+			  "Ventral surface is white or pale green", 
+			  "Iris is golden",  
+			  "Toes are webbed",
+			"Tadpoles are dark brown or grey, with light blotches on the underside",  
+			"Tail is pale tan",
+			"Size: adults can be 3-5 inches long"	
+		],
+
+		"Biology":
+		[
+			"Males make a short snore-like call from water during spring and summer",
+			"The northern leopard frog breeds in the spring (March–June)",  
+			"Up to 6500 eggs are laid in water and tadpoles complete development within the breeding pond", 
+			"Tadpoles are light brown with black spots and development takes 70–110 days (depending on conditions)", 
+			"Metamorph frogs are 2–3 cm long and resemble the adult",
+			"Females are slightly larger than males"
+
+		],
+
+		"Habitat":
+		[	
+			"Near ponds and marshes",
+			"Normally inhabit water bodies with abundant aquatic vegetation"
+			"Sometimes venture into well-covered grasslands as well (also called the meadow frog)",
+			"Can be found in permanent ponds, swamps, marshes, and slow-moving streams throughout forest, open, and urban areas In summer they often abandon ponds and move to grassy areas and lawns"
+		],
+		"Diet":
+		[
+			"Eat just about anything they can fit in their mouths (beetles, ants, flies, worms, smaller frogs, including their own species, and even birds, and garter snakes)"
+		],
+
+		"Look-Alikes":
+		[
+			"Pickerel Frog"	
+		],
+
+		"Commonly Seen":
+		[	"Shoreline",
+			"Surface",
+			"Midwater - Shallow"
+			
+		],
+
+		"Range":
+		[	
+			"Western Canada and the United States"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"amphibians",
+		"frogs",
+		"shoreline",
+		"surface",
+		"shallow"
+	
+	]
+}

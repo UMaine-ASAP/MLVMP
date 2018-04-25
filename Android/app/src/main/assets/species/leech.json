@@ -1,0 +1,77 @@
+{
+	"name":"Leech",
+	
+	"pictures":
+	[
+		"leech1.jpg",
+		"leech2.jpg",
+		"leech3.jpg",
+		"leech4.jpg",
+		"leech5.jpg",
+		"leech6.jpg",
+		"leech7.jpg"
+	],
+	"information":
+	{	
+		"Subclass":
+		[
+			"Hirudinea"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Segmented worm",
+			"Depending upon species, may be black, brownish-green, pink, or brownish-green with black and red spots ",
+			"Two suction-cup like Dzsuckersdz (one at each end); mouth is in the sucker at head end",
+			"Multiple eyes are located around the edges of the underside; the number and position of eyes are essential for distinguishing leech species"
+
+
+		],
+
+		"Biology":
+		[	
+			"Leeches are hermaphrodites meaning that each individual has both female and male reproductive organs. Leeches reproduce by reciprocal fertilization, each inseminating the other by injecting sperm though a hypodermic-needle-like structure.  A cocoon full of eggs is laid in the muddy bottom or in damp soil usually along the shoreline; eggs hatch as fully formed miniature adults.",
+			"Leeches are graceful swimmers, propelling themselves along by contracting longitudinal muscles in a wave-like motion. Movement on lake-floor or land is accomplished by means of \"looping\" (a movement similar to that of inch worms) attaching themselves to the surface alternately by their anterior and posterior suckers.",
+			"Most leech species prey on small invertebrates (worms, snails, insect larvae, etc.), which they swallow whole.  A few species, including species commonly found in Maine, are also parasitic, attaching by mouth host animals: fish, frogs, turtles and mammals (including humans).  An array of three sharp jaws containing razor sharp teeth are used to make a Y-shaped incision in the skin; feeding is facilitated by the release of the enzyme hirudin (an anti-coagulant).",
+			"Once attached, leeches use a combination of mucus and suction to stay attached; they will drop off of their own accord once they are full.  Due to the anti-coagulant secreted during feeding, bites may bleed more than a normal wound after the leech is removed.  Depending on the species, size, and duration of attachment, some leech bites may be barely noticeable, while others may be quite painful.",
+			"Some leech species may more than 5 times their body-weight in blood; feeding may be sporadic; some leeches can go a year or longer without a meal.",
+			"Leeches are most active on hot summer days and are attracted to water disturbance around docks and swimming areas.  Since leeches prefer the shallow areas of lakes, swimming in deeper waters will reduce the risk of a leech attaching to a swimmer.",
+			"As predators, prey, parasites and vectors of parasites, leeches play an important role in the food web of a lake."
+		],
+
+	
+		"Habitat":
+		[	
+			"Typically found in shallow, protected waters, concealed among aquatic plants or under stones, logs and other debris",
+			"In winter they burrow in mud just below the frost line",
+			"Lakes and ponds",
+			"Streams"
+
+
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Bottom"
+			
+		],
+		"Range":
+		[
+			"Worldwide"
+		]
+
+		
+	},
+	"tags":
+	[
+		"fauna",
+		"other aquatic fauna",
+		"shallow",
+		"bottom"
+		
+		
+	]
+}

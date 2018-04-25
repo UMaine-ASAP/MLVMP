@@ -1,0 +1,89 @@
+{
+	"name":"Northern Pike",
+	"scientific name":"Esox Lucius",
+	"pictures":
+	[
+		"northern_pike1.jpg",
+		"northern_pike2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Esocidae"
+		],
+		"Invasive":
+		[
+		
+		],
+		"Identifying Characteristics":
+		[	
+			"Elongate fish with dorsal and anal fin located far back near the forked caudal fin",
+			"Head and snout somewhat flattened",
+			"Jaws, tongue, and roof of mouth with many teeth",
+			"Cheek completely scaled",
+			"Operculum scaled on upper half only",
+			"5 pair of sensory pores along the underside of the lower jaw",
+			"Adults typically marked with oblong yellowish green spots positioned horizontally",
+			"Juveniles typically marked with pale colored wavy bars arranged vertically"
+
+			
+		],
+
+		"Biology":
+		[	
+			"Spawn in early spring shortly after or even prior to ice-out",
+			"Live up to 25 years",
+			"Size: Pike exceeding 30 pounds have been caught in Maine"
+
+		],
+
+		"Diet":
+		[
+			"Predaceous opportunist",
+			"Smaller fish",
+			"Frogs",
+			"Crayfish",
+			"Young waterfowl"
+
+		],
+
+		"Habitat":
+		[	"Prefer shallow water habitat with dense stand of submerged aquatic vegetation",
+			"Slow-moving streams",
+			"Lakes"
+
+
+		],
+		"Look-Alikes":
+		[
+			"Chain Pickerel",
+			"Muskellunge"
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	
+			"Native Range: in the Northeast: Great Lakes and Allegheny drainages",
+			"Range: wide band through northern portion of North America, Europe, and Asia"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"warm water fish",
+		"shallow",
+		"deep"
+		
+	]
+}

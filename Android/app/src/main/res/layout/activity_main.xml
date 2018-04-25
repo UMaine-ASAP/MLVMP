@@ -1,0 +1,146 @@
+
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/background"
+    android:id="@+id/homescreen">
+    <ScrollView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:scrollbarThumbVertical="@drawable/gradient_button_pressed"
+        android:scrollbarSize="9dp">
+
+    <LinearLayout
+        android:orientation="vertical"
+        style="@style/scroll"
+        android:id="@+id/layout">
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="24dp">
+        </LinearLayout>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Browse Aquatic Phenomena by Type"
+            android:textStyle="italic|bold"
+            android:textColor="@color/dark_brown"
+            android:textSize="20dp"
+            android:layout_marginBottom="24dp"/>
+        <LinearLayout
+            style="@style/category_container">
+            <LinearLayout
+                style="@style/category_container"
+                android:onClick="toIdentify"
+                android:clickable="true">
+
+                <ImageView
+                    style="@style/category_image_regular"
+                    android:id="@+id/fauna_image"
+                    />
+                <Button
+                    style="@style/category_button_regular"
+                    android:text="Fauna"
+                    >
+                </Button>
+            </LinearLayout>
+            <Button
+                style="@style/shadow_regular"/>
+        </LinearLayout>
+        <LinearLayout
+            style="@style/category_container">
+            <LinearLayout
+                style="@style/category_container"
+                android:onClick="toIdentify"
+                android:clickable="true">
+                <ImageView
+                    style="@style/category_image_regular"
+                    android:id="@+id/flora_image"
+                    />
+                <Button
+                    style="@style/category_button_regular"
+                    android:text="Flora"
+                    >
+                </Button>
+
+            </LinearLayout>
+            <Button
+                style="@style/shadow_regular"/>
+        </LinearLayout>
+        <LinearLayout
+            style="@style/category_container">
+            <LinearLayout
+                style="@style/category_container"
+                android:onClick="toIdentify"
+                android:clickable="true">
+
+                <ImageView
+                    style="@style/category_image_regular"
+                    android:id="@+id/pc_image"/>
+                <Button
+                    style="@style/category_button_regular"
+                    android:text="Other Aquatic Curiosities">
+                </Button>
+            </LinearLayout>
+            <Button
+                style="@style/shadow_regular"/>
+        </LinearLayout>
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="Or Browse by Location"
+            android:textStyle="italic|bold"
+            android:textColor="@color/dark_brown"
+            android:textSize="20dp"
+            android:layout_marginBottom="24dp"/>
+        <LinearLayout
+            style="@style/category_container">
+            <LinearLayout
+                style="@style/category_container"
+                android:onClick="toLocation"
+                android:clickable="true">
+
+                <ImageView
+                    style="@style/category_image_regular"
+                    android:id="@+id/location_image"/>
+                <Button
+                    style="@style/category_button_regular"
+                    android:text="Location">
+                </Button>
+            </LinearLayout>
+            <Button
+                style="@style/shadow_regular"/>
+        </LinearLayout>
+    </LinearLayout>
+
+</ScrollView>
+    <!---Tutorial Page Layout -->
+  <android.support.v4.view.ViewPager
+    android:id="@+id/viewpager"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    >
+</android.support.v4.view.ViewPager>
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/UI"
+        android:layout_gravity="bottom"
+        android:layout_alignParentBottom="true"
+        android:background="@android:color/transparent"
+        android:orientation="vertical"
+        android:paddingBottom="10dp"
+        >
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="19dp"
+            android:gravity="center"
+            android:orientation="horizontal"
+            android:id="@+id/dots"
+            android:background="@android:color/transparent">
+        </LinearLayout>
+    </LinearLayout>
+</RelativeLayout>

@@ -1,0 +1,71 @@
+{
+	"name":"Dronefly",
+	"pictures":
+	[
+		"dronefly1.jpg",
+		"dronefly2.jpg",
+		"dronefly3.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Hoverfly"
+		],
+		"Order":
+		[
+			"Diptera"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Larva is a maggot: tube-like, three segmented",
+			"Telescoping breathing siphon on posterior end",
+			"Adult – large (wingspan 15mm), stocky, bee mimic"
+
+		],
+
+		"Biology":
+		[	
+			"Lay eggs near decaying organic matter",
+			"Larvae produced from eggs of adults, then reproduce paedogenetically, giving rise to 7-30 daughters"
+
+		],
+
+		"Diet":
+		[
+			"Bacteria",
+			"Detritus"
+
+
+		],
+
+		"Habitat":
+		[	"Drainage ditches",
+			"Sewage",
+			"Polluted water body",
+			"Water with high organic matter"
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"shallow"
+		
+	]
+}

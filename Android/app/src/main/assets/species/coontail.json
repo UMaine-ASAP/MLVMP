@@ -1,0 +1,73 @@
+{
+	"name":"Coontail",
+	"scientific name":"Ceratophyllum demersum",
+	"pictures":
+	[
+		"coontail1.jpg",
+		"coontail2.jpg",
+		"coontail3.jpg",
+		"coontail4.jpg",
+		"coontail5.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Ceratophyllaceae"
+		],
+		
+
+		"Identifying Characteristics":
+		[	"Submersed, free-floating aquatic plant",
+			"Stems: branching",
+			"Leaves: fork-divided only once or twice, whorls of 5-12, relatively stiff even out of water, flattened, finely serrated (tiny teetch tipped with sharp spines)",
+			"Flowers:  June-September, minute in leaf axils",
+			"Fruits/Seeds: fruits on female plants only, smooth with two spines at base",
+			"Other: no roots"
+		
+		],
+
+		"Biology":
+		[	"Dioecious, evergreen, perennial",
+			"Primary reproduction: fragmentation",
+			"Reproduction by seed (rare)"
+		],
+
+		"Habitat":
+		[	"Submersed community",
+			"Lakes, ponds",
+			"Tolerates cool temperatures and low light"
+		],
+
+		"Look Alikes":
+		[
+			"Bladderworts",
+			"Fanwort",
+			"Leafy Watermilfoils",
+			"Water Crowfoots",
+			"Water Marigold"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	"Native Range: Maine, New England, United States"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with finely-divided leaves on stems",
+		"fork or branch divided leaves",
+		"shallow",
+		"deep"
+
+	]
+}

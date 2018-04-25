@@ -1,0 +1,79 @@
+{
+	"name":"Muskgrass",
+	"scientific name":"Chara spp.",
+	"pictures":
+	[
+		"muskgrass1.jpg",
+		"muskgrass2.jpg",
+		"muskgrass3.jpg",
+		"muskgrass4.jpg",
+		"muskgrass5.jpg",
+		"muskgrass6.jpg",
+		"muskgrass7.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Stonewort"
+		],
+		"Family":
+		[
+			"Charophyta"
+		],
+
+		"Identifying Characteristics":
+		[	"Multicellular macro algae that resemble higher plants",
+			"Chains of single tube shaped cells form tentacle-like branches arranged in whorls",
+			"Dark brown to green in color; plant-like colonies 5cm to 1m in size",
+			"Holdfast may attach colonies to lake-bottom",
+			"Strong skunk-like odor especially when crushed; rough and crusty to the touch",
+			"Can form dense mats on the lake bottom"
+		
+		],
+
+		"Biology":
+		[	"Colonies reproduce vegetatively through rhizoids and fragments, and sexually with male reproductive structures (antheridium) and female structures (oogonium).",
+			"Stoneworts anchor themselves to the bottom with colorless hair-like filaments called rhizoids. Rhizoids act as roots, absorbing nutrients and providing stability. Stoneworts also have the ability to absorb nutrients through all surfaces, not just the rhizoids.",
+			"Rhizoids and stem fragments overwinter in and on the sediment; growth begins when the water warms in the spring and continues through late fall.",
+			"Colonies provide cover and food for fish and invertebrates; is a favorite food for many waterfowl species"
+		],
+
+		"Habitat":
+		[	"May grow in freshwater to slightly brackish water to depths of 10 meters",
+			"Prefers soft sediments; can tolerate low nutrient and light levels",
+			"Lakes, ponds, rivers, periodic waters"
+		],
+
+		"Look Alikes":
+		[
+			"European Naiad",
+			"Brittlewort",
+			"Fine-leaved Pondweeds",
+			"Hornworts",			
+			"Native naiads"
+				
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep",
+			"Lake bottom"
+		],
+
+		"Range":
+		[	"Worldwide, approximately 30 species in US"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"algae",
+		"branching algae that resemble higher plants",
+		"shallow",
+		"deep",
+		"bottom"
+
+	]
+}

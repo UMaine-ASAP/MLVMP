@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#DD000000">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical"
+        android:gravity="center">
+        <ImageView
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/ic_action_about"
+            android:layout_gravity="center"/>
+    </LinearLayout>
+    <TextView
+        android:layout_gravity="center_horizontal"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:textColor="#ffffff"
+        android:text="Tap the info button to see these tips again and see information about the people behind the app."
+        android:textSize = "22dp"
+        android:layout_marginLeft="27dp"
+        android:layout_marginRight="27dp"
+        android:layout_marginTop = "27dp"
+        android:id="@+id/text"
+        android:layout_weight="2"/>
+    <Button
+        style="@style/category_button_regular"
+        android:text="Explore Aquatic Phenomena"
+        android:clickable="true"
+        android:id="@+id/finishButton"
+        android:onClick="finishTutorial"
+        android:layout_marginBottom="36dp"/>
+
+</LinearLayout>

@@ -1,0 +1,71 @@
+{
+	"name":"Blackfly",
+	"pictures":
+	[
+		"blackfly1.jpg",
+		"blackfly2.jpg",
+		"blackfly3.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Diptera"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Worm-like larvae (plumper toward the posterior end) attached to rocks in swift moving water; larva most often occur in colonies, all leaning upstream to feed",
+			"Adults are terrestrial, and look like miniature houseflies.  At the height of blackfly season, you need not look hard to find them—they will find you!"
+			
+		],
+
+		"Biology":
+		[	
+			"Blackflies go through 'complete' metamorphosis: passing through egg, larvae, and adult stages.",
+			"Eggs are laid in running water; larvae hatch and pupate under water, emerging in a bubble of air as flying adults.  The average lifespan of an adult black fly is three weeks.",  
+			"Breeding success is highly sensitive to water pollution",
+			"Larvae depend on flowing water to bring food to them.  Using tiny hooks at the ends of their abdomens to hold on to the substrate, and silk holdfasts and threads to move or hold their place, larvae lean upstream to catch food.  Foldable mustache-like fans surrounding their mouths expand when feeding, catching passing debris.  The larvae scrape food from their 'mustaches' into theirmouths every few seconds.",
+			"Adult flies are generally active only during the daytime, especially when wind speeds are low",
+			"Adult males feed on nectar only; females also feed on blood.  Their hunger for human blood and their dense occurrence in some areas, make black flies a significant nuisance to humans in much of Maine from approximately May through July.",
+			"Black flies tend to swarm about the heads of their prey because they are attracted to carbon dioxide in the breath.  Bites are often concentrated on exposed areas of skin, especially along the hairline, feet, ankles and arms.  Because black flies find dark hues more attractive than pale ones, wearing light-colored clothing during black fly season may help to deter at least some of the flies.",
+			"Blackflies are an important food source for other insects, fish, and birds; they also play an important role as pollinators"
+
+		],
+
+		"Diet":
+		[
+			"Larvae feed upon small organic particles, algae, and bacteria scraped from their 'mustaches'.",  
+			"Adult males feed on nectar, while females also feed on blood"
+
+		],
+
+		"Habitat":
+		[	"Rivers and streams",
+			"Highly sensitive to water pollution; will be found in clear, clean flowing waters"
+
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Shoreline"
+		],
+
+		"Range":
+		[	
+			"Over 1,800 species of black flies are known worldwide, with about 40 species common in Maine. As many as 10 – 15 different species may be present in any one location during the course of the black fly season"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"shoreline"
+		
+	]
+}

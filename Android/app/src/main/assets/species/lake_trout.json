@@ -1,0 +1,69 @@
+{
+    "name":"Lake Trout",
+    "scientific name":"Salvelinus namaycush",
+    "pictures":
+    [
+     "lake_trout1.jpg",
+     "lake_trout2.jpg"
+     ],
+    "information":
+    { "Other Name(s)":
+        [
+         "Togue"
+         ],
+        "Family":
+        [
+         "Salmonidae"
+         ],
+        "Identifying Characteristics":
+        [
+         "Typical trout-shaped body covered with light spots on a darker background of green or grayish brown",
+         "Closely related to the Brook Trout, but lack the bright coloration and can be distinguished by a deeply forked tail"
+         ],
+        "Biology":
+        [
+         "Spawn in the fall during the period from mid-October (northern Maine) to mid-November (southern Maine); as surface water temperatures cool below 60o F",
+         "Mature fish typically congregate near exposed, shallow shoals or rocky shorelines",
+         "Males defend their chosen territories against the intrusion of rival males prior to active spawning",
+         "Spawning occurs at night, at depths usually less than six feet, and sometimes only a few inches",
+         "Eggs are broadcast over the bottom where they settle and become sheltered in the crevices among the rocks",
+         "Size: Largest freshwater game fish. Average size is 18 to 24 inches and 2 to 4 pounds, but may attain grow to greater than 30 inches in length and 10 pounds",
+         "Long-lived species often living 20 years or more"
+         ],
+        "Diet":
+        [
+         "Insects",
+         "Crustaceans",
+         "Fish, prefer smelt if they are present ",
+         "Plankton"
+         ],
+        "Habitat":
+        [ "Typical habitat is large, deep, coldwater lakes with irregular bottom contours and rocky shorelines",
+         "May be found in rivers, stream and shallow lakes"
+         ],
+        "Look-Alikes":
+        [
+         "Brook Trout",
+         "Landlocked Salmon",
+         "Brown Trout",
+         "Rainbow Trout"
+         ],
+        "Commonly Seen":
+        [ 
+         "Midwater - Shallow",
+         "Midwater - Deep"
+         ],
+        "Range":
+        [ 
+         "Native Range: northern New England, the Great Lakes, New York, Pennsylvania, Michigan, Minnesota, Montana, Idaho, and Alaska and Canada. "
+         ]
+    },
+    "tags":
+    [
+     "fauna",
+     "fish",
+     "cold water fish",
+     "shallow",
+     "deep"
+     ]
+}

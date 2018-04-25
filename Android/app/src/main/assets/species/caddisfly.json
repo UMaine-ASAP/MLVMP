@@ -1,0 +1,72 @@
+{
+	"name":"Caddisfly",
+	"pictures":
+	[
+		"caddisfly1.jpg",
+		"caddisfly2.jpg",
+		"caddisfly3.jpg",
+		"caddisfly4.jpg",
+		"caddisfly5.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Trichoptera"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Larvae are worm-like with 3 pairs of segmented legs; antennae are not visible; and wing pads are absent",
+			"Most caddisfly larvae are remarkable underwater architects, using silk, excreted from salivary glands near their mouths, for building.  Caddisfly species can be divided loosely into three behavioral groups based on their use of silk: net-making caddisflies and case-making caddisflies, both of which may enlarge their structures throughout their larval lifespan; and free-living caddisflies, which only make such structures prior to pupation.\n\n- Net-makers usually live in running water, and their nets, often made among aquatic vegetation, serve both as a retreat and a means to collect drifting food particles.\n\n- Case-makers may build cases exclusively of silk, but more commonly the silk holds together materials such as small fragments of rock, sand, small pieces of twig or aquatic plants. Caddisfly cases are open at both ends, the larva drawing oxygenated water through the posterior end, over their gills, and out of the wider anterior end. The anterior end is usually wider and it is to this end that they add material as they grow.  Their abdomens are soft, but their tougher front ends project from their cases, allowing them to walk while dragging their cases along with them.\n\n- Free-living caddisflies do not build retreats or carry portable cases until they are ready to pupate, and their bodies tend to be tougher than those of the building caddisflies. ",
+			"Adults are mostly dull-colored flying moth-like insects, ranging in size from 2-40 mm.  Caddisflies have 2 pairs of membranous wings (the front pair larger than the rear pair) that are covered with fine hairs.  The wings are oriented perpendicular to the body during flight (like a dragonfly), and folded along the length of the body (like a roof) when at rest.  A pair of long, threadlike antennae curve and taper toward the tips."
+	
+		],
+
+		"Biology":
+		[	
+			"Caddisflies go through 'complete' metamorphosis: passing through egg, larvae, and adult stages. ",
+			"The adult stage of caddisflies is generally short-lived (1–2 weeks), but may last 2 months. Most adults are non-feeding and are primarily occupied with mating.  Female caddisflies often lay eggs (enclosed in a gelatinous mass) by attaching them above or below the water surface.  Eggs generally hatch in 3 weeks.  The larvae, once hatched, continue to grow until pupation.",
+			"During pupation, the larvae will form its underwater cocoon in which it will transform (metamorphose) intoa flying adult; most caddisflies are able to fly immediately after breaking from their pupal skin.  Caddisfly adults often emerge together, en masse, which helps to ensure that each encounters a member of the opposite sex in a timely fashion.",
+			"Caddisflies in Maine generally complete their life cycles in a single year: larval feeding and growth in autumn, winter, and spring; adult emergence, mating and egg laying between late spring and early fall.  Larvae are active in very cold water and can frequently be observed feeding under ice.",
+			"Caddisflies are an important food source for other insects, fish and birds, and play a critical role in the aquatic ecosystem"
+		],
+
+		"Diet":
+		[
+			"Variety of feeding strategies: shredders (eat decaying plant material), scrapers (eat algae off rocks), collector-gatherers (eat fine organic material), collector-filterers (eat fine organic material collected from flowing water), predators"
+
+		],
+
+		"Habitat":
+		[	"Primarily streams; also lakes, marshes, and temporary ponds",
+			"Caddisflies may be found in waterbodies of varying qualities.  However, species-rich caddisfly populations (along with stoneflies and mayflies) are generally thought to indicate clean water."
+
+
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Surface",
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"surface",
+		"shallow"
+		
+	]
+}

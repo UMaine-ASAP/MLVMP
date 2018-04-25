@@ -1,0 +1,86 @@
+{
+	"name":"Wood Turtle",
+	"scientific name":"Glyptemys insculpta",
+	"pictures":
+	[
+		"wood_turtle1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Emydidae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Brown-gray colored shell",       
+			"Black head with occasional light dots or markings", 
+			"Scales on the upper legs are black or brown", 
+			"Skin on the throat, lower neck, and lower parts of the legs can be yellow, orange, or orange-red to salmon-red—sometimes speckled with darker colors", 
+     		"Size: average between 5’’ and almost 10’’ in length"
+
+		],
+
+		"Biology":
+		[	
+			"Hibernates from November through February or March",
+			"Sexual maturity occurs between 14 and 18 years", 
+			"Mating occurs in both Spring and Fall",
+			"In May or June females search for open, sunny nesting sites, preferring sandy banks near moving water",
+			"The female digs the nest with her hind feet into which she lays 3 to 18 eggs", 
+			"The eggs are carefully buried then female camouflages the nest",
+			"Female departs from nest and offers no further protection to offspring",
+			"Females may not reproduce every year",
+			"Most eggs never hatch—nest predation by raccoons, skunks, shrews, foxes, and other predators result in high losses",
+			"Incubation requires from 47 to 69 days",
+			"Hatchlings hatch from their nests in late August or September and move to water",
+			"Typically reach adulthood between 14 and 20 years",
+			"Lifespan is about 50 years"
+		],
+
+		"Diet":
+		[
+			"Plant matter and animals both on land and in water",
+			"Eats prey like beetles, millipedes, and slugs",  
+			"Consumes specific fungi (Amanita muscaria and Leccinum arcolatum), mosses, grasses, various insects, and also carrion"
+
+		],
+
+		"Habitat":
+		[	
+			"Slow-moving streams containing a sandy bottom and heavily vegetated banks",
+			"Soft bottoms and muddy shores of streams are ideal for overwintering",
+			"Areas bordering the streams are used for nesting",
+			"Spring to summer is spent in open areas including forests, fields, bogs, wet meadows, and beaver ponds",
+			"Can be seen basking on logs, sandy shores, or banks"
+		],
+
+		"Commonly Seen":
+		[	"Shoreline",
+			"Surface",
+			"Midwater - Shallow",
+			"Bottom"
+			
+		],
+
+		"Range":
+		[	
+			"Eastern Canada and the northeastern United States—from Nova Scotia and New Brunswick south through New England, Pennsylvania and northern New Jersey, to northern Virginia",
+			"West through southern Quebec, southern Ontario, northern Michigan (northern Lower and Upper Peninsulas), northern and central Wisconsin, to eastern Minnesota",
+			"Can also be found in northeastern Iowa (but uncommon)"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"turtles",
+		"shoreline",
+		"surface",
+		"shallow",
+		"bottom"
+		
+	]
+}

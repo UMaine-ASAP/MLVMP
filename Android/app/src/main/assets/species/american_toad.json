@@ -1,0 +1,75 @@
+{
+	"name":"American Toad",
+	"scientific name":"Anaxyrus americanus",
+	"pictures":
+	[
+		"american_toad1.jpg",
+		"american_toad2.jpg",
+		"american_toad3.jpg"
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Bufonidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Tadpoles are black",
+			"Adults are usually 'chubby'",
+			"Usually brown, brick red, or olive-colored with light-colored patterns and brown spots on their backs",
+			"All have warts and some have a light stripe down their back",
+			"Have special paratoid glands that produce a foul-smelling and toxic chemical to keep predators away",
+			"Size: Typically growing between 2\" and 4.5\" long"
+		],
+
+		"Biology":
+		[
+			"Males have a darker throat than females",
+			"Male calls/unique songs attract females to pools of water to begin mating in the Spring",
+			"Females lay long strands of thousands of eggs in the water attached to plants and fertilization occurs in water",
+			"Tadpoles hatch within a week and will steadily grow over a month when they emerge from the water as young toads",
+			"During the day they hide under leaves, logs and rocks to keep their skin moist and become predators at night",
+			"In the Fall and Winter seasons they will hibernate and burrow up to three feet underground",
+			"They can live up to 30 years."	
+		],
+
+		"Habitat":
+		[	
+			"Forests and meadows near wetlands",
+			"Shallow water bodies",
+			"Anywhere moist - gardens, lawns, woods, ponds, etc."
+		],
+		"Diet":
+		[
+			"Tadpoles feed on plant material",
+			"Adult toads eat a lot: mainly insects, spiders, earthworms, snails, slugs, or just about anything that will fit into their mouth"
+		],
+		"Look-Alikes":
+		[
+			"Eastern American Toad"
+		],
+
+		"Commonly Seen":
+		[	
+			"Shoreline",
+			"Midwater - Shallow"
+			
+		],
+
+		"Range":
+		[	
+			"Eastern United States and Canada"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"amphibians",
+		"frogs",
+		"shallow",
+		"shoreline"
+	
+	]
+}

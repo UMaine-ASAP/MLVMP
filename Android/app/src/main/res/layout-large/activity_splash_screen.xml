@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/background"
+    android:id="@+id/background">
+    <LinearLayout
+        style="@style/scroll">
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:scrollbarThumbVertical="@drawable/gradient_button_pressed"
+        android:scrollbarSize="9dp">
+
+        <LinearLayout
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:gravity="center_horizontal"
+            android:orientation="vertical"
+            android:id="@+id/linlayout1">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:id="@+id/linlayout2">
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    style="@style/name_text_large"
+                    android:text="Welcome to the Maine Field Guide to Aquatic Phenomena!"
+                    android:textSize="32dp"
+                    android:layout_marginLeft="24dp"
+                    android:layout_marginRight="24dp"
+                    android:layout_marginBottom="54dp" />
+            </LinearLayout>
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+                <TextView
+                    style="@style/sciname_text_large"
+                    android:text="Sponsored by the "
+                    android:textSize="32dp"/>
+                <ImageView
+                    android:layout_width="wrap_content"
+                    android:layout_marginLeft="18dp"
+                    android:id="@+id/logo"
+                    android:layout_marginRight="18dp"
+                    android:layout_marginBottom="70dp"
+                    android:layout_gravity="center_horizontal"
+                    android:layout_height="wrap_content"
+                    />
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:gravity="center">
+                <Button
+                    style="@style/category_button_large"
+                    android:id="@+id/entrance_button"
+                    android:layout_marginTop="0dp"
+                    android:text="Explore Aquatic Phenomena"
+                    android:clickable="true"
+                    android:onClick="toMain"
+                    />
+                <Button
+                    style="@style/shadow_large" />
+            </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</RelativeLayout>

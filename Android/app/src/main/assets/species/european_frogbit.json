@@ -1,0 +1,74 @@
+{
+	"name":"European Frogbit",
+	"scientific name":"Hydrocharis morsus-ranae",
+	"pictures":
+	[
+		"european_frogbit1.jpg",
+		"european_frogbit2.jpg",
+		"european_frogbit3.jpg",
+		"european_frogbit4.jpg",
+		"european_frogbit5.jpg",
+		"european_frogbit6.jpg"
+
+	],
+	"information":
+	{
+		"Family":
+		[
+			"Hydrocharitaceae"
+		],
+		"Invasive":
+		[
+			
+		],
+		"Identifying Characteristics":
+		[
+			"Small free-floating aquatic plant",
+			"Stems: up to 20cm long",
+			"Leaves: leathery, kidney or heart shaped (1.5-6.5cm) green and veined on top and dark purplish-red with spongy coating on underside, with elongated stalks(4-6cm), orrcur in rosette type clump",
+			"Flowers: spring to fall, three white petals with a yellow center, 1cm long, on pedicels (9cm long)",
+			"Fruits/Seeds: 1mm long",
+			"Other: unbranched root-like tendrils with a bottle bursh appearance dangle below (up to 12 inches in length)"
+		],
+		"Biology":
+		[
+			"Perennial, dioecious",
+			"Primary reproduction: Clonal via stolons and turions (winter buds)",
+			"Reproduction by seed rarely reported"
+		],
+		"Habitat":
+		[	"Floating leaved community",
+			"Prefers calcium-rich water and low energy environmental",
+			"Thrives in open marsh habitat, swamps, quiet backwaters, sheltered coves and bays",
+			"Forms dense floating community"
+		],
+
+		"Look Alikes":
+		[
+			"Fragrant Water Lily",
+			"Little Floating Heart",
+			"Spatterdock",
+			"Yellow Floating Heart"
+		],
+
+		"Commonly Seen":
+		[
+			"Surface",
+			"Shallow"
+		],
+		"Range":
+		[
+			"Northeast US Range: Vermont, New York",
+			"Native Range: Europe"
+		]
+	
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"floating-leaved plants",
+		"surface",
+		"shallow"
+	]
+}

@@ -1,0 +1,69 @@
+{
+    "name":"Slender Waterweed",
+    "scientific name":"Elodea nuttallii",
+    "pictures":
+    [
+     "slender_waterweed1.jpg",
+     "slender_waterweed2.jpg",
+     "slender_waterweed3.jpg"
+     
+     ],
+    "information":
+    {
+        "Family":
+        [
+         "Hydrocharitaceae"
+         ],
+        
+        
+        
+        "Identifying Characteristics":
+        [
+         "Submersed aquatic plant",
+         "Stems: long, slender, branched",
+         "Leaves: lance-shaped leaves that are longer, more flimsy and slender (1.3mm wide) attached directly to stem (no petiole) in whorls of 3, finely serrated ",
+         "Flowers: early to mid summer, small white with 3 petals, produced at tips of long slender stalks   that rise above water surface",
+         "Fruits/Seeds: capsule, 6mm long",
+         "Other:"
+         ],
+        
+        "Biology":
+        [   "Perennial",
+         "Primary reproduction: fragmentation",
+         "Reproduction by seed (rare)"
+         ],
+        
+        "Habitat":
+        [   "Submersed plant community",
+         "Prefer fine, nutrient-rich sediment",
+         "Freshwater ponds, lakes, slow moving streams, tidal tributaries"
+         ],
+        
+        "Look Alikes":
+        [
+         "Brazilian Waterweed",
+         "Hydrilla",
+         "Common Waterweed",
+         "Mare's Tail"
+         ],
+        
+        "Commonly Seen":
+        [
+         "Midwater - Shallow"
+         
+         ],
+        
+        "Range":
+        [   "Native Range: Maine, New England, and much of the United States"
+         ]
+    },
+    "tags":
+    [
+     "flora",
+     "vascular aquatic plants",
+     "plants with blade-shaped leaves on stems",
+     "leaves arranged in whorls",
+     "shallow"
+     
+     ]
+}

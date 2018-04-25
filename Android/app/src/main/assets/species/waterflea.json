@@ -1,0 +1,63 @@
+{
+	"name":"Waterflea",
+	"scientific name":"Daphnia spp., Leptodora spp.",
+	"pictures":
+	[
+		"waterflea1.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Cladocera"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Transparent",
+			"Size: 0.2 to 6mm",
+			"Folded carapace covers thorax and abdomen",
+			"Head angled downward and may be separated from rest of body",
+			"Single black compound eye",
+			"Two pairs of antennae on head"
+
+		],
+
+		"Biology":
+		[	
+			"Sexual and asexual reproduction",
+			"Cyclical parthenogenesis"
+		],
+
+		"Diet":
+		[
+			"Organic detritus of all kinds"
+		],
+
+		"Habitat":
+		[	
+			"Ubiquitous in freshwater environments"
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Midwater - Shallow"
+
+
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"crustaceans",
+		"not crayfish",
+		"shallow",
+		"surface"
+	]
+}

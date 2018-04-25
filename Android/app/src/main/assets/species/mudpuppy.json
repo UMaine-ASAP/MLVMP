@@ -1,0 +1,73 @@
+{
+	"name":"Mudpuppy",
+	"scientific name":"Necturus maculosus",
+	"pictures":
+	[
+		"mudpuppy1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Proteidae"
+		],
+		
+		"Identifying Characteristics":
+		[
+			"Usually a rusty brown color with gray and black and usually have blackish-blue spots",
+			"In clear, light water, their skin gets darker, likewise in darker water, their skin gets lighter in color",
+			"Large, external gills—bushy and red",
+			"Small, flattened limbs—flat head, wide tail, short/stubby legs, four distinct toes on each foot",
+			"Two rows of teeth",
+			"Squeaky vocalization sounds like a dog’s bark",
+			"Size: Adults are typically 11’’ but can be as short as 8’’ and as long as 16’’"
+		],
+
+		"Biology":
+		[
+			"Mudpuppies take six years to reach sexual maturity",
+			"Mating typically takes place in autumn, though eggs are not laid till much later",
+			"Males deposit their spermatophores in the substratum of the environment",
+			"Females then pick them up with her cloaca and store them in a small specialized gland (spermatheca) until the eggs are fertilized", 
+			"Females store the sperm until ovulation and internal fertilization takes place, usually just prior to deposition in the spring",
+			"Males leave the nest before the eggs are deposited", 
+			"The female deposits between 20 and 200—average is about 60—eggs in a safe location, usually on the underside of a rock or log",
+			"The female stays with her eggs during the incubation period (around 40 days)",
+			"Hatchlings are about 2.5 cm long and grow to 3.6 cm before the yolk is completely consumed",   
+			"Lifespan is generally around 11 years"	
+		],
+
+		"Habitat":
+		[	"Nocturnal",
+    		"Freshwater ponds, lakes, streams, canals, reservoirs, and rivers",
+			"Lives close to the bottom of the water body where there are rocks and logs for shelter"
+		],
+
+		"Diet":
+		[
+			"Almost anything they can get in their mouths, including insects, earthworms, mollusks, and annelids", 
+			"Crayfish, worms, and snails"
+		],
+		"Commonly Seen":
+		[	"Shoreline",
+			"Surface",
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[
+			"Southern section of Canada, as far south as Georgia, and from the Midwest United States to North Carolina"	
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"amphibians",
+		"salamanders",
+		"shoreline",
+		"surface",
+		"shallow"
+	
+	]
+}

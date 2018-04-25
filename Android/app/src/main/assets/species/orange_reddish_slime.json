@@ -1,0 +1,29 @@
+{
+	"name":"Orange or Reddish Brown Slime",
+	"pictures":
+	[
+		"orange_slime1.jpg",
+		"orange_slime2.jpg"
+
+	],
+	"information":
+	{	
+		"Details":
+		[	
+			"Most often, rusty colored slime is a natural phenomenon produced by a group of bacteria, commonly associated with acidic soils (the same group of bacteria that produces oily sheens).  These acid-loving bacteria use iron as an energy source, and excrete slimy or fuzzy-looking material as they grow and reproduce, coating the mass with rusty-colored iron hydroxide.",
+			"In some areas, iron-rich groundwater may seep to the surface, and the iron solidifies as it becomes exposed to air.  In this case, the iron will appear as an orange crust or stain and will not be fuzzy-looking.",
+			"Large amounts of fluffy orange slime (completely filling a stream bed, for example) may indicate pollution."
+		],
+
+		"Commonly Seen":
+		[	
+			"Surface"
+										
+		]		
+	},
+	"tags":
+	[
+		"other aquatic curiosities",		
+		"surface"
+	]
+}

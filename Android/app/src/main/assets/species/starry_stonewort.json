@@ -1,0 +1,75 @@
+{
+	"name":"Starry Stonewort",
+	"scientific name":"Nitellopsis obtusa",
+	"pictures":
+	[
+		"batrachospermum1.jpg",
+		"batrachospermum2.jpg",
+		"batrachospermum3.jpg",
+		"batrachospermum4.jpg"
+
+	],
+	"information":
+	{	
+		"Classification":
+		[
+			"Charophyta"
+		],
+		"Invasive":
+        [
+        ],
+
+		"Identifying Characteristics":
+		[	"Macro algae resembling higher plants",
+			"Chains of single tube shaped cells form tentacle-like branches arranged in whorls",
+			"Plant-like colonies 5cm to 1m in size",
+			"Tiny, cream-colored, star-shaped reproductive structures (bulbils) that occur at the base of branch clusters are diagnostic.  Even before they are evident to the naked eye the bulbils can be detected by feel, by gently squeezing the stems at the whorls; the tiny bulbils are distinctly \"firm\" relative to the soft gelatinous feel of the rest of the algae.",
+			"May have holdfast or be free floating; brown to dark green in color",
+			"Can form dense mats on the lake bottom"
+		],
+
+		"Biology":
+		[	"Colonies reproduce vegetatively through rhizoids and fragments, and sexually with star-shaped reproductive structures",
+			"Stoneworts anchor themselves to the bottom with colorless hair-like filaments called rhizoids. Rhizoids act as roots, absorbing nutrients and providing stability. Stoneworts also have the ability to absorb nutrients through all surfaces, not just the rhizoids.",
+			"Rhizoids and stem fragments overwinter in and on the sediment; growth begins when the water warms in the spring and continues through late fall",
+			"Native to Eurasia, and believed to have been introduced to this continent through ballast water contamination, starry stonewort was first recorded in North America in 1978, growing in the St. Lawrence River. It has since spread to many sites along the St. Lawrence, to portions of the Great Lakes region, (especially around Lake Ontario, parts of Michigan and New York) and more recently to New England (Vermont)."
+		],
+
+		"Habitat":
+		[	"Grows in freshwater to slightly brackish water, generally at depths from 1 to 7 meters",
+			"Prefers soft sediments; can tolerate low nutrient and light levels",
+			"Lakes; ponds; rivers; periodic waters"
+			
+		],
+		"Look Alikes":
+		[
+			"Europian Naiad",
+			"Fine-leaved Pondweeds",
+			"Hornworts",
+			"Muskgrass",
+			"Brittlewort",
+			"Native Naiads"
+		],
+
+		"Commonly Seen":
+		[	
+			"Lake Bottom"
+			"Midwater - Shallow"
+			"Midwater - Deep"
+			
+		],
+
+		"Range":
+		[	"Worldwide, approximately 30 species in the US"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"algae",
+		"branching algae that resemble higher plants",
+		"shallow",
+		"bottom",
+		"deep"
+	]
+}

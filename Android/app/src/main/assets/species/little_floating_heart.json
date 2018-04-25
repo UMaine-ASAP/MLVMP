@@ -1,0 +1,67 @@
+{
+	"name":"Little Floating Heart",
+	"scientific name":"Nymphoides cordata",
+	"pictures":
+	[
+		"little_floating_heart1.jpg",
+		"little_floating_heart2.jpg",
+		"little_floating_heart3.jpg",
+		"little_floating_heart4.jpg",
+		"little_floating_heart5.jpg",
+		"little_floating_heart6.jpg"
+
+	],
+	"information":
+	{
+		"Family":
+		[
+			"Menyanthacea"
+		],
+		
+
+		"Identifying Characteristics":
+		[
+			"Small floating aquatic plant",
+			"Stems: long slender, single leaf per stem",
+			"Leaves: small (1.5-5cm wide), heart-shaped, entire, slightly scalloped margin",
+			"Flowers: June to September, delicate, white (1cm diameter) with 5 petals",
+			"Fruits/Seeds:",
+			"Other: clumps of elongate tuberous roots (resemble bunch of bananas) along stem near surface"
+		],
+
+		"Biology":
+		[	"Perennial",
+			"Primary reproduction: rhizome, tubers, seeds"
+		],
+
+		"Habitat":
+		[	"Floating community",
+			"Quiet waters of lakes and streams"
+		],
+
+		"Look Alikes":
+		[
+			"European Frogbit",
+			"Fragrant Water Lily",
+			"Spatterdock",
+			"Yellow Floating Heart"
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Shallow"
+		],
+
+		"Range":
+		[	"Native Range: Maine, New England, eastern seaboard and gulf coast of United States"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"floating-leaved plants",
+		"surface",
+		"shallow"
+	]
+}

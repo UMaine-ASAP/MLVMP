@@ -1,0 +1,82 @@
+{
+	"name":"Pumpkinseed Sunfish",
+	"scientific name":"Lepomis gibbosus",
+	
+	"pictures":
+	[
+		"pumpkinseed_sunfish1.jpg",
+		"pumpkinseed_sunfish2.jpg",
+		"pumpkinseed_sunfish3.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Centrarchidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Rounded shaped fish, narrow when viewed from the front",
+			"Back is olive to yellowish brown, shading to yellow or orange ventrally",
+			"Sides of head and cheek have several wavy turquoise bands",
+			"Long, pointed pectoral fins",
+			"Red spot on opercular flap"		
+		],
+
+		"Biology":
+		[	
+			"Spawn early summer",
+			"Live up to 9 years",
+			"Size: rarely exceed 10 inches long, ½ pound weight"
+
+		],
+
+		"Diet":
+		[
+			"Insects",
+			"Small invertebrates",
+			"Mollusks",
+			"Occasionally small fish"
+
+		],
+
+		"Habitat":
+		[	"Vegetated or brush covered areas",
+			"Lakes, ponds",
+			"Quiet water in streams or rivers"
+
+
+		],
+		"Look-Alikes":
+		[
+			"Black Crappie",
+			"Redbreast Sunfish",
+			"Bluegill Sunfish"
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	
+			"Native Range: New Brunswick to Georgia and west to the Dakotas",
+			"Introduced Range: western United States"
+
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"warm water fish",
+		"shallow"
+		
+	]
+}

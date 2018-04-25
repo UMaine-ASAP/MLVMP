@@ -1,0 +1,60 @@
+{
+	"name":"Gloeotrichia",
+	"scientific name":"Gloeotrichia echinulata",
+	"pictures":
+	[
+		"gleotrichia1.jpg",
+		"gleotrichia2.jpg",
+		"gleotrichia3.jpg",
+		"gleotrichia4.jpg"
+	],
+	"information":
+	{	
+		"Classification":
+		[
+			"Cyanobacteria"
+		],
+
+		"Identifying Characteristics":
+		[	"Small, floating, fuzzy, green dots can be seen without magnification in lake water.",
+			"During the floating stage, gloeo colonies can be distributed horizontally by wind-driven water currents, and accumulate along shores and in quite bays.  Concentrated in this way, the tiny (head-of-a-pin sized) colonies may cause the water to look like a thin greenish tapioca gruel.",
+			"Under a microscope, the individual filaments that radiate somewhat symmetrically from the center of the colony (giving the colonies their fuzzy appearance) may be seen; the colony is enveloped in a viscous mucilage matrix",
+			"Cells are only microns long or wide, but colony may be 1-3 mm in diameter",
+			"Often appear mid-summer"
+		],
+
+		"Biology":
+		[	"Gloeotrichia (pronounced Dzglee-oh-tricky-ahdz) is a colonial bluegreen algae",
+			"Reproduction is asexual, by vegetative cell division",
+			"In North America, Gloeotrichia typically appears during late summer and fall; blooms may even be seen in very clear, low nutrient (oligotrophic) lakes",
+			"\"Gloeo\" has been known to exist in Maine lakes for many years, but it has typically been observed in relatively low densities.  During the past decade, Gloeo blooms appear be increasing in lakes throughout much of New England; occurring earlier in the summer, and in higher densities.",
+			"During the winter months, Gloeo colonies reside on the lake bottom, where they sequester phosphorus from the rich bottom sediments.  In the spring, Gloeo colonies rise in relative synchrony to the lake surface, where they complete their life cycle.  Some of the phosphorus carried from the lake bottom may be released in this process, becoming available to other algae.",
+			"Research suggests that this Ǯnutrient recruitmentǯ process may contribute to declining water quality in otherwise clear, low nutrient lakes."
+		],
+
+		"Habitat":
+		[	"Lakes"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			
+			"Northeast United States, can be found elsewhere, most often northern waters, but most common in northeast"
+			
+		],
+
+		"Range":
+		[	"Most common in Northeast United States",
+			"Can be found elsewhere, most often northern waters"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"algae",
+		"globular or sphere-shaped macro-algae",
+		"shallow",
+		"deep"
+	]
+}

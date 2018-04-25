@@ -1,0 +1,58 @@
+{
+	"name":"Filamentous Blue-green Algae",
+	"scientific name":"Anabaena, Lyngbya, Oscillatoria (a.k.a Planktothrix), Plectonema, Phormidium",
+	"pictures":
+	[
+		"fil_mat_forming_blgrn_algae1.jpg",
+		"fil_mat_forming_blgrn_algae2.jpg"
+
+	],
+	"information":
+	{	
+		"Classification":
+		[
+			"Cyanobacteria"
+		],
+
+		"Identifying Characteristics":
+		[	"May be observed as floating mats, loose filaments, sheets covering the lake bottom, or attached to rocks. Blooms can range in color from dark blue-green to dark red, brown, green-black or purple.",
+			"Dense surface scums may produce a strong unpleasant (pig-pen-like) odor",
+			"Characteristics vary depending upon genus/species, for example:\n\n- Anabaena blooms may cause the lake water to look like green paint or pea soup, with slimy, shiny mats forming at the surface.  Some anabaena species also form colonies, which are seen as large dark dots or splotches in the water.  Individual filaments are generally hard to see without magnification.  Under the microscope Anabaena consists of chains of round or sometimes barrel-shaped cells with distinct, non-pigmented, heterocysts occuring at intervals along the chain. (Heterocysts are specialized cells that fix atmospheric nitrogen.) The chains may be straight or spiral.\n\n- Most Lyngbya species are benthic, forming mats on the lake bottom and/or around plants; straight filaments usually remain distinct within the mat producing a \"hairy\" appearance.\n\n- Oscillatoria (a.k.a. Planktothrix) forms long, slender, straight filaments that usually remain distinct within the mat producing a Dzhairydz appearance; the filaments are generally visible without magnification.  (Oscillatoria and Lyngbya are frequently occur together; the former floating more freely in the upper portion of the water column, and the later more entangled with the shoreline vegetation.)\n\n- Phormidium is generally benthic, forming smooth, thin, tough mats that may be attached to rocks or vegetation or covering the lake bottom.",
+			"Dense cyanobacteria mats can impede activities like swimming and fishing, and may cause taste/odor problems and oxygen depletion"
+		
+		],
+
+		"Biology":
+		[	"Cyanobacteria are a group of photosynthetic, nitrogen fixing bacteria",
+		"Reproduction is asexual, by vegetative cell division; some species form filaments comprised of single cells joined end to end",
+		"Some species have gas vesicles that allow them to regulate buoyancy and to migrate up and down throughout the water column.",
+		"Cyanobacteria are naturally occurring in most Maine lakes, and are vital components of lake ecosystems.",
+		"When conditions cause algae to \"bloom\"  (multiply rapidly), the natural toxins produced by some cyanobacteria species may accumulate in harmful concentrations. These are known as \"cyanobacterial harmful algal blooms\" (cyanoHABs).  Cyanobacteria HABs may be harmful (even fatal) to wildlife, domestic animals, and humans.",
+		"Cyanobacteria toxins can affect the liver (hepatotoxins), the nervous system (neurotoxins) and the skin (acutely dermatotoxins).  The most common exposures to cyanobacteria and their toxins are believed to occur during recreational activities where the cyanobacteria may be swallowed, inhaled, or exposed to the skin.",
+		"Not all cyanobacteria and/or cyanobacteria blooms are toxic."
+		],
+
+		"Habitat":
+		[	"Freshwater lakes; ponds; wetlands"
+		],
+
+		"Commonly Seen":
+		[	"Water Surface",
+			"Midwater - Shallow",
+			"Lake bottom"
+		],
+
+		"Range":
+		[	"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"algae",
+		"filamentous mat-forming algae",
+		"surface",
+		"shallow",
+		"bottom"
+	]
+}

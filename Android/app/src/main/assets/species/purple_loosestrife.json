@@ -1,0 +1,59 @@
+{
+    "name":"Purple Loosestrife",
+    "scientific name":"Lythrum salicaria",
+    "pictures":
+    [
+     "purple_loosestrife1.jpg",
+     "purple_loosestrife2.jpg",
+     "purple_loosestrife3.jpg",
+     "purple_loosestrife4.jpg"
+     ],
+    "information":
+    {
+        "Family":
+        [
+         "Lythraceae"
+         ],
+        "Invasive":
+        [
+        ],
+        "Identifying Characteristics":
+        [ "Emergent wetland plant",
+         "Stems: tall, 1-1.5m, reddish-purple or red to purple, square in cross-section",
+         "Leaves: lance-shaped (3-10cm long, 5-15mm broad), downy, sessile, arranged opposite or in whorls of three",
+         "Fruits/Seeds: small capsule 3-4mm, turn bright red in early autumn",
+         "Other: forms dense colonies"
+         ],
+        "Biology":
+        [ "Perennial",
+         "Primary reproduction: seed, creeping roots"
+         ],
+        "Habitat":
+        [ "Wetlands",
+         "Wet freshwater meadows",
+         "Tidal and non-tidal marshes",
+         "River and stream banks",
+         "Pond edges",
+         "Reservoirs and ditches"
+         ],
+        "Look-Alikes":
+        [
+         "Blazing Star",
+         "Blue Vervain",
+         "Cardinal Flower"
+         ],
+        "Commonly Seen":
+        [ "Shoreline"
+         ],
+        "Range":
+        [ "Northeast US Range: most northeast states",
+         "Native Range: Europe, Asia, northwest Africa, southeastern Australia"
+         ]
+    },
+    "tags":
+    [
+     "flora",
+     "wetland plants",
+     "shoreline"
+     ]
+}

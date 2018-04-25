@@ -1,0 +1,77 @@
+{
+	"name":"Spring Peeper",
+	"scientific name":"Pseudacris crucifer",
+	"pictures":
+	[
+		"spring_peeper1.jpg",
+		"spring_peeper2.jpg",
+		"spring_peeper3.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Hylidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Mostly tan, brown, olive green, and gray in color",
+			"Dark lines form a telltale “X” on their back",
+			"Females are lighter-colored while males are slightly smaller and usually have dark throats",
+			"Large toe pads for climbing", 
+			"Size: Adults can reach up to 1.5 inches in length"
+
+		],
+
+		"Biology":
+		[
+			"In northern areas, they breed between March and June—when the warm rains start",  
+			"Typically 900 eggs are laid per clutch but up to 1000 are possible",
+			"Egg clusters are hidden under vegetation or debris at the water base", 
+			"After hatching, they transform into frogs and are ready to leave the water in about eight weeks", 
+			"Hibernate under logs and loose bark in very cold weather",
+			"Call day and night as long as the temperature is above freezing, but they are mostly heard and usually not seen because they hide in dense plants", 
+			"Especially easy to hear due to extremely loud mating call but it is often hard to pinpoint the source of the sound",
+			"Generally breed close to dusk and throughout the evening and early morning hours"
+			"Lifespan is estimated at three years"
+		],
+
+		"Habitat":
+		[
+			"Forests and semi-permanent wetlands",
+			"Wooded areas and grassy lowlands near ponds and swamps",
+			"Loose debris of the forest floor"	
+		],
+
+		"Diet":
+		[
+			"Nocturnal carnivores - emerging at night to feed primarily on small invertebrates, such as beetles, ants, flies, and spiders",
+			"Hunt in low vegetation",
+			"Tadpoles feed on algae and other organisms in the water"
+		],
+
+		"Commonly Seen":
+		[	"Shoreline",
+			"Surface",
+			"Midwater - Shallow"
+
+		],
+
+		"Range":
+		[	
+			"Eastern United States and Canada"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"amphibians",
+		"frogs",
+		"shoreline",
+		"surface",
+		"shallow"
+	
+	]
+}

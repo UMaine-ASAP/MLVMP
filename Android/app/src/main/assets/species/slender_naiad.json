@@ -1,0 +1,88 @@
+{
+	"name":"Slender Naiad",
+	"scientific name":"Najas flexilis or Najas canadensis*",
+	"pictures":
+	[
+		"slender_naiad1.jpg",
+		"slender_naiad2.jpg",
+		"slender_naiad3.jpg",
+		"slender_naiad4.jpg",
+		"slender_naiad5.jpg",
+		"slender_naiad6.jpg",
+		"slender_naiad7.jpg",
+		"slender_naiad8.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Northern Water-Nymph"
+		],
+		"Family":
+		[
+			"Najadaceae"
+		],
+		
+
+		"Identifying Characteristics":
+		[	"Submersed aquatic plant",
+			"Stems: branching, up to 1m long",
+			"Leaves: lance-shaped (1-4cm long, 0.2-1mm wide), very fine serrated (hard to see), somewhat stiff, arrangement is mixed: opposite, whorls, clumped at tips, arch backwards",
+			"Flowers:  midsummer, tiny inconspicuous, develop in leaf axils",
+			"Fruits/Seeds: 3mm long, cylindrical, straight, pointed at both ends, shallow pits in rows (with magnification) are longer than wide"
+			
+		],
+
+		"Biology":
+		[	"True annuals, dioecious",
+			"Primary reproduction: seed",
+			"Vegetative reproduction may occur during growing season"
+		],
+
+		"Habitat":
+		[	"Submersed community",
+			"Sandy or grave substrate",
+			"Slow moving streams",
+			"Lakes, ponds, slow moving streams"
+		],
+
+		"Look Alikes":
+		[
+			"Brittlewort",
+			"European Naiad",
+			"Muskgrass",
+			"Thread-like Naiad",
+			"Fine-leaved Pondweeds"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+			
+		],
+
+		"Range":
+		[	"Native Range: Maine, New England, northern and western United States"
+		],
+		
+		"*Note":
+		[
+			"New DNA research has revealed that a high percentage of what we call Najas flexilis in New England may be Najas canadensis",  
+			"N. flexilis is thought to be more common in the northern parts of New England, but geography alone is not enough to confirm the identification", 
+			"The two species are very similar in appearance; in order to distinguish between them it is necessary to: remove the outer husks of the tiny seeds, precisely measure (ideally using digital image analysis) seed length and width, and determine the l:w ratio", 
+			"If the ratio is greater than 3.0 it is a ‘thin’ seed, which means it is N. canadensis",  
+			"If the seed length to width ratio is less than 3.0 it is a ‘thick’ seed which means it is N. flexilis", 
+			"Hybrids between these two species also occur."
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"vascular aquatic plants",
+		"plants with blade-shaped leaves on stems",
+		"fine slender leaves - not arranged in whorls",
+		"shallow"
+	]
+
+}

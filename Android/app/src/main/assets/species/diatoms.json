@@ -1,0 +1,55 @@
+{
+	"name":"Diatoms",
+	"scientific name":"Fragilaria, Meridion Tabellaria, Asterionella, others",
+	"pictures":
+	[
+		"diatoms1.jpg"
+
+	],
+	"information":
+	{	
+		"Classification":
+		[
+			"Bacillariophyta"
+		],
+
+		"Identifying Characteristics":
+		[	"Brownish water looks murky (like thin paint); may have glistening brown surface scum or film",
+			"The photosynthetic pigment of diatoms is brown.  Coloration of the water is caused by proliferation of the microscopic free-floating (planktonic) diatoms, suspended in the top few feet of water of a pond or lake where light is bright enough for algae to produce food by photosynthesis",
+			"Most diatoms are unicellular, but some exist as colonies in the shape of filaments or ribbons, fans, zigzags, or stars, some of which may be just barely visible to the naked eye",
+			"Cells range in size from about 2 microns to about 0.5 mm, or about the width of a human hair",
+			"Cells are distinctively enclosed within a glass-like cell wall made of silica, and show a wide diversity in form.  Most forms are near-symmetrical",
+			"May be found attached to rocks, plants, or other surfaces where they accumulate to form a brown gelatinous mud-like mass"
+
+		],
+
+		"Biology":
+		[	"Reproduction is asexual, by vegetative cell division",
+			"Diatoms thrive in cold water and are most dominant in Maine lakes in the spring and fall.",
+			"Diatoms are important producers in lake food chains; providing high-quality food for zooplankton at time when the productivity of other forms of algae is diminished."
+		],
+
+		"Habitat":
+		[	"Lakes",
+			"Ponds"
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+			
+		],
+
+		"Range":
+		[	"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"algae",
+		"algae that color the water",
+		"shallow"
+	]
+}

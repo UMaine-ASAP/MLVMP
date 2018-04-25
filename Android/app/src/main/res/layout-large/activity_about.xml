@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/background"
+    android:id="@+id/homescreen">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        style="@style/scroll">
+    </LinearLayout>
+    <ScrollView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        android:layout_gravity="center"
+        android:scrollbarThumbVertical="@drawable/gradient_button_pressed"
+        android:scrollbarSize="9dp">
+
+        <LinearLayout
+            android:orientation="vertical"
+            style="@style/scroll"
+            android:id="@+id/layout">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="24dp"/>
+            <ImageView
+                android:layout_width="450dp"
+                android:layout_height="150dp"
+                android:background="@drawable/splash"/>
+
+            <TextView
+                style="@style/data_text_regular"
+                android:layout_height="wrap_content"
+                android:text="Our Mission"
+                android:textSize="26dp"
+                android:layout_marginTop="18dp"
+                />
+            <TextView
+                style="@style/data_text_regular"
+                android:gravity="left"
+                android:layout_marginLeft="9dp"
+                android:layout_marginRight="9dp"
+                android:layout_marginBottom="18dp"
+                android:textSize="24dp"
+                android:text="The mission of the Maine Volunteer Lake Monitoring Program is to help protect Maine lakes through widespread citizen participation in the gathering and dissemination of credible scientific information pertaining to lake health.  The VLMP trains, certifies and provides technical support to hundreds of volunteers who monitor a wide range of indicators of water quality, assess watershed health and function, and screen lakes for invasive aquatic plants and animals. In addition to being the primary source of lake data in the State of Maine, VLMP volunteers benefit their local lakes by playing key stewardship and leadership roles in their communities."
+                />
+            <TextView
+                style="@style/data_text_regular"
+                android:layout_height="wrap_content"
+                android:text="General Information"
+                android:textSize="26dp"
+
+                />
+            <TextView
+                style="@style/data_text_regular"
+                android:gravity="left"
+                android:layout_marginLeft="9dp"
+                android:layout_marginRight="9dp"
+                android:layout_marginBottom="18dp"
+                android:textSize="24dp"
+                android:text="The VLMP is a non-profit 501(c)(3) organization committed to the collection of information pertaining to lake water quality. For 40 years, trained volunteers throughout Maine have donated their time so that we may all learn more about one of Maine’s most beautiful and important resources — our lakes."
+                />
+            <TextView
+                style="@style/data_text_large"
+                android:layout_height="wrap_content"
+                android:text="Contact"
+                android:textSize="26dp"
+
+                />
+            <TextView
+                style="@style/data_text_regular"
+                android:gravity="left"
+                android:layout_marginLeft="9dp"
+                android:layout_marginRight="9dp"
+                android:layout_marginBottom="18dp"
+                android:textSize="24dp"
+                android:text="The Maine Volunteer Lake Monitoring Program\n24 Maple Hill Road\n Auburn, Maine 04210\nPhone: 207-783-7733\nEmail: vlmp@mainevlmp.org"
+                />
+        </LinearLayout>
+    </ScrollView>
+
+</RelativeLayout>

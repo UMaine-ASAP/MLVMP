@@ -1,0 +1,75 @@
+{
+	"name":"Mosquito",
+	"pictures":
+	[
+		"mosquito1.jpg",
+		"mosquito2.png",
+		"mosquito3.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Diptera"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Larvae found in water / adults terrestrial",
+			"Small 0.3 to 0.5 inches",
+			"“Wiggle” almost constantly",
+			"Worm-like",
+			"No jointed legs"
+
+
+
+		],
+
+		"Biology":
+		[	
+			"Eggs laid on moist soil or water surface in rafts",
+			"Development from egg to adult can happen in a week in warm weather",
+			"Several broods per season"
+
+		],
+
+		"Diet":
+		[
+			"Larvae – detritus, microorganisms",
+			"Adults – plant juices, blood (females)"
+
+
+		],
+
+		"Habitat":
+		[	"Lakes",
+			"Ponds",
+			"Vernal pools",
+			"Rivers"
+
+
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"surface",
+		"shallow"
+		
+	]
+}

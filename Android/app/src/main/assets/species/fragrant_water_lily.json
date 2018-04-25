@@ -1,0 +1,65 @@
+{
+    "name":"Fragrant Water Lily",
+    "scientific name": "Nymphaea odorata",
+    "pictures":
+    [
+     "fragrant_waterlily1.jpg",
+     "fragrant_waterlily2.jpg",
+     "fragrant_waterlily3.jpg",
+     "fragrant_waterlily4.jpg",
+     "fragrant_waterlily5.jpg"
+     ],
+    "information":
+    {
+        "Other Name(s)":
+        [
+         "White Water Lily"
+         ],
+        "Family":
+        [
+         "Nymphaeaceae"
+         ],
+        "Identifying Characteristics":
+        [
+         "Floating leaved aquatic plant",
+         "Stems: long, elastic, round in cross-section, faintly striped, unbranched, single leaf per stem",
+         "Leaves: floating, leathery, top side green, underside reddish purple, round heart-shaped (10-30 cm diameter), narrow pie-shaped notch at top of leaf",
+         "Flowers: throughout summer, open in morning, close by mid-afternoon, showy white to pink, large (7-20cm), numerous petals in circular cluster of yellow stamens",
+         "Fruits/Seeds: 1.5-4.5mm long",
+         "Other: hybridize with horticultural varieties"
+         ],
+        "Biology":
+        [
+         "Perennial",
+         "Primary reproduction: rhizome, seed"
+         ],
+        "Habitat":
+        [ "Floating community",
+         "Quiet waters of lakes, ponds, slow moving streams",
+         "Variety of sediment types"
+         ],
+        "Look Alikes":
+        [ "European Frogbit",
+         "Little Floating Heart",
+         "Spatterdock",
+         "Yellow Floating Heart"
+         ],
+        "Commonly Seen":
+        [
+         "Surface",
+         "Midwater - Shallow"
+         ],
+        "Range":
+        [
+         "Native Range: Maine, New England, most of United States"
+         ]
+    },
+    "tags":
+    [
+     "flora",
+     "vascular aquatic plants",
+     "floating-leaved plants",
+     "surface",
+     "shallow"
+     ]
+}

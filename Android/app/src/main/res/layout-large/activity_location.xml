@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/background"
+    android:id="@+id/background">
+    <LinearLayout
+        style="@style/scroll">
+
+    </LinearLayout>
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:scrollbarThumbVertical="@drawable/gradient_button_pressed"
+        android:scrollbarSize="9dp">
+
+        <LinearLayout
+
+            android:layout_height="wrap_content"
+            android:layout_width="match_parent"
+            android:gravity="center"
+            android:layout_gravity="center_horizontal"
+            android:orientation="vertical"
+            android:layout_marginLeft="9dp"
+            android:layout_marginRight="9dp"
+            android:id="@+id/linlayout1">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="20dp"
+                android:id="@+id/linlayout2">
+            </LinearLayout>
+            <LinearLayout
+                style="@style/category_container">
+                <LinearLayout
+                    style="@style/category_container"
+                    android:onClick="toIdentify"
+                    android:clickable="true"
+                    android:id="@+id/button_shoreline">
+                    <ImageView
+                        style="@style/category_image_large"
+                        android:id="@+id/shoreline_image"
+                        />
+                    <Button
+                        style="@style/category_button_large"
+                        android:text="Along the Shoreline"
+                        >
+                    </Button>
+                </LinearLayout>
+                <Button
+                    style="@style/shadow_large"/>
+            </LinearLayout>
+
+            <LinearLayout
+                style="@style/category_container">
+                <LinearLayout
+                    style="@style/category_container"
+                    android:onClick="toIdentify"
+                    android:clickable="true"
+                    android:id="@+id/button_surface">
+                    <ImageView
+                        style="@style/category_image_large"
+                        android:id="@+id/surface_image"
+                        />
+                    <Button
+                        style="@style/category_button_large"
+                        android:text="On the Surface"
+                        >
+                    </Button>
+                </LinearLayout>
+                <Button
+                    style="@style/shadow_large"/>
+            </LinearLayout>
+            <LinearLayout
+                style="@style/category_container">
+                <LinearLayout
+                    style="@style/category_container"
+                    android:onClick="toIdentify"
+                    android:clickable="true"
+                    android:id="@+id/button_shallow">
+                    <ImageView
+                        style="@style/category_image_large"
+                        android:id="@+id/shallow_image"
+                        />
+                    <Button
+                        style="@style/category_button_large"
+                        android:text="Mid-Water: Shallow ( &lt; 10 ft.)"
+                        >
+                    </Button>
+                </LinearLayout>
+                <Button
+                    style="@style/shadow_large"/>
+            </LinearLayout>
+
+
+            <LinearLayout
+                style="@style/category_container">
+                <LinearLayout
+                    style="@style/category_container"
+                    android:onClick="toIdentify"
+                    android:clickable="true"
+                    android:id="@+id/button_deep">
+                    <ImageView
+                        style="@style/category_image_large"
+                        android:id="@+id/deep_image"
+                        />
+                    <Button
+                        style="@style/category_button_large"
+                        android:text="Mid-Water: Deep ( &gt; 10 ft.)"
+                        >
+                    </Button>
+                </LinearLayout>
+                <Button
+                    style="@style/shadow_large"/>
+            </LinearLayout>
+
+
+            <LinearLayout
+                style="@style/category_container">
+                <LinearLayout
+                    style="@style/category_container"
+                    android:onClick="toIdentify"
+                    android:clickable="true"
+                    android:id="@+id/button_bottom">
+                    <ImageView
+                        style="@style/category_image_large"
+                        android:id="@+id/bottom_image"
+                        />
+                    <Button
+                        style="@style/category_button_large"
+                        android:text="On the Bottom"
+                        >
+                    </Button>
+                </LinearLayout>
+                <Button
+                    style="@style/shadow_large"/>
+            </LinearLayout>
+
+        </LinearLayout>
+
+    </ScrollView>
+</RelativeLayout>

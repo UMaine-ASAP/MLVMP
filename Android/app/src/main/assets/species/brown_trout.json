@@ -1,0 +1,80 @@
+{
+	"name":"Brown Trout",
+	"scientific name":"Salmo trutta",
+	"pictures":
+	[
+		"brown_trout1.jpg",
+		"brown_trout2.jpg"
+
+	],
+	"information":
+	{	"Other Name(s)":
+		[
+			"Brownie"
+		],
+		"Family":
+		[
+			"Salmonidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Color is highly variable",
+			"Usually light brown or tawny with pronounced black spots on the back, sides and head",
+			"Spots are often surrounded with reddish halo, along with reddish spots on the sides"
+		],
+
+		"Biology":
+		[	
+			"Spawn in the fall, usually October or November",
+			"Spawn primarily is streams, selecting coarse rubble bottom substrates in riffle areas",
+			"Males defend their chosen territories against the intrusion of rival males prior to active spawning",
+			"Young hatch out the following spring and normally spend the first two to three years of life in the parent stream feeding on insects and other minute animal life",
+			"Able to withstand higher water temperatures that Brook Trout",
+			"Size: average size is 14-20 inches and 1-2 pounds, but may occasionally reach 10 pounds",
+			"May live to be 20 years old"
+		],
+
+		"Diet":
+		[
+			"Aquatic invertebrates",
+			"Terrestrial invertebrates",
+			"Larger brown trout may prey upon small fish"
+		],
+
+		"Habitat":
+		[	"Rivers",
+			"Streams",
+			"Deep, coldwater lakes and ponds"
+		],
+		"Look-Alikes":
+		[
+			"Brook Trout",
+			"Landlocked Salmon",
+			"Lake Trout",
+			"Rainbow Trout"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Midwater - Deep"
+		],
+
+		"Range":
+		[	
+			"Native Range: Northern Europe, Asia and North Africa",
+			"Introduced Range: Worldwide, including North and South America, Australasia, Asia, and South and East Africa.",
+			"As in many introduced areas, Maine’s brown trout have established self-sustaining, wild populations",
+			"One of the first introductions of brown trout in the United States was in Branch Lake, Ellsworth, Maine, in 1885"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"cold water fish",
+		"shallow",
+		"deep"
+	]
+}

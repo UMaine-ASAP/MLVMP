@@ -1,0 +1,39 @@
+{
+	"name":"Blue Colored Water",
+	"pictures":
+	[
+		"blue_water1.jpg",
+		"blue_water2.jpg",
+		"blue_water3.jpg",
+		"blue_water4.jpg"
+
+	],
+	
+	"information":
+	{	
+		
+		"Details":
+		[	
+			"Blue lakes are generally clear, clean lakes.  The color of most lakes, however, will vary with the time of day, the weather, the season of the year, and the occasional changes in the amount of dissolved or suspended material in the water.",
+			"The reason clear lakes are blue and not some other color has to do with the nature of both light and water.  Longer wavelengths of the visible light spectrum (red, orange, yellow, green) are more readily absorbed by water molecules than shorter wavelengths (blue and violet).",
+			"When water is clear, with less dissolved or suspended material to scatter light, the light can travel deeper into the water.  The deeper the light penetrates, the more the longer light waves are absorbed.  The remaining blue and violet wavelengths continue to travel into deeper water until they are eventually scattered and reflected upward.",
+			"The darker the blue, the deeper the water.",
+			"Some of the blue color may also be due to the light from the overhead blue sky striking the surface of the lake and being reflected directly upward."
+			
+		],
+
+		"Commonly Seen":
+		[	
+			"Surface",
+			"Midwater - Shallow",
+			"Midwater - Deep"						
+		]		
+	},
+	"tags":
+	[
+		"other aquatic curiosities",
+		"surface",
+		"shallow",
+		"deep"
+	]
+}

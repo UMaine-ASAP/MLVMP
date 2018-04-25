@@ -1,0 +1,77 @@
+{
+	"name":"Gray Tree Frog",
+	"scientific name":"Hyla versicolor",
+	"pictures":
+	[
+		"gray_tree_frog1.jpg",
+		"gray_tree_frog2.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Hylidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Green-gray or brown color—can be solid or have blotches on back", 
+			"Can change its color in seconds—often becomes darker when it is cold or dark or to help it blend in with tree bark",    
+			"White underside and lots of warts",
+			"Large and sticky toe pads",
+			"Bright yellow to orange skin under its thighs" ,
+			"Size: roughly 2 inches long"
+		],
+
+		"Biology":
+		[
+			"Nocturnal",
+			"Freezes in winter",
+			"Breeding season runs from April to August",
+			"Males gather in trees and bushes next to breeding ponds and swamps and begin calling",
+			"Male aggressively defend its territory from intruders",
+			"The female selects a mate based on its call", 
+			"Females lay eggs on the surface of shallow water in ponds or swamps", 
+			"The eggs are attached to vegetation to keep them from floating away", 
+			"The female lays as many as 2000 eggs in groups of 10-40 ", 
+			"The tadpoles hatch in four or five days and will change into froglets in about two months"
+
+		],
+
+		"Habitat":
+		[	
+			"Forested areas",
+			"Treetops (unless breeding - then found in semipermanent woodland ponds without fish, swamps, vernal pools, man-made fountains and water gardens, and even in rainwater filled swimming pool covers"
+		],
+		"Diet":
+		[
+			"Food found in trees and shrubs",
+			"Eats moths, tree crickets, ants, flies, grasshoppers, and beetles"
+		],
+
+		"Look-Alikes":
+		[
+			"Cope's Gray Treefrog (Hyla chrysoscelis)"
+		],
+
+		"Commonly Seen":
+		[	"Shoreline",
+					
+
+		],
+
+		"Range":
+		[	
+			"Manitoba east to Maine and south to northern Florida and central Texas"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"amphibians",
+		"frogs",
+		"shoreline"
+	
+	]
+}

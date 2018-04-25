@@ -1,0 +1,27 @@
+{
+    "name":"Insect Exuvia",
+    "pictures":
+    [
+     "insect_exuvia1.jpg",
+     "insect_exuvia2.jpg"
+     ],
+    "information":
+    {
+        "Details":
+        [
+            "The larvae (nymphs) of mayflies, dragonflies, and some other aquatic insects molt and shed their outer skeletons as they leave the water and become flying adults.  These skeletal remains, which may closely resemble a mature adult, are called exuvia.",
+            "Exuvia may be seen floating on the water, attached to docks or emergent plants near shore."
+         ],
+        "Commonly Seen":
+        [
+         "Shoreline",
+         "Surface"
+         ]
+    },
+    "tags":
+    [
+     "other aquatic curiosities",
+     "surface",
+     "shoreline"
+     ]
+}

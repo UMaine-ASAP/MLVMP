@@ -1,0 +1,49 @@
+{
+	"name":"Egg Mass",
+	"pictures":
+	[
+		"egg_mass1.jpg",
+		"egg_mass2.jpg",
+		"egg_mass3.jpg",
+		"egg_mass4.jpg"
+
+	],
+	"information":
+	{	
+		"Phylum":
+		[
+			"Bryozoa"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+		
+
+			"<i>Dragonflies  and  Damselflies</i>: Eggs  masses  are  laid  on  the  water  surface  or  shoreline  vegetation,  and (depending  upon  species)  may  be  comprised  tidy  clumps,  loopy  strands,  or  clustered  rows  of  eggs.  Differences   in   morphology   of   the   egg   can   distinguish   dragonflies   (Anisoptera)   from   damselflies (Zygoptera): Dragonfly eggs are round and about 0.5 mm long; damselfly eggs are cylindrical and longer, about 1 mm long.",
+			 "Frogs:   Most  frogs  lay  their  eggs  in  large  clumps.  Clumps  are comprised  of  individual  clear eggs  with  a visible  embryo  contained  within  each  egg.    The  outside  edge  of  the  egg  mass  is  made  up  of  the  eggs themselves (unlike salamander egg masses which are coated with an additional layer of jelly).  Depending upon  the  species,  the  clumps  may  contain  just  a  few  eggs  or  as  many  as  6000  eggs.      With  careful observation (and a bit of practice) it is possible to identify many frog species from their egg masses.\n\n\tWood Frog – Eggs are attached to submerged plants, near water surface. Egg masses are globular, 6 - 10 cm in diameter, dark-colored, and comprised of 500-800 eggs.    Wood frogs congregate to mate and lay eggs; it is typical to see many egg masses crowded together in one area.  Breeding takes place in March to April; tadpoles hatch in 15-20 days. \n\n\tSpring Peeper – Peepers do not produce egg masses; 800-1,000 tiny (1mm) whitish eggs are attached to shoreline vegetation singly or clustered in groups of 2 or 3.  Breeding takes place in April to June; tadpoles hatch in 2-3 days.   \n\n\tNorthern Leopard Frog – Females lay up to 6000 black eggs in a tight globular mass, 10-16 cm in diameter.  Tiny eggs (1-1.8 mm) and are laid just below the water surface on vegetation.  Breeding takes place in April; tadpoles hatch in 13-20 days.  \n\n\tPickerel Frog – Eggs are light brown, 2 mm in diameter, laid in loose globular masses near the water surface on vegetation.  Breeding takes place in April to May; tadpoles hatch in 12-18Eastern \n\n\tAmerican Toad – Females lay 4000 – 8000 eggs in long, loopy strands, resembling a curly bead necklace.   Strands typically measure 10-15 mm wide and may be several meters long.  Breeding takes place in May; tadpoles hatch in 2-8 days. \n\n\tGray Treefrog – Females lay up to 2,000 eggs singly or in loose clusters of up to 30 eggs attached to vegetation near the surface. Breeding takes place in April to early July; tadpoles hatch in 3-6 days. \n\n\tGreen Frog –The egg mass is a thin, square-shaped film of jelly floating on the surface (roughly 30cm x 30 cm in size).  The filmy-mass contains 1000-4000 tiny (1-1.5mm) eggs. Breeding takes place in mid-May through July; tadpoles hatch in 3-7 days.    \n\n\tBullfrog – Egg masses, containing 1000-5000 eggs, are comprised of several rectangular-shaped layers of foamy film, typically measuring 60 cm x 30-60 cm.  A single individual female may lay up to 20,000 eggs during the breeding season.  The dark embryos are coated in a clear to whitish jelly; eggs are relatively large, 1.2-1.8 mm in diameter.  Breeding takes place in mid-May through July; tadpoles hatch in 4-6 days.",
+			"Salamander: Some salamander species lay their eggs on land but others lay their egg masses in quiet waters.   Small, firm gelatinous clumps, comprised of individual clear eggs with a visible embryo at the center, are contained within an additional layer of jelly.  This outer gelatinous matrix helps to distinguish salamander egg masses from those of frogs.  Egg masses laid by frogs are NOT contained within an additional layer of jelly.",
+			"Yellow perch:  Yellow perch spawn annually in the spring when water temperatures are between 2.0 and 18.6°C.  Spawning is communal and typically occurs at night; eggs are fertilized externally.  Unique among North American freshwater species, yellow perch eggs are laid in a long, accordion-like, gelatinous strand, each strand containing 10,000-40,000 eggs.  Eggs strands are commonly draped over weeds, the branches of submerged trees or shrubs, or some other structure.  Fry hatch in 11–27 days."
+
+
+		],
+
+
+		"Commonly Seen":
+		[	"Surface",
+			"Midwater - Shallow"
+			
+		]
+
+	
+	},
+	"tags":
+	[
+		"fauna",
+		"other aquatic fauna",
+		"shallow",
+		"surface"
+		
+		
+	]
+}

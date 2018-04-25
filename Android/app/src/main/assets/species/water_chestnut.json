@@ -1,0 +1,62 @@
+{
+    "name":"Water Chestnut",
+    "scientific name":"Trapa natans",
+    "pictures":
+    [
+     "water_chestnut1.jpg",
+     "water_chestnut2.jpg",
+     "water_chestnut3.jpg",
+     "water_chestnut4.jpg",
+     "water_chestnut5.jpg",
+     "water_chestnut6.jpg",
+     "water_chestnut7.jpg"
+     ],
+    "information":
+    {
+        "Family":
+        [
+         "Trapaceae"
+         ],
+        "Invasive":
+        [
+        ],
+        "Identifying Characteristics":
+        [
+         "Floating-leaved aquatic plant",
+         "Stems: long, limp, up to 5m",
+         "Leaves: two distinct leaf types: floating leaves – triangular or fan shaped, toothed margins along outside edges, upper surface glossy, underside covered with soft hairs, on long (up to 15cm) spongy inflated petioles arranged in a rosette; submersed leaves – initial leaves are alternate, linear, and entire but give way to finely feather divided leaves.",
+         "Flowers: mid to late July, small white flowers appear in floating rosette on a stalk",
+         "Fruits/Seeds: woody, nut-like with four sharp barbs",
+         "Other: Stems can reach 5 meters"
+         ],
+        "Biology":
+        [ "True annual",
+         "Primary reproduction: seeds"
+         ],
+        "Habitat":
+        [ "Floating-leaved community",
+         "Prefers low energy, nutrient rich waters in lakes, ponds, and streams",
+         "Can survive stranding along muddy shores"
+         ],
+        "Look Alikes":
+        [
+         "Not easily confused with other aquatic plants"
+         ],
+        "Commonly Seen":
+        [ "Surface",
+         "Shallow"
+         ],
+        "Range":
+        [ "Northeast US Range: New Hampshire, Connecticut, Massachusetts, New York, Vermont, Rhode Island",
+         "Native Range: Europe, Asia, tropical Africa"
+         ]
+    },
+    "tags":
+    [
+     "flora",
+     "vascular aquatic plants",
+     "floating-leaved plants",
+     "surface",
+     "shallow"
+     ]
+}

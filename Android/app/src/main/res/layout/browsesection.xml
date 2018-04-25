@@ -1,0 +1,45 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:gravity="center_horizontal"
+    android:layout_gravity="center_horizontal"
+    android:layout_marginBottom="18dp"
+    android:paddingBottom="18dp"
+    android:id="@+id/browseitem">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:textColor="@color/dark_brown"
+        android:textStyle="bold"
+        android:textSize="18dp"
+        android:id="@+id/categoryTitle"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:text = "(Invasive)"
+        android:textStyle="italic"
+        android:textColor="@color/medium_red"
+        android:visibility="gone"
+        android:textSize="18dp"
+        android:id="@+id/invasiveText"/>
+    <TableLayout
+        android:layout_width="match_parent"
+        android:layout_marginLeft="18dp"
+        android:layout_marginRight="18dp"
+        android:layout_height="wrap_content"
+        android:gravity="center_horizontal"
+        android:layout_gravity="center_horizontal"
+        android:id="@+id/table">
+
+    </TableLayout>
+
+
+
+
+</LinearLayout>
+

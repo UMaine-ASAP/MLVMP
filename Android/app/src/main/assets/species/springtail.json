@@ -1,0 +1,73 @@
+{
+	"name":"Springtail",
+	"pictures":
+	[
+		"springtail1.jpg",
+		"springtail2.jpg"
+
+	],
+	"information":
+	{	
+		"Order":
+		[
+			"Collembola"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Tiny < 0.2 inches ",
+			"Unique jumping structure (called a furcula) held against abdomen",
+			"Found in dense congregations",
+			"Some found on water surface, most live in soil"
+
+
+		],
+
+		"Biology":
+		[	
+			"Usually in large groups jumping"
+
+		],
+
+		"Diet":
+		[
+			"Algae",
+			"Microorganisms",
+			"Detritus"
+
+
+		],
+
+		"Habitat":
+		[	"Lakes",
+			"Ponds",
+			"Rivers",
+			"Vernal Pools"
+
+
+		],
+
+		"Commonly Seen":
+		[	"Surface",
+			"Midwater - Shallow",
+			"Bottom"
+		],
+
+		"Range":
+		[	
+			"Worldwide"
+
+
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"insects",
+		"surface",
+		"shallow",
+		"bottom"
+		
+	]
+}

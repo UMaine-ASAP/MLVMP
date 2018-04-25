@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.asap.phenom" >
+
+    <uses-sdk
+        android:minSdkVersion="15"
+        android:targetSdkVersion="22" >
+    </uses-sdk>
+
+    <android:uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+    <android:uses-permission android:name="android.permission.READ_PHONE_STATE" />
+    <android:uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:maxSdkVersion="18" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="Aquatic Phenomena"
+        android:largeHeap="true"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="Main"
+            android:launchMode="singleTop" >
+        </activity>
+        <activity
+            android:name=".Identify"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/title_activity_identify"
+            android:screenOrientation="portrait" >
+        </activity>
+        <activity
+            android:name=".Data"
+            android:label="Species" >
+        </activity>
+        <activity
+            android:name=".IdentifySlideshow"
+            android:label="Slideshow"
+            android:theme="@style/AppTheme2" >
+        </activity>
+        <activity
+            android:name=".AboutActivity"
+            android:label="About" >
+        </activity>
+        <activity
+            android:name=".Browse"
+            android:label="Browse" >
+        </activity>
+        <activity
+            android:name=".Location"
+            android:label="@string/title_activity_location" >
+        </activity>
+        <activity
+            android:name=".BrowseSlideshow"
+            android:label="Browse Slideshow"
+            android:theme="@style/AppTheme2" >
+        </activity>
+        <activity
+            android:name=".SplashScreen"
+            android:label="Aquatic Phenomena" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".HelpActivity"
+            android:label="@string/title_activity_help"
+            android:screenOrientation="portrait">
+        </activity>
+    </application>
+
+</manifest>

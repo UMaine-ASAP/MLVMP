@@ -1,0 +1,70 @@
+{
+	"name":"Chain Pickerel",
+	"scientific name":"Esox niger",
+	"pictures":
+	[
+		"chain_pickerel1.jpg",
+		"chain_pickerel2.jpg",
+		"chain_pickerel3.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Exocidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Elongated fish with dorsal and anal fin located far back near the forked caudal fin",
+			"Back and sides olive green to brown, grading to white on belly",
+			"Sides overlain with yellow-green blotches which cause darker green background to form chainlike markings"
+		],
+
+		"Biology":
+		[	
+			"Spawn in spring as soon as ice is out in marshy areas and shallow bays",
+			"Size: 15-18 inches long, ~1.5 lbs"
+		],
+
+		"Diet":
+		[
+			"Plankton",
+			"Insects",
+			"Fish"
+		],
+
+		"Habitat":
+		[	"Variety of habitats",
+			"Heavily vegetated shallow water",
+			"Deep water",
+			"Lakes, ponds",
+			"Rivers, streams"
+
+		],
+		"Look-Alikes":
+		[
+			"Muskellunge",
+			"Northern Pike"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	
+			"Range: east of the Appalachians from Nova Scotia south to Florida, west across the Gulf Coast to Texas"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"warm water fish",
+		"shallow"
+		
+	]
+}

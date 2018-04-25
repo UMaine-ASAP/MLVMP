@@ -1,0 +1,59 @@
+{
+	"name":"Metaphyton",
+	"scientific name":"Oedogonium, Spirogyra, Zygnema",
+	"pictures":
+	[
+		"metaphyton1.jpg",
+		"metaphyton2.jpg",
+		"metaphyton3.jpg",
+		"metaphyton4.jpg",
+		"metaphyton5.jpg"
+
+	],
+	"information":
+	{	
+		"Classification":
+		[
+			"Chlorophyta"
+		],
+
+		"Identifying Characteristics":
+		[	"Metaphyton is a term used to describe certain floating filamentous algal species that form cotton-candy-like \"clouds\" as they grow and aggregate among aquatic plants and debris in the shallow, sunlit portions of lakes and ponds",
+			"Wind-induced water movements play a role in aggregating the floating algae, and forming it into cloud-like masses.",
+			"Generally semi-transparent, green or greenish/yellow in color; has a filamentous or stringy texture when removed from the water",
+			"Colonies vary widely in size; may be attached to aquatic plants or debris, floating, or resting on the bottom",
+			"Zygnema filaments are generally free‐floating; Oedogonium can be free‐floating but also attached to substrate.",
+			"Some metaphyton-forming algae will also form dense mats"
+		],
+
+		"Biology":
+		[	"Tend to bloom and become most noticeable as the water in shallow areas warms during late summer",
+			"Reproduction is asexual, by vegetative cell division",
+			"Numerous factors affect metaphyton growth including: dissolved organic carbon, pH, sunlight, water temperature, nutrient inputs from the watershed, etc.",
+			"As algae begins to decompose, clouds may float to the surface, forming large greenish bubbling masses",
+			"Metaphyton clouds provide food and shelter for invertebrates, tadpoles, and small fish; Look for their tunnels!"
+		],
+
+		"Habitat":
+		[	"Lakes, ponds, wetlands",
+			"Low water flow areas"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+			
+		],
+
+		"Range":
+		[	"Worldwide"
+		]
+	},
+	"tags":
+	[
+		"flora",
+		"algae",
+		"cotton-candy or cloud-like algae",
+		"shallow"
+	]
+}

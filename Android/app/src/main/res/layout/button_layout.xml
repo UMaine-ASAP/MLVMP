@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    style="@style/category_container"
+    android:layout_width="match_parent"
+    android:gravity="center_horizontal">
+    <LinearLayout
+        style="@style/category_container"
+        android:onClick="advanceSearch"
+        android:clickable="true">
+
+        <ImageView
+            style="@style/category_image_regular"
+            android:id="@+id/image"
+            />
+        <Button
+            style="@style/category_button_regular"
+            android:id="@+id/button">
+        </Button>
+    </LinearLayout>
+    <Button
+        style="@style/shadow_regular"/>
+
+</LinearLayout>

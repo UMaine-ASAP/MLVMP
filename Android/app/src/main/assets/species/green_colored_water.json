@@ -1,0 +1,40 @@
+{
+	"name":"Green Colored Water",
+	"pictures":
+	[
+		"green_water1.jpg",
+		"green_water2.jpg",
+		"green_water3.jpg",
+		"green_water4.jpg"
+
+	],
+	"information":
+	{	
+		
+		"Details":
+		[	
+			"Lakes with distinctly green color are likely to have high concentrations of chlorophyll-containing algae which imparts the green color.  Green lakes are often eutrophic (rich in nutrients and biologically productive), and may be more prone to algal blooms than other types of lakes.",
+			"The cumulative effect of activities in a lake watershed, such as farming, soil erosion, or septic system failure can increase the green color of lakes through nutrient inputs, which stimulate the growth of algae.",
+			"The high productivity of green lakes may enable them to support more fish for a time, but beyond a certain stage, increased algal growth and declining water quality may lead to decreased dissolved oxygen in the lake.  When oxygen levels drop too low, fish and other aquatic organisms may be negatively impacted."
+
+		],
+
+		"Commonly Seen":
+		[	
+		
+			"Surface",
+			"Midwater - Shallow",
+			"Midwater - Deep"
+									
+		]
+		
+		
+	},
+	"tags":
+	[
+		"other aquatic curiosities",
+		"surface",
+		"shallow",
+		"deep"
+	]
+}

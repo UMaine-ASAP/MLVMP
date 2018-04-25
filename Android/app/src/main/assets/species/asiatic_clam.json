@@ -1,0 +1,68 @@
+{
+	"name":"Asiatic Clam",
+	"scientific name":"Corbicula fluminea",
+	"pictures":
+	[
+		"asiatic_clam1.jpg"
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Corbiculidae"
+		],
+		"Invasive":
+		[
+
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Outside shell is brown-yellow-green in color and has concentric rings",       
+			"The shell color can flake off and leave white spots",      
+			"The inner shell is light purple", 
+			"Size: Juveniles (veligers) are 1mm long when they are discharged, they are about 1cm after one to four years when they reach maturity, adults can be up to 4 or 5cm long"
+
+		],
+
+		"Biology":
+		[	
+			"Males and females are normally distinct (hermaphrodites exist and are capable of self fertilization)", 
+			"Veligers are discharged from the gills of the parent to begin life as juveniles on the bottom sediments", 
+			"Under ideal conditions a single clam can release hundreds or even thousands of baby clams a day, up to 70,000 a year"
+		],
+
+		"Diet":
+		[
+			"Filter feeding plankton in large quantities"	
+
+		],
+
+		"Habitat":
+		[
+			"Sandy lake bottoms in large, dense colonies",       
+			"Moving freshwater bodies with high oxygen levels",      
+			"Little to no temperature fluctuations"
+		],
+
+		"Commonly Seen":
+		[	"Bottom"
+			
+		],
+
+		"Range":
+		[	
+			"Native: Russia, Thailand, thee Philippines, China, Taiwan, Korea, Japan, parts of Africa",      
+			"Invasive: United States, South and Central America"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"mollusks",
+		"bivalves",
+		"bottom"
+		
+	]
+}

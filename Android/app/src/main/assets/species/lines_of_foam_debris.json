@@ -1,0 +1,31 @@
+{
+	"name":"Lines of Foam/Debris",
+	"pictures":
+	[
+		"lines_of_foam1.jpg",
+		"lines_of_foam2.jpg"
+
+	],
+	"information":
+	{	
+		
+		"Details":
+		[	
+			"Long white streaks of foam that form on the surface of lakes during significant wind events.  The streaks, which run roughly in the same direction as the wind, are caused by spinning tube-like currents called \"Langmuir currents.\"",
+			"The physics behind Langmuir currents is complex, but they are basically the result of friction acting upon the water as it is pushed along by the wind at the surface.  The water at the surface moves faster than the water (slowed by friction) below it.  This velocity gradient establishes the conditions for the spinning tube-like currents.",
+			"Adjacent currents spin in opposite directions.  Where two upwelling currents converge at the surface, particulate matter in the water (plant debris, zooplankton, etc.) and natural lake foam are trapped at the interface, resulting in rows of relatively straight, foamy lines.",
+			"In addition to the very noticeable visual effect of Langmuir currents, they play an important role in the circulation of heat (water temperature), algae and zooplankton in the surface layer (epilimnion) of thermally-stratified lakes.",
+			"Langmuir currents are just one of several types of currents that form in lakes."
+		],
+
+		"Commonly Seen":
+		[	
+			"Surface"							
+		]		
+	},
+	"tags":
+	[
+		"other aquatic curiosities",
+		"surface"
+	]
+}

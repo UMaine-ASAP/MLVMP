@@ -1,0 +1,79 @@
+{
+	"name":"Zebra Mussel",
+	"scientific name":"Dreissena polymorpha",
+	"pictures":
+	[
+		"zebra_mussel1.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Dreissenidae"
+		],
+		"Invasive":
+		[
+
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Typically a pattern of dark and light stripes on outer shell",
+			"Outer shell can sometimes be one color (either dark or light) with no very little striping",      
+			"Shells are D-shaped",     
+			"Attach strongly to substrates with byssal threads", 
+			"Stable on flattened underside (quagga mussels are lacking a flat underside and will fall over)",
+			"Size: Adults can range from the size of a fingernail to around 50mm long—are much smaller than quagga mussels"
+		],
+
+		"Biology":
+		[	
+			"Life is usually about 4-5 years long",     
+			"Female mussels begin reproducing within 6-7 weeks of settling",
+			"Adult female zebra mussels can produce 30,000 to 40,000 eggs in each reproductive cycle—over 1 million each year",
+			"Veligers drift in the water for several weeks and then settle onto any hard surface they can find",
+			"Mussels can tolerate a wide range of environmental conditions and adults can even survive out of water for about 7 days"
+		],
+
+		"Diet":
+		[
+			"Remove suspended particulates from the water column through filter feeding"
+
+		],
+
+		"Habitat":
+		[	
+			"Attach to any stable substrate in the water column or benthos: rock, macrophytes, artificial surfaces, crayfish, other clams, and each other, forming dense colonies",   
+			 "In areas where hard substrates are lacking, such as a mud or sand, zebra mussels cluster on any hard surface available",    
+			 "Mussels have acclimated to temperatures ranging from 3 degrees Celsius to 35 degrees Celsius—with the optimal temperature for releasing eggs to be about 17 degrees Celsius",      
+			"Outcompete native species and can completely drive them out"
+
+		],
+
+
+		"Look-Alikes":
+		[
+			"Quagga Mussel"
+		],
+
+		"Commonly Seen":
+		[	"Bottom"
+			
+		],
+
+		"Range":
+		[	
+			"Native: Black, Caspian, and Azov Seas", 
+      		"Invasive: Western Europe, United States—Alabama, Arkansas, Illinois, Indiana, Iowa, Kentucky, Louisiana, Michigan, Minnesota, Mississippi, Missouri, New York, Ohio, Oklahoma, Pennsylvania, Tennessee, Utah, Vermont, West Virginia, Wisconsin, Connecticut, Nebraska, South Dakota, California, Colorado, Texas, Massachusetts, North Dakota, Canada"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"mollusks",
+		"bivalves",
+		"bottom"
+		
+	]
+}

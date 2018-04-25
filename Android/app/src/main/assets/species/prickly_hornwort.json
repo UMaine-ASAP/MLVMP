@@ -1,0 +1,62 @@
+{
+    "name":"Prickly Hornwort",
+    "scientific name":"Ceratophyllum echinatum",
+    "pictures":
+    [
+     "spiny_hornwort1.jpg",
+     "spiny_hornwort2.jpg",
+     "spiny_hornwort3.jpg"
+     ],
+    "information":
+    {
+        "Family":
+        [
+         "Ceratophyllaceae"
+         ],
+        
+        "Identifying Characteristics":
+        [ "Submersed, free-floating aquatic plant",
+         "Stems: branching",
+         "Leaves: fork-divided three or more times, thread-like, round in cross-section, , whorls of 5-12, relatively stiff even out of water, smooth margins",
+         "Flowers: June-September, minute in leaf axils",
+         "Fruits/Seeds: prickly fruits on female plants only, several spines of various lengths along margin, rough surface",
+         "Other: no roots"
+         ],
+        "Biology":
+        [ "Dioecious, evergreen, perennial",
+         "Primary reproduction: fragmentation",
+         "Reproduction by seed (rare)"
+         ],
+        "Habitat":
+        [ "Submersed community",
+         "Lakes, ponds",
+         "Tolerates cool temperatures and low light"
+         ],
+        "Look Alikes":
+        [
+         "Bladderworts",
+         "Coontail",
+         "Fanwort",
+         "Leafy Watermilfoils",
+         "Water Crowfoots",
+         "Water Marigold"
+         ],
+        "Commonly Seen":
+        [ 
+         "Midwater - Shallow",
+         "Midwater - Deep"
+         ],
+        "Range":
+        [ "Native Range: Maine, New England, United States"
+         ]
+    },
+    "tags":
+    [
+     "flora",
+     "vascular aquatic plants",
+     "plants with finely-divided leaves on stems",
+     "fork or branch divided leaves",
+     "shallow",
+     "deep"
+     ]
+}

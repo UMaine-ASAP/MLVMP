@@ -1,0 +1,74 @@
+{
+	"name":"Freshwater Sponge",
+	"pictures":
+	[
+		"freshwater_sponge1.jpg",
+		"freshwater_sponge2.jpg",
+		"freshwater_sponge3.jpg",
+		"freshwater_sponge4.jpg",
+		"freshwater_sponge5.jpg",
+		"freshwater_sponge6.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Spongillidae"
+		],
+		
+		
+		"Identifying Characteristics":
+		[	
+			"Approximately 30 species of freshwater sponges in North America",
+			"Sponges are unique multicellular aquatic animals, lacking muscular tissue, a central nervous system, and internal organs.  Lacking the differentiation of tissue found in most animals, individual sponge cells segregate to perform specific roles related to feeding, reproduction, etc.",
+			"Sponge shapes vary widely; may appear as flattened \"paint-splats\", soft mounds, coating on submersed branches, or intricate coral-like structures.",
+			"Bright green to brownish in color",
+			"Distinct unpleasant odor"
+
+
+		],
+
+		"Biology":
+		[	
+			"Most sponges reproduce sexually and are generally hermaphroditic, having male and female germ cells in one animal.  Asexual reproduction also occurs; having the ability to regenerate from a small fragment, freshwater sponges can multiply when fractured by disturbance",
+			"Microscopic larvae are released into the water, and are free swimming for a short period before descending to a surface where they attach and metamorphose into young sponges.  Once a attached, they become sessile (fixed in one place; immobile)",
+			"Sponges are filter feeders. Water is taken in through numerous microscopic pores on the internal channels allows the sponge to filter out, and feed upon, the tiny free-floating aquatic organisms in the water, such as protozoans and bacteria",
+			"When exposed to excess cold or other harsh conditions, sponges form hardy bud-like structures called gemmules, which can survive in a dormant state.  When conditions improve, the gemmules metamorphose into a new sponge."
+
+
+		],
+
+	
+		"Habitat":
+		[	
+			"Submersed on rocks, plant stems, pieces of wood, and other firm substrates",
+			"Lakes and ponds ",
+			"Rivers and streams"
+
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater",
+			"Littoral"
+			
+		],
+		"Range":
+		[
+			"Worldwide"
+		]
+
+		
+	},
+	"tags":
+	[
+		"fauna",
+		"other aquatic fauna",
+		"shallow",
+		"deep"
+		
+		
+	]
+}

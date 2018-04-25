@@ -1,0 +1,91 @@
+{
+    "name":"Eastern Elliptio",
+    "scientific name":"Elliptio complanata",
+    "pictures":
+    [
+     "eastern_elliptio1.jpg",
+     "eastern_elliptio2.jpg",
+     "eastern_elliptio3.jpg",
+     "eastern_elliptio4.jpg",
+     "eastern_elliptio5.jpg",
+     "eastern_elliptio6.jpg",
+     "eastern_elliptio7.jpg"
+     ],
+    "information":
+    {
+        "Family":
+        [
+         "Unionidae"
+         ],
+        
+        
+        
+        "Identifying Characteristics":
+        [
+         "Shell thin to thick; shape is highly variable: oval, trapezoidal, rectangular",
+         "Two halves of the shell are typically laterally compressed (shell somewhat flattened in cross-section)",
+         "Shell color is tan to brownish in juveniles and olive green, dark brown or black in adults; ray-like markings may occur on the fibrous outer lining of the shell",
+         "Shell lining is iridescent purplish to rose-colored in fresh specimens, chalky white in older specimens",
+         "The mantle (fleshy lining of the shell that encloses the body of the mussel) is gray, white or reddish",
+         "Foot is white",
+         "Size: medium-sized to large (up to 13 cm long)"
+         
+         ],
+        
+        "Biology":
+        [
+         "An individual can live up to 100 years",
+         "Dioecious – both male and female individuals occur",
+         "Males release sperm into the water which females capture in their gills",
+         "Embryos develop into bivalve larvae (glochidia) in a pouch (marsupium) within the female’s gills",
+         "Eastern elliptio is a ‘short-term brooder’ meaning that fertilization takes place in early spring; glochidia released later in the summer",
+         "When environmental conditions are optimum, females release the glochidia into the water column where they must quickly encounter and attach to their fish host in order to survive; chances for successful attachment to a suitable host are slim",
+         "Once attached to host, glochidia become encysted, and receive nutrients from the host",
+         "The parasitic stage lasts from 6 to 160 days depending on species and environmental conditions, especially water temperature",
+         "As glochidia mature into a juvenile mussels, they drop from the host, burrow into the sediments and begin their its bottom dwelling (benthic) existence",
+         "Confirmed hosts for eastern elliptio include yellow perch and largemouth bass; other host species are assumed given the widespread distribution of this species"
+         
+         ],
+        
+        "Diet":
+        [
+         "Inhales water through exposed siphons, filtering out and feeding on suspended particles including plankton, organic, and inorganic material"
+         
+         ],
+        
+        "Habitat":
+        [
+         "Found in a wide variety of habitats: small streams, large rivers, freshwater tidal waters (such as the lower Kennebec), all types of lakes and ponds",
+         "Widely adapted to a variety of substrates: clay, mud, sand, gravel, and cobble bottoms",
+         "Often abundant in lake and pond habitats, and may be seen partially buried in sand, gravel, and cobble substrates in water depths up to 9 meters",
+         "Less suitable habitats include unconsolidated silt bottoms such as found in deeper portions of lakes, and rocky bottoms of high-gradient mountain streams",
+         "Widespread distribution suggests that this species has a wide environmental tolerance and the capacity to readily colonize new habitats"
+         
+         ],
+        "Look-Alikes":
+        [
+         "Eastern Pearlshel",
+         "Eastern Lampmussel",
+         "Creeper"
+         
+         ],
+        "Commonly Seen":
+        [	"Bottom"
+         
+         ],
+        
+        "Range":
+        [
+         "United States: Widely distributed in eastern US from Georgia north to the St. Lawrence River basin, and west to Lake Superior and parts of the Hudson Bay basin",
+         "Maine: Occurs in all Maine counties, in every major watershed, and in nearly every river and lake in the state. Maine is home to 10 mussel species; eastern elliptio is by far the most common, and most widely-distributed mussel in the state"
+         ]
+    },
+    "tags":
+    [
+     "fauna",
+     "mollusks",
+     "bivalves",
+     "bottom"
+     
+     ]
+}

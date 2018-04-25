@@ -1,0 +1,78 @@
+{
+	"name":"Golden Shiner",
+	"scientific name":"Notemigonus crysoleucas",
+	"pictures":
+	[
+		"golden_shiner1.jpg",
+		"golden_shiner2.jpg",
+		"golden_shiner3.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Cyprinidae"
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Small, deep-bodied minnow",
+			"Distinctive golden color",
+			"Scaleless, fleshy keel running along the midline of the abdomen to pelvic fins",
+			"Taxinomically identical to invasive Rudd. A key distinction between these two minnows is the phyangeal teeth",
+			"Rudd has two rows of phyrangeal teeth – 3 inner and 6 outer teeth",
+			"Golden Shiner has one row of phyrangeal teeth – 5 outer teeth",
+			"Another distinction is size: Golden Shiners rarely exceed 10 inches in length; Rudd may grow to twice that length"
+		],
+
+		"Biology":
+		[	
+			"Spawn May to August",
+			"Live up to 9 years",
+			"Swim in schools",
+			"Common bait fish"
+
+		],
+
+		"Diet":
+		[
+			"Surface insects",
+			"Mid-water plankton"
+		],
+
+		"Habitat":
+		[	"Vegetated waters",
+			"Lakes, ponds",
+			"Large, slow-flowing streams or rivers"
+
+		],
+		"Look-Alikes":
+		[
+			"White perch",
+			"Alewife",
+			"Rudd",
+			"Goldfish"
+
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow"
+		],
+
+		"Range":
+		[	
+			"Native Range: eastern North America",
+			"Introduced Range: western North America"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"fish",
+		"warm water fish",
+		"shallow"
+		
+	]
+}

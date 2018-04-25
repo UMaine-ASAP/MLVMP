@@ -1,0 +1,69 @@
+{
+	"name":"Rusty Crayfish",
+	"scientific name":"Orconectes rusticus",
+	"pictures":
+	[
+		"rusty_crayfish1.jpg",
+		"rusty_crayfish2.jpg",
+		"rusty_crayfish3.jpg"
+
+	],
+	"information":
+	{	
+		"Family":
+		[
+			"Cambaridae"
+		],
+		"Invasive":
+		[
+		],
+		
+		"Identifying Characteristics":
+		[	
+			"Brown cephalothorax and abdomen",
+			"Claws with dark black bands near tip and then a red tip (distinct from O. virilis), light greenish legs ",
+			"Prominent rusty spots on each side of carapace in some populations"
+		],
+
+		"Biology":
+		[	
+			"Breeding in fall",
+			"Eggs laid in spring"
+		],
+
+		"Diet":
+		[
+			"Live and decaying vegetation",
+			"Insect larvae",
+			"Small fishes",
+			"Dead animal matter"
+		],
+
+		"Habitat":
+		[	
+			"Prefers areas with rocks, logs, or other debris as cover",
+			"Lakes, ponds",
+			"Stream, rivers",
+			"Slower, deeper pools as well as shallow fast water areas of streams"
+		],
+
+		"Commonly Seen":
+		[	
+			"Midwater - Shallow",
+			"Lake bottom"
+		],
+
+		"Range":
+		[	
+			"Native Range: Ohio, Tennessee"
+		]
+	},
+	"tags":
+	[
+		"fauna",
+		"crustaceans",
+		"crayfish",
+		"shallow",
+		"bottom"
+	]
+}
