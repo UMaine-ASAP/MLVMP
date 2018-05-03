@@ -1,6 +1,8 @@
-package com.asap.phenom;
+package com.asap.phenom.Core;
 
-
+import com.asap.phenom.R;
+import com.asap.phenom.Location;
+import com.asap.phenom.Identify.Identify;
 import android.content.Context;
 import android.content.Intent;
 import android.content.SharedPreferences;
@@ -12,7 +14,7 @@ import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
 import android.preference.PreferenceManager;
 import android.support.v4.view.ViewPager;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -32,7 +34,7 @@ import android.widget.TextView;
 import java.util.ArrayList;
 
 
-public class MainActivity extends ActionBarActivity
+public class MainActivity extends AppCompatActivity
 {
     SharedPreferences mreferences;
     final String tutorialShownPreferences = "tutorialShown";
@@ -251,7 +253,7 @@ public class MainActivity extends ActionBarActivity
     }
     public void toLocation(View view)                                           //Navigates to Location page
     {
-        Intent intent = new Intent(this,Location.class);
+        Intent intent = new Intent(this, Location.class);
         startActivity(intent);
         overridePendingTransition(R.anim.slide_in_right,R.anim.slide_out_left);
 

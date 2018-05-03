@@ -26,7 +26,7 @@ public class NotePagerAdapter extends PagerAdapter
 
     Context context;
     LayoutInflater inflater;
-    String tag;
+    public String tag;
 
     public NotePagerAdapter(Context context, boolean fromMainPage) {
         this.context = context;

@@ -1,4 +1,6 @@
-package com.asap.phenom;
+package com.asap.phenom.Identify;
+
+import com.asap.phenom.*;
 
 import android.app.ActionBar;
 import android.content.Context;

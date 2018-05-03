@@ -1,5 +1,6 @@
-package com.asap.phenom;
+package com.asap.phenom.Core;
 
+import com.asap.phenom.R;
 import android.content.Context;
 import android.content.res.Configuration;
 import android.content.res.Resources;

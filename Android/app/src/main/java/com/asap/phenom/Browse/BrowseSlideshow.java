@@ -1,10 +1,12 @@
-package com.asap.phenom;
+package com.asap.phenom.Browse;
 
+import com.asap.phenom.*;
+import com.asap.phenom.Core.MainActivity;
 
 import android.content.Intent;
 import android.graphics.Color;
 import android.support.v4.view.ViewPager;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 
 import android.view.Menu;
@@ -25,7 +27,7 @@ import java.util.ArrayList;
  *
  * This class governs the page for the Browse Slideshow of species pictures
  */
-public class BrowseSlideshow extends ActionBarActivity
+public class BrowseSlideshow extends AppCompatActivity
 {   private BrowseSlideshowPagerAdapter adapter;                                                //Reference to Pager Adapter
     private ArrayList<Species> species;                                                         //List of species
     private ArrayList<String> photos;                                                           //List of all photo names from all species

@@ -1,13 +1,16 @@
-package com.asap.phenom;
+package com.asap.phenom.Identify;
 
+import com.asap.phenom.*;
+import com.asap.phenom.Core.MainActivity;
+import com.asap.phenom.Browse.Browse;
 
 import android.content.Context;
 import android.content.Intent;
 import android.content.res.AssetManager;
 import android.os.Handler;
 import android.support.v4.view.ViewPager;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
+import android.support.v7.app.AppCompatActivity;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.Menu;
@@ -39,7 +42,7 @@ import java.util.Stack;
 
 
 
-public class Identify extends ActionBarActivity
+public class Identify extends AppCompatActivity
 {
     protected volatile static ArrayList<String> path;                                   //List containing all currently selected category tags
     protected volatile boolean matchesFilled = false;                                   //Is true if the matches list has filled at least once
@@ -588,12 +591,5 @@ public class Identify extends ActionBarActivity
                     matches.addAll(mismatches.pop());
             }
         }
-    }
-}
-class OrderComparator implements Comparator<Species>
-{
-    public int compare (Species s1, Species s2)
-    {
-        return s1.getOrder() - s2.getOrder();
     }
 }

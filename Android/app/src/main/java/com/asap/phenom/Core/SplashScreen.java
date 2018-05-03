@@ -1,10 +1,11 @@
-package com.asap.phenom;
+package com.asap.phenom.Core;
 
+import com.asap.phenom.R;
 import android.content.Intent;
 import android.content.SharedPreferences;
 import android.content.res.Configuration;
 import android.preference.PreferenceManager;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -15,7 +16,7 @@ import android.widget.ImageView;
 import android.widget.TextView;
 
 
-public class SplashScreen extends ActionBarActivity {
+public class SplashScreen extends AppCompatActivity {
     final String tutorialShownPreferences = "tutorialShown";
     SharedPreferences mreferences;
     @Override

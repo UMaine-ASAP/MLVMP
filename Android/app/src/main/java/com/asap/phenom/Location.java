@@ -7,7 +7,7 @@ import android.content.res.Resources;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
 import android.graphics.drawable.BitmapDrawable;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -17,10 +17,13 @@ import android.widget.ImageButton;
 import android.widget.ImageView;
 import android.widget.TextView;
 
+import com.asap.phenom.Core.MainActivity;
+import com.asap.phenom.Identify.Identify;
+
 import java.util.ArrayList;
 
 
-public class Location extends ActionBarActivity {
+public class Location extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

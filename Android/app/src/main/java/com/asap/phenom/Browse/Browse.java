@@ -1,8 +1,12 @@
-package com.asap.phenom;
+package com.asap.phenom.Browse;
+
+import com.asap.phenom.*;
+import com.asap.phenom.Core.MainActivity;
+import com.asap.phenom.Identify.OrderComparator;
 
 import android.content.Intent;
 import android.graphics.drawable.BitmapDrawable;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -18,7 +22,7 @@ import java.util.Comparator;
 /*  This class controls the Browse page of the app. BrowseListAdapter governs the ListView on this page
 
  */
-public class Browse extends ActionBarActivity
+public class Browse extends AppCompatActivity
 {
     private ArrayList<Species> species;                                                     //Holds list of species that are displayed
     private BrowseListAdapter adapter;                                                      //Holds reference to list adapter

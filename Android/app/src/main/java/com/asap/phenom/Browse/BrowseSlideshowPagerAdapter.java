@@ -1,5 +1,6 @@
-package com.asap.phenom;
+package com.asap.phenom.Browse;
 
+import com.asap.phenom.*;
 
 import android.content.Context;
 import android.graphics.Bitmap;

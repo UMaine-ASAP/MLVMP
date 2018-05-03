@@ -1,7 +1,8 @@
-package com.asap.phenom;
+package com.asap.phenom.Core;
 
+import com.asap.phenom.R;
 import android.content.Intent;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -13,7 +14,7 @@ import android.widget.TextView;
     Information about MVLMP and this app is displayed here
  */
 
-public class AboutActivity extends ActionBarActivity
+public class AboutActivity extends AppCompatActivity
 {
 
     @Override
@@ -72,7 +73,7 @@ public class AboutActivity extends ActionBarActivity
     }
     public void toHelp()
     {
-        Intent intent = new Intent(this, HelpActivity.class);
+        Intent intent = new Intent(this, MainActivity.class);
         startActivity(intent);
         overridePendingTransition(R.anim.slide_in_right,R.anim.slide_out_left);
     }

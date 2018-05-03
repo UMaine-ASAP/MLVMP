@@ -9,7 +9,7 @@ import android.graphics.BitmapFactory;
 import android.graphics.Color;
 import android.graphics.Typeface;
 import android.graphics.drawable.BitmapDrawable;
-import android.support.v7.app.ActionBarActivity;
+import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Gravity;
 import android.view.Menu;
@@ -22,13 +22,16 @@ import android.widget.LinearLayout;
 import android.widget.RadioGroup.LayoutParams;
 import android.widget.TextView;
 
+import com.asap.phenom.Core.MainActivity;
+import com.asap.phenom.Identify.IdentifySlideshow;
+
 import java.util.ArrayList;
 import java.util.List;
 
 /*  This class displays data for a species and links to a slideshow of pictures of it
 
  */
-public class Data extends ActionBarActivity
+public class Data extends AppCompatActivity
 {
     public ArrayList photos;                                                         //Array of pictures for species
     @Override
@@ -250,7 +253,7 @@ public class Data extends ActionBarActivity
 
     public void toSlideshow(View v)                             //Goes to slideshow of species' pictures
     {
-        Intent intent = new Intent(this,IdentifySlideshow.class);
+        Intent intent = new Intent(this, IdentifySlideshow.class);
         TextView title = (TextView) findViewById(R.id.action_bar_text);
         String category = title.getText().toString();
         intent.putStringArrayListExtra("photos", photos);

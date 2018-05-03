@@ -1,12 +1,14 @@
-package com.asap.phenom;
+package com.asap.phenom.Identify;
 
+import com.asap.phenom.*;
+import com.asap.phenom.Core.MainActivity;
 
 import android.content.Intent;
 import android.graphics.Color;
 import android.support.v4.view.ViewPager;
-import android.support.v7.app.ActionBarActivity;
 import android.os.Bundle;
 
+import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.Menu;
 import android.view.MenuItem;
@@ -23,7 +25,7 @@ import java.util.ArrayList;
 /**
  * This class governs the slideshow view used in the search tree and on the data pages
  */
-public class IdentifySlideshow extends ActionBarActivity
+public class IdentifySlideshow extends AppCompatActivity
 {
     @Override
     protected void onCreate(Bundle savedInstanceState) {
